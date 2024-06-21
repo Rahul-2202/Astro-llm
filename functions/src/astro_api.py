@@ -34,7 +34,7 @@ def get_astrology_data(api_name, payload):
 
         headers = {
             'Content-Type': 'application/json',
-            'x-api-key': 'UjMRsNQJjU7Y5BTtLgcNG9oMfmMGCa5F4PfCNIPn'
+            'x-api-key': 'api-key'
         }
         response = requests.post(url, headers=headers, data=payload)
 

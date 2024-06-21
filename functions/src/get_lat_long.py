@@ -2,7 +2,7 @@ import requests
 from requests.structures import CaseInsensitiveDict
 
 def get_lat_long(place_of_birth):
-    url = f"https://api.geoapify.com/v1/geocode/search?text={place_of_birth}&apiKey=11c91073b57c4603adad540db8b0abf3"
+    url = f"https://api.geoapify.com/v1/geocode/search?text={place_of_birth}&apiKey=api-key"
     headers = CaseInsensitiveDict()
     headers["Accept"] = "application/json"
     response = requests.get(url, headers=headers)
