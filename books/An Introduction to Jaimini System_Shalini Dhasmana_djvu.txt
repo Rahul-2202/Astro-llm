@@ -1,0 +1,3447 @@
+An Introduction to 
+
+
+Jaimini System 
+
+
+By: 
+Shalini Dhasmana 
+
+
+Publisher. 
+All India Federation of Astrologers’ Societies® 
+
+
+oar WD 3 
+
+
+Contents 
+
+
+IMTOQLICHON, 2 2.2.226 22.2: fant geet ees ac eceua Geek 1 
+Jaimini System ataglance.............0..c ccc cece esteee need 3 
+WS Kar ASih sc cescecssethess cteses’ cuadiahanesstied etebertersteebdeweaene 6 
+NWNOWAQNAS: athe eee eek cae neh ane ee Ne a 10 
+The Aspects - Jaimini Drishti...........00 eects 14 
+Char. dasha). ociacien ational eit ae aed 17 
+
+
+Computation of char Dasha ~J__18 
+The Mahadasha order 
+
+
+Computation of Char Dasha = Ibo... ccceeceeeeeeeeees 23 
+The Antardasha Order 
+
+Computation of Char Dasha IL...........ceeecceeceeeeeeseeeeeeeeeees 27 
+Calculation of the dasha years 
+
+JaiMINI YOQAS........ eee eee ee eeteeeeeeeecteneeeesneeeeesnaeeetearerenaes 34 
+The Importance of Karkamsa........0.... cece eteeeteeetteeed Al 
+Results of the Rashi Dashas............0...0.:ccceceeceteteeeteeeee! 45 
+Some Critical Dashas.............0..:cccececeeceeeseeeteeeeteeeeneeeee! A7 
+Prediction by Jaimini..................00..cceeecececeeeeeeeeeeeteteeteeeees 50 
+Judgement of the Horoscope............00.000c cece 57 
+Predictive hints from Jatak Tatva........0.....0000.eeeee eee! 60 
+GIOSSANY 338 a etieek bsetebdeees hae binee tion a be ee 65 
+
+
+This book is dedicated to 
+All Students 
+
+
+of 
+
+
+Astrology 
+
+
+Acknowledgements 
+
+
+| am grateful to Shri K.N. Rao for Teaching me Jaimini Astrology and also for guiding 
+me in the composition of this book. This book is my tribute to him. 
+
+
+Col. A.K. Gaur has been extremely helpful and has given very valuable suggestions 
+and guidance for this book. 1 am indebted to him. 
+
+
+This book cannot be complete without my expressing my gratitude to my Vargottam 
+teacher Sh. M. S. Mehta, who has taught me how to do Astrology in a methodical and 
+positive way. 
+
+
+| am also grateful to Shri Arun Bansal and Smt. Abha Bansal for giving me an 
+oppurtunity to spread the knowledge of Astrology by teaching the students of A.I.RA.S. 
+
+
+- Shalini Dhasmana 
+Preface 
+
+
+Most Astrologers are reluctant to use Jaimini System because they are under the 
+impression that Jaimini is very difficult, and their fears are not totally unfounded. For this 
+reason | am making an attempt to simplify this system, especially for the students of "All 
+India federation of Astrologers’ Societies". If| am able to succeed in developing their interest 
+in Jaimini, | shall feel rewarded. 
+
+
+| will be mainly following the method developed by Shri K.N. Rao. At the same time, 
+! will also be including principles given in other famous treatises of Jaimini Astrology. As | 
+am just a child where Astrology is concerned, | am trying to avoid commenting on topics on 
+which there are controversies among the Astrologers. | am grateful to Shri Arun Bansal, 
+The President, and Smt Abha Bansal, The Treasurer, of All India federation of Astrologers 
+Societies for giving me this opportunity to contribute my drop in the ocean of Astrology. 
+
+
+Before starting this little book. | seek Blessings of my Divine Guru" Lord Dakshina 
+Moorti’, with whose grace | have learnt Astrology. 
+
+
+Dated 24.7.2002 
+'Guru Poornima’ 
+
+
+Shalini Dhasmana 
+
+
+Introduction 
+
+
+Second to 'PARASHAR; JAIMINI' is the greatest giant of Vedic Astrology. Parashar 
+laid down the great principles of Vedic Astrology, while Jaimini went a step further and 
+refined them. 
+
+
+"JAIMINI UPDESH SUTRAS" were composed by Maharishi Jaimini. "SUTRAS" are 
+very short sanskrit Stanzas with very vast and profound meaning. They are like a ball of 
+thread. The more they are opened out, the more meaning they reveal, and they are so brief 
+that they can even be memorised. Who was Jaimini Maharishi? No one knows for sure! 
+Some learned men think that he was a disciple of the famous Maharishi Ved Vyas, who 
+was Parashar's son. They also feel that he is the famous author of 'Poorva Mimansa’ and 
+Vaimini Bharat’. Others feel that he is a later author who was very familiar with mantras. 
+Who ever he was! his genius is reflected in the sutras he composed. These sutras are 
+probably five thousand years old. They have stood the. test of time and time has turned 
+them into beautiful Gems of prediction. The centuries have proved their authenticity and 
+soundness. These sutras are 936 in number, spread over four Adhyayas. 
+
+
+The Greatest principle of Jaimini System is that the Study of Lagna is not enough. 
+Apart from, Studying the horoscope from the regular Lagna, Moon and Sun; one must study 
+it in the light of karkamsa Lagna, Arudha, upapada, Hora lagna and the different karkas. In 
+this way the personality of the Jatak is split up into its fundamentals and studied. 
+
+
+Next come the karkatvas of the planets and houses. Parashar allotted permanent 
+karkatvas to planets and houses. He also gave conditional karkatvas to the planets according 
+to their lordship over different houses. Jaimini made prediction simpler, sharper and quicker 
+by establishing limits of these karkatvas through the different char karaks. 
+
+
+Another striking feature of Jaimini is, the Jaimini Drishti or Aspects. Every student of 
+Astrology knows that both planets and Rashis affect us and yet we consider the aspects of 
+only the planets! What about the Rashis ? This factor was taken into account by Jaimini. He 
+established that the rashis also aspected each other and so the planets placed in them also 
+cast their Aspects along with their respective rashis. These aspects are quite different form 
+Parashari aspects. 
+
+
+Apart from these main features, Jaimini has its own Yogas, Argalas and dashas. 
+The most popular dasha for General use is Char dasha. Some of the other dashas as are 
+Sthir dasha, Mandook dasha, Trikona dasha, Nirayan shoola dasha, Brahma dasha, Varnada 
+dasha and Yogardha dasha. Some of them are conditional dashas while the others are 
+used for a specific purpose. We shall be confining ourselves to Char dasha only in this 
+book. 
+
+
+On the face of it, it many appear that Jaimini contradicts Parashar. This is only a 
+misconception. If studied in-depth, it becomes clear that Jaimini is only a refinement of 
+
+
+1 
+An Introduction to Jaimini System 
+
+
+Parashari principles. 
+
+
+Traditional Astrologers mostly use Jaimini for ‘Ayurdaya’ or assessment of longevity. 
+The time is ripe for us to make an effort to revive this great system. So that it can be used 
+for the entire reading of the horoscope and for bringing fineness or 'sookshmta' in prediction. 
+
+
+The main purpose behind introducing Jaimini Astrology is to encourage the use of 
+composite techniques of prediction. These have been adopted superbly by shri Mahadeva 
+Pathak in his Jatak Tatva.He has used Jaimini principles alongside the Parashari principles 
+to produce very good composite Techniques. 
+
+
+In the end 1 would like to point out that most of the Astrological classics stress more 
+on Negativity. As modem Astrologers we need to conduct researches to bring out the positive 
+aspects of these principles and to modify and update them. 
+
+
+2 An Introduction to Jaimini System 
+
+
+1. Jaimini System at a Glance 
+
+
+The structure of Jaimini has been briefly mentioned in the Introduction. Now | propose 
+to deal with the subject in a systematic manner so that it becomes easy to learn and 
+understand. 
+
+
+The Karkas 
+These are the special karkas governing the different portfolios of the Jatak's life. 
+
+
+The seven planets namely Sun, Moon, Mars, Mercury, Jupiter, Venus and Saturn 
+become the Seven char karaks, depending on their degrees in the descending order. 
+
+
+These are: 
+
+Atmakarak — - Highest Degree 
+Amatyakarak 
+
+Bharati Karak 
+
+Matri Karak 
+
+Putra Karak 
+
+Gnati Karak 
+
+
+Darakarak ss - Lowest Degree 
+
+
+Note: 
+
+1. The degrees are considered between 0° to 30°. The signs are not counted. 
+2. Rahu, Ketu are not normally included in the Karkas. « 
+
+The Lagnas 
+
+The different lagnas which become important are: 
+
+- Karkamsa lagna (K.L) 
+
+- Pada lagna (PL) (Arudha lagna) 
+
+- Upa-Pada Lagna(U.P) 
+
+- The Padas or Arudha for the twelve houses. 
+
+
+The karkamsa lagna and the pada lagna are the most important Lagnas and they 
+
+
+An Introduction to Jaimini System 3 
+
+
+are used for all important predictions. The karkamsa is the navamsa rashi of the 
+Atmakarak marked in the lagna chart (D-1). 
+
+
+The pada lagna is as many rashis ahead of lagna lord, as he is from lagna. 
+
+
+The method of computation of these lagnas with illustration and their Importance will be 
+explained subsequently. 
+
+
+THE ASPECTS (Drishti) 
+Jaimini aspects are somewhat different from Parashari aspects. 
+Parashari Aspects: 
+
+
+Parashari aspects are aspects of planets. Every planet aspects the seventh place 
+from where it is placed. Jupiter Aspects the fifth, seventh and ninth place from itself. Mars 
+aspects the fourth, Seventh and eighth place from itself and Saturn Aspects the third Seventh 
+and tenth place from itself. Rahu and Ketu are not supposed to have drishtis because they 
+are chaya grahas. They affect the axis in which they are placed. Some Astrologers consider 
+their aspects to be like Jupiter. 
+
+
+Jaimini Aspects 
+
+
+Jaimini claimed that Rashis (The groups of fixed stars) also have their aspects. (the 
+planets which are placed in them cast their aspects along with the Rashis in which they are 
+placed.) 
+
+
+1. All Char Rashis ie. Aries, Cancer, Libra and Capricorn aspect the Sthir Rashis i.e. 
+Taurus, Leo, Scorpio and Aquarius, except the ones next to themselves. 
+
+
+2. All Sthir Rashis aspect Char Rashis, except the one next to themselves. 
+
+
+3. All Dwiswabhava Rashis i.e. Gemini, Virgo, Sagittarius and Pisces aspect each other. 
+
+
+Char Dasha 
+
+
+In Jaimini System the dashas are Rashi based, and not nakshatra based, as in the 
+Parashari system. 
+
+
+Char dasha comprises of 12 Rashi dashas from Aries to Pisces. Each Mahadasha 
+again has 12 Antardashas of the 12 Rashis. Each Antardasha further has 12 
+Pratyantar dashas and so on. 
+
+
+Because char dasha is a short dasha, going down to pratyantar level can give fairly 
+close timing for evenis. 
+
+
+The dashas move either in DIRECT order i.e. - Aries, Taurus , Gemini, or in the 
+
+
+4 An Introduction to Jaimini System 
+
+
+INDIRECT order, i.e. Taurus- Aries, Pisces. The Antar and the Pratyantar dashas 
+more similarly. 
+
+
+The period or the duration of the dashas is not fixed. It ranges between 1 and 12 
+years. 
+
+
+- The order or the sequence of the dasha and the years of the dashas are decided 
+according to certain rules which will be explained and illustrated in the subsequent 
+chapters. 
+
+
+Yogas 
+Jaimini has many yogas of different types. These are Dhana yogas, Raja Yogas and 
+Arishta yogas, producing varied results. They are slightly different from the parashari yogas. 
+EXCERCISE 
+Q. 1. Which are the seven char karkas and what,do they signify? 
+Q.2. Which are the most important lagnas for Jaimini ? 
+Q.3. What is Karkamsa ? 
+Q.4. What is the difference between Parashari and Jaimini aspects ? 
+Q.5. Describe Char dasha briefly ? 
+
+
+An Introduction to Jaimini System 
+
+
+2. The Karkas 
+
+
+Karkas are the Significator planets for different areas of the Jatak's life. There are 
+two kinds of karkas. The Sthir karakas which are the permanent karkas and the Char karkas 
+which are the conditional karakas according to the horoscope. For Prediction we combine 
+both and then observe. 
+
+
+The Sthir Karakas 
+
+The stronger between Sun and Venus is for Father. ~ 
+
+. The Stronger between Moon and Venus is for mother. 
+
+. Mars is for younger brothers and sisters. 
+
+Mercury is for maternal and paternal uncles and Aunts. (Chacha chachi, mama mami) 
+Jupiter is for paternal Grand father( Dada). 
+
+Venus is for husband or wife. 
+
+Saturn is for sons. 
+
+
+Ketu is for Patemal and maternal female grand parents (Dadi, Nani). 
+
+
+© ON DAF WN = 
+
+
+Rahu is for Paternal and maternal male grandparents (Dada, Nana) 
+The Char Karkas 
+
+
+These are decided according to the degrees of the planets. For this purpose, the 
+Rashi is nat considered. The degree between 0° to 30° needs to be seen. 
+
+
+Atma Karak(A.k) - is the planet with the highest degree. 
+
+Amatya karak (Amk)- is the planet with the second highest degree. 
+Bhrati Karak (B.k) is the planet with the third highest degree. 
+Matrikarak (M.k)- is the planet who is the fourth in this order. 
+Putrakarak (P.k)- is the planet who is the next in this order. 
+
+Gnati Karak (G.k)- is the planet with the second lowest degree. 
+Dara Karak (D.k)- is the planet with the lowest degree. 
+
+
+If two or three planets in the horoscope are with the same degree, then we need to 
+differentiate between the karakas according to the minutes and seconds. 
+
+
+At this point one controversy needs do be mentioned. Some Astrologers favour the 
+
+
+An Introduction to Jaimini System 
+
+
+use of eight karkas instead of seven. They claim that there are eight karkas including 
+Pitrukarka. Rahu becomes the eighth planet to be considered. Most astrologers However, 
+favour the use of seven karkas. Parashar favours the use of combination of Char and Sthir 
+karak instead of eight Karkas. 
+
+
+Functions of the char karkas 
+Atmakarak 
+
+
+Atmakarak denotes SELF . He is equivalent to the lagna and the lagna lord. He is 
+very important in Jaimini. He also represents the matters relating to the first house of the 
+horoscope i.e. Health and constitution nature, general pattern of life and prosperity. 
+
+
+Amatyakarak 
+
+
+Amatyakarak shows the Jataks mind, Intellect, Financial and professional prospects 
+Amatya karak is extremely important for career and finance and second house matters. 
+
+
+Bhratikarak 
+
+
+Represents the parakram or the self efforts, co-born and the third house matters. 
+Sometimes bharati karak can even be seen for father. 
+
+
+See Mars + Bk for brothers, and Sun + Bk for Father. 
+Matrikarak 
+
+
+Represents mother and matters relating to fourth house, school education, home 
+vehicles and general happiness. 
+
+
+Putrakarak 
+
+
+Mainly represents children, education and the fifth house matters. He also becomes 
+important for profession because of the connection between education and profession. 
+
+
+Gnatikarak 
+
+
+Represents cousins, debts, diseases and enemies. It covers the sixth house matters 
+including the competitive spirit. 
+
+
+Darakarak 
+
+
+Darakarak mainly represents husband or wife and the seventh house matters. 
+
+
+An introduction to Jaimini System 7 
+
+
+The Karkas Lagna: 06°41" 
+
+
+Sun 09°40' 
+Example 1 am. > ee 
+Ra Mars 21°08" 
+DOB- 26.10.1947 K Mercury 28°11 
+
+
+Jupiter 07°29" 
+
+
+TOB- 20.00 Hrs. Is) Ve Venus 23°43' 
+POB- Chi A Saturn 28° 13° 
+; Chicago Pia ica Rahu 00°24" 
+ida Ketu 00°24" 
+
+
+Atmakarak (AK) -Satum Putra Karak(P.K.) Sun 
+Amatya Karak (Amk) Mercury Gnati Karak (G.K.) — Jupiter 
+Bhrati Karak (BK) Venus Dara Karak (D.K) Moon 
+Matri Karak (MK) Mars 
+
+
+Lagna:  29°42' 
+
+
+Sun 12°12' 
+Example 2 Moon 17°07' 
+Mars 01°52' 
+
+
+Mercury 29°58' 
+Jupiter = 23°27' 
+Venus 10°48" 
+Saturn 01°46" 
+
+
+DOB- 28.09.1929 
+TOB- 22.44 Hrs. 
+
+
+POB- Indore Rahu 49°56" 
+Ketu 19°56' 
+
+Atmakarak (AK) Mercury Putra Karak(P.K.) Venus 
+
+Amatya Karak (Amk) — Jupiter Gnati Karak (G.K.) = Mars 
+
+Bhrati Karak (BK) Moon Dara Karak (D.K) Saturn 
+
+Matri Karak (MK) Sun 
+
+
+8 An Introduction to Jaimini System 
+
+
+EXCERCISE 
+
+
+Q. 1. What is the difference between Char and Sthir Karakas ? 
+
+
+Q.2. 
+Q.3. 
+Q.4. 
+Q.5. 
+
+
+Make Char Karkas for your own horoscope ? 
+How can you see the father and brother both, from Bhratra karka ? 
+Which is the most important karka of the chart ? and why ? 
+
+
+On what basis will you decide the seven char karkas ? 
+
+
+An Introduction to Jaimini System 
+
+
+3. The Lagnas 
+
+
+The use of different lagnas for studying the different aspects of the Jatak's personality 
+is the greatest contribution of Jaimini Maharshi. 
+
+
+These lagnas are: 
+
+1. Karkamsa lagna. 
+
+Pada lagna or lagnarudha or Arudha lagna. 
+. Upapadalagna. 
+
+The padas for the 12 houses. 
+
+. Horalagna. 
+
+. Varnada lagna. 
+
+. Bhava lagna. 
+
+. Ghatika lagna. 
+
+
+oor A oO fF wD 
+
+
+. Nisheka lagna. 
+
+Of all these lagnas, the most important are: 
+
+1. Karkamsa lagna. 
+
+2. Pada lagna or lagnarudha or Arudha lagna. 
+
+3. Upapada lagna. 
+
+4. The padas forthe 12 houses. 
+
+Note - We will restrict ourselves to these lagnas in this book. 
+1. Karkamsa Lagna (Karkamsa) 
+
+
+Is the most important of the lagnas. It is equivalent to the Janma lagna. In this regard, 
+it becomes the starting point in Jaimini. 
+
+
+How is karkamsa Identified 
+
+STEPS 
+
+1. Note who is the Atmakarak. 
+
+2. In Navamsa see in which Rashi atmakarak is placed. 
+
+
+3. Mark that Rashi in the lagna Kundali. That will be the karkamsa lagna. 
+
+
+10 An Introduction to Jaimini System 
+
+
+That rashi in navamsa is called SWAMSA. (€aT3T) 
+Definition : Karkamsa is the navamsa Rashi of the Atmakarak in the lagna kundali. 
+2. Pada Lagna 
+
+
+Pada lagna or Lagnarudha or Arudha lagna, is the second most important lagna. 
+Whatever can be seen from Karkamsa can also be seen from Pada lagna. 
+
+
+How is Pada lagna Identified? 
+
+Steps 
+
+1. See how many house ahead of lagna is lagna lord placed. 
+
+2. Countthat many houses ahead of lagna lord. That will be Pada lagna. 
+
+
+Note- Counting will start from the house where lagna lord is placed, that house will 
+be counted as 1. 
+
+
+3. Upapada Lagna or Upapada 
+
+
+Up-pada lagna has its own importance. It is mainly seen for matters relating to 
+marriage. Itis also seen for a few other matters like children and Co-borns. 
+
+
+How is Upa Pada Identified? 
+
+Steps 
+
+1. See how many house ahead of 12th house is 12th lord placed. 
+
+2. Count that many houses ahead of 12th lord. That will be Upa Pada. 
+
+
+Note-Counting will start from the house where lagna lord is placed, that house will be 
+counted as‘. 
+
+
+4. Arudha Padas of The 12 Houses 
+
+
+These are calculated exactly like the Pada lagna and the up pada. These are arudha 
+for the 12 houses. 
+
+
+Arudha for- 
+
+1st house - Arudha lagna or Pada Lagna. 
+2nd house- Kosha Lagna 
+
+3rd House- Bhrati Lagna. 
+
+4th House- Sukha (Vahan) 
+
+
+5th House- Mantra 
+
+
+An Introduction to Jaimini System 11 
+
+
+6th House - Ripu 
+
+8th House-Mrityu 
+
+9th House - Bhagya 
+10th House - Rajya 
+11th House- Labha 
+12th House - Upa-pada. 
+
+
+Example 1 Example 1 
+The Laanas Arudha 
+
+
+1. Karkamsa (KL) 
+
+
+Atmakark is Saturn. In Navamsa he goes into Pisces Rashi, So Pisces becomes 
+the Karkamsa. 
+
+
+2. Pada Lagna (P.L) 
+
+Lagna lord Mercury is placed five houses ahead of the lagna. Five houses ahead of 
+mercury will be pada lagna. Five houses ahead of the lagna lord is Aquarius and so Aquarius 
+becomes Pada Lagna. 
+
+3. Upapada (U.P) 
+
+
+12th House lord Venus is placed 6 houses ahead of 12th house. Six houses ahead 
+of Venus is Pisces. So Pisces becomes Upa-Pada. 
+
+
+12 An Introduction to Jaimini System 
+
+
+4. The Padas 
+
+
+The Padas (Arudha) for all 12 houses are calculated like pada lagna and up- pada. 
+
+
+For example 1 and 2 these have been marked. 
+Example 2 
+
+
+The Lagnas 
+
+
+Where the remaining lagnas are concerned, they are for specific purposes. Read- 
+ers who are keen to learn about them can refer to more advanced books on Jaimini. 
+
+
+EXCERCISE 
+
+
+Q.1. (i) Howis Karkamsa identified ? 
+(ii) How is pada lagna identified ? 
+{iii) How is Upa-pada identified ? 
+
+
+Q.2. How are the Arudha Padas calculated for the complete horoscope ? 
+
+
+Q.3. Mark the three main lagnas in the following horoscope - 
+
+
+Q.4. Mark the twelve Arudha for this horoscope. 
+
+
+Q.5. What is the importance of Karkamsa, Pada lagna and Upa-Pada ? 
+
+
+An Introduction to Jaimini System 13 
+
+
+1. All char Rashis Aspect Sthir Rashis except the ones next to them. 
+Aries - Aspects- Leo- Sco- Aqu. 
+
+Cancer- Aspects - Sco- Aqu- Tau 
+
+Libra - Aspects - Aqu- Tau- Leo 
+
+Capricorn- Aspects- Tau - Leo - Sco. 
+
+2. All Sthir Rashis Aspect char Rashis except the ones next to them. 
+Taurus- Aspects - Cancer, Libra, Capricorn. 
+
+Leo - Aspects- Libra, Capricorn, Aries. 
+
+Scorpio - Aspects - Capricorn, Aries, Cancer 
+
+Aquarius - Aspects - Aries, Cancer, Libra 
+
+3. All Dwiswabhava Rashis Aspect each other. 
+
+Gemini - Aspects - Vir, Sag, Pisc. 
+
+Virgo - Aspects - Sag- Pisc- Gem. 
+
+Sagittarius- Aspects- Pisc. - Gem- Vir. 
+
+Pisces - Aspects- Gemini- Vir- Sag. 
+
+Example 1 
+
+
+These aspects give some indication as to how Analysis is done in Jaimini. 
+
+
+1. Pada lagna in Aquarius; is Aspected by 
+Cancer, Libra and Aries. Along with these 
+Rashis, five karkas namely Saturn- A.K. Mars- 
+MK, Mercury- Amk, Sun- PK and Venus- BK are 
+also Aspecting Pada lagna. A high Pada is 
+promised in the horoscope. 
+
+
+This Horoscope Belongs to Hillary clinton, wife 
+of Bill clinton. Surely, she got or very high pada 
+in her life. 
+
+
+An Introduction to Jaimini System 
+
+
+15 
+
+
+Q.1. 
+Q.2. 
+Q.3. 
+Q.4. 
+Q.5. 
+
+
+16 
+
+
+EXCERCISE 
+What is the difference between Parashari aspects and Jaimini aspects ? 
+How do the different Karkas aspect ? 
+How do char rashis aspect ? Illustrate. 
+How do sthir rashis aspect ? Illustrate. 
+
+
+How do Dwiswabhava rashis aspect ? Illustrate. 
+
+
+An Introduction to Jaimini System 
+
+
+5. Char Dasha 
+
+
+Jaimini Maharishi created many dashas. These dashas are dashas of the 12 Rashis 
+and not of the planets. These dashas are either conditional or specific. Conditional dasha 
+can be used when the horoscope fulfils certain conditions. Specific dashas are used for 
+some specific purpose. 
+
+
+Char Dasha is the most popular dasha of Jaimini. It can be used for general 
+predictions. It is a short dasha and its duration varies between 1 year and 12 years. Since 
+the Mahadasha is short, its Antardashas and pratyantar dashas are also very short. 
+Consequently an event can be timed with great accuracy. Another advantage of this dasha 
+is that, because it is a dasha of rashis and not of planets, one can successful apply it even 
+if the birthtime is slightly inaccurate. 
+
+
+The Dasha can move in two ways. Its sequence can be in the direct order or the 
+indirect order. Direct order is when the Dasha moves directly i.e. Aries Taurus, Gemini - 
+Anti clockwise. Indirect order is when the dasha moves. Indirectly. i.e. Taurus- Aries- 
+Pisces and so on-clockwise. The number of years for the dasha of each rashi are not fixed. 
+They have to be calculated according to a number of Rules. 
+
+
+Though there are many Dashas of Jaimini, Char Dasha and Sthir Dasha are very 
+important. Char Dasha and Trikona dasha help us to trace important events of the Jatak's 
+life. If navamsa dasha is also used simultaneously, the event can be traced even better. 
+Char dasha along with Niryan shoola Dasha helps in fixing longevity. 
+
+
+The whole aim behind introducing the readers to Jaimini system is to encourage the 
+use of composite Techniques in prediction. The Horoscope is first studied according to the 
+parashari principles and parashari dashas. The next step is to refine the prediction by 
+simultaneously using Jaimini principles and Jaimini dashas. When this technique is employed 
+it will noticed that the same event is visible by both the methods and the Astrologer becomes 
+very confident of his prediction. The Traditional Astrologers in whose families Jyotish was a 
+‘Parampara’ used these composite techniques and this is the main reason why they gave 
+very good predictions. 
+
+
+EXCERCISE 
+Q.1.__ What is the need to learn char dasha ? When Vimshottari dasha is so effective ? 
+Q.2. What are the advantages of using char dasha ? 
+Q3. What is the main difference between Vimshottari and char dasha ? 
+Q.4. How does Char dasha progress ? 
+Q.5. Which are some of the other dashas of Jaimini ? 
+
+
+Q.6. What are composite techniques of prediction ? 
+
+
+An Introduction to Jaimini System 17 
+
+
+6. Computation of Char Dasha-l 
+The Maha Dasha Order 
+
+
+What will be the Sequence (order) of Mahadashas from the Jatak's Birth? 
+The order of the Mahadashas will depend on the Rashi placed in the lagna. 
+Rule 1 
+
+
+Ifthe Rashi in lagna is Leo- Virgo- Libra- Aquarius- Pisces or Aries, then the Maha dasha 
+order will be Direct. 
+
+
+For Example : If the rashi in lagna is Leo, then the Mahadashas will more in Direct order. 
+Leo - Dasha at Birth 
+
+
+Virgo - 2nd Mahadasha 
+Libra - 8rd Mahadasha 
+Scorpio - 4th Mahadasha 
+Sagittarius - 5th Mahadasha 
+Capricorn - 6th Mahadasha 
+Aquarius - 7th Mahadasha 
+Pisces - 8th Mahadasha 
+Aries - 9th Mahadasha 
+Taurus - 10th Mahadasha 
+Gemini - 11th Mahadasha 
+Cancer - 12th Mahadasha 
+
+
+After Cancer the Second cycle will start again with Leo. 
+
+This method will be applicable also for Virgo, Libra, Aquarius, Pisces or Aries lagnas. 
+This can be summarized as: 
+
+If 5-6-7-11-12-1 Rashis are in Lagna the Mahadashas will move in DIRECT ORDER. 
+RULE -2 
+
+
+Ifthe Rashi in lagna is Taurus- Gemini- Cancer- Scorpio- Sagittarius or Capricorn 
+then the Mahadasha will more in an INDIRECT ORDER. 
+
+
+18 An Introduction to Jaimini System 
+
+
+For Example: 
+
+
+If the Rashi in lagna is Gemini- then for this Jatak, the order of Mahadashas will be 
+
+
+INDIRECT. 
+
+Gemini - 
+Taurus 2 
+Aries - 
+Pisces - 
+Aquarius Ss 
+Capricorn - 
+Sagittarius = - 
+Scorpio - 
+Libra - 
+Virgo = 
+Leo a 
+Cancer - 
+
+
+Dasha at Birth 
+2nd Mahadasha 
+3rd Mahadasha 
+4th Mahadasha 
+5th Mahadasha 
+6th Mahadasha 
+7th Mahadasha 
+8th Mahadasha 
+9th Mahadasha 
+10th Mahadasha 
+11th Mahadasha 
+12th Mahadasha 
+
+
+After Cancer dasha the Second cycle will start again from Gemini. 
+
+
+This method is also applicable for Taurus, Cancer, Scorpio, Sagittarius and Capricorn 
+Lagnas. This can be summarized as : 
+
+
+If 2-3-4-8-9-10 Rashis are in Lagna, the Mahadashas will move in INDIRECT ORDER 
+
+
+An Introduction to Jaimini System 19 
+
+
+: Table 1 
+Maha Dasha Order for Direct Lagna Group 
+
+
+Leo- Virgo- —_Libra- Aquarius- Pisces- Aries 
+5- 6- 7- 11- 12- 1 
+
+
+Antardashas 
+First 
+Second 
+Third 
+Fourth 
+Fifth 
+Sixth 
+Seventh 
+Eighth 
+Ninth 
+Tenth 
+Eleventh 
+Twelfth 
+
+
+= 
+ine) 
+
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+
+
+ODN Ooh wWD 
+
+
+— 
+(7) 
+ees 
+- © 
+
+
+Note - The numbers are the numbers of the Rashis. 
+
+
+20 ‘An Introduction to Jaimini System 
+
+
+Table 2 
+Maha Dasha Order for Indirect Lagna Group 
+
+
+Taurus- Gemini- Cancer- Scorpio- Sagittarius- Capricorn 
+2- 3- 4- 8 : 9- 10 
+
+
+Maha Dasha @ 
+
+
+First 
+
+
+= 
+Oo 
+
+
+Second 
+Third 
+Fourth 
+Fifth 
+Sixth 
+Seventh 
+Eighth 
+Ninth 
+Tenth 
+Eleventh 
+Twelfth 
+
+
+= YN woFfFaana nN © 
+= © WO Fa AN DO OO 
+mw wo Ff a DN © CO 
+
+
+ee ne 5 
+o- KN 
+
+
+Note - The numbers are the numbers of the Rashis. 
+Antardashas 
+
+
+Each Mahadasha will have twelve Antardashas of all the twelve Rashis. In Vimshottari 
+Dasha, each planet has his own Mahadasha, and in his own Mahadasha, he has the Antar 
+dashas of all the nine planets. Similarly, in char Dasha, each Rashi dasha has the 
+Antardashas of all the twelve Rashis. 
+
+
+Pratyantar Dashas 
+
+
+Just like each Mahadasha has Antardashas of all the twelve Rashis, each antardasha 
+has Pratyantar Dashas of all the Twelve Rashis. 
+
+
+An Introduction to Jaimini System 21 
+
+
+Q.1. 
+Q.2. 
+Q3. 
+Q4, 
+Q.5. 
+
+
+22 
+
+
+EXCERCISE 
+How is the Mahadasha sequence decided for Char dasha ? Mention the rules. 
+What is direct order and what is indirect order ? 
+Show Mahadasha sequence for Cancer ascendant. 
+Show the Mahadasha sequence for Pisces ascendant. 
+(i) Fifth mahadasha for Taurus lagna horoscope will be of which rashi ? 
+(ii) Tenth mahadasha for Aries Lagna horoscope will be of which rashi ? 
+(iti) For virgo Lagna horoscope, which dasha will follow the Capricorn dasha ? 
+( 
+
+
+iv) For Scorpio lagna horoscope, which dasha will follow Sagittarius ? 
+
+
+An Introduction to Jaimini System 
+
+
+7. Computation of Char Dasha-Il 
+The Antar Dasha Order 
+
+
+Q. What will be the Sequence (order) of the Antardashas ? 
+
+
+A. The sequence of the Antardashas will be exactly like the sequence of the 
+Mahadashas. 
+
+
+Rule 1 
+The Antardashas of the Direct lagna Rashis will more in Direct Order. The 
+
+
+Antardashas of Leo- Virgo- Libra- Aquarius- Pisces and Aries Rashis will more in Direct 
+Order. 
+
+
+Rule 2 
+
+
+The Antardashas of the Indirect Lagna Rashis will more in an Indirect Order. 
+Antardashas of Taurus- Gemini- Cancer- Scorpio- Sagitiarius- Capricorn will move in Indirect 
+Order. 
+
+
+Rule 3 
+Each Mahadasha will have its over Antardasha in the End. 
+
+
+Example 1: 
+Leo Mahadasha 
+(Direct Lagna Group) 
+* The Antardashas will move in Direct Order. 
+» Leo-Leo will come in the End. 
+Leo- Mahadasha 
+First-Ad - Virgo 
+Second-Ad_ - Libra 
+Third-Ad = - Scorpio 
+Fourth-Ad _- Sagittarius 
+Fifth-Ad -Capricorn 
+Sixth- Ad - Aquarius 
+
+
+An Introduction to Jaimini System 23 
+
+
+Seventh- Ad - Pisces 
+Eighth-Ad _ - Aries 
+Ninth-Ad -Taurus 
+Tenth-Ad = - Gemini 
+Eleventh-Ad - Cancer 
+Twelfth-Ad - Leo 
+
+Example 2: 
+
+Scorpio Mahadasha 
+
+
+(Indirect lagna Group) 
+
+
+* The Antardashas will move in Indirect order. 
+
+
+* Scorpio- Scorpio will come in the End. 
+
+
+Scorpio Mahadasha 
+First-Ad - Libra 
+Second-Ad_ - Virgo 
+Third-Ad  - Leo 
+Fourth-Ad - Cancer 
+Fifth-Ad - Gemini 
+Sixth-Ad — -Taurus 
+Seventh- Ad - Aries 
+Eighth-Ad _- Pisces 
+
+
+Ninth-Ad - Aquarius 
+Tenth-Ad = - Capricorn 
+Eleventh-Ad - Sagittarius 
+
+
+Twelfth-Ad - Scorpio 
+
+
+24 
+
+
+An Introduction to Jaimini System 
+
+
+Table 3 
+Antar Dasha Order for Direct Lagna Group 
+
+
+Leo- Virgo- Libra- Aquarius-  Pisces- Aries 
+
+
+5- 6- T- 11- 12- 1 
+Antardashas] 
+
+
+First 
+
+
+4 
+
+
+Second 
+Third 
+Fourth 
+Fifth 
+Sixth 
+
+
+Seventh 
+
+
+oO DOAnN Oa FF WwW DY 
+
+
+Eighth 
+Ninth 
+Tenth 
+Eleventh 
+Twelfth 
+
+
+oO wan na fk WwW NY 
+
+
+oO an oarsrt OW DY 
+4 
+Oo 
+
+
+= 
+_ 
+
+
+An Introduction to Jaimini System 25 
+
+
+Table 4. 
+Antar Dasha Order for Indirect Lagna Group 
+
+
+Taurus- Gemini- Cancer- Scorpio- Sagittarius- Capricorn 
+2- 3- 4- 8- 9- 10 
+
+
+ear cat oe 
+o -~ N 
+
+
+9 
+8 
+7, 
+6 
+5 
+4 
+3 
+2 
+
+
+EXCERCISE 
+Q. 1.+* How will the Antardasha in every Mahadasha move ? 
+Q.2. What are the three rules for deciding the Antardasha order ? 
+Q.3. For Taurus Ascendant: 
+(i) Make the antardashas of the rashi in the second house. 
+(ii) Make the antardashas of the rashi in the sixth house. 
+Q.4. Antardashas ofthe following rashis will move directly or indirectly ? 
+(i) Capricorn (ii) Pisces (iti) Cancer (iv) Virgo (v) Aquarius (vi) Aries 
+
+
+26 An Introduction to Jaimini System 
+
+
+8. Computation of Char Dasha-lll 
+Calculation of The Dasha Years 
+
+
+It has been mentioned earlier that the years of char dasha are not fixed, they have to 
+be calculated according to certain rules. 
+
+
+The twelve Rashis have been divided into two groups of six rashis each. One group 
+is the Direct order or Visham pada group and the other group is the Indirect order or sampada 
+group. 
+
+
+The Vishampada (Direct order) groups has- Aries- Taurus- Gemini and Libra- 
+Scorpio- Sagittarius 1-2-3-7-8-9 Rashis. 
+
+
+The Sampada (Indirect order) group has - Cancer- Leo- Virgo and Capricorn- 
+Aquarius- Pisces 4-5-6-10-11-12 - 
+
+
+Direct 
+4-2-3 
+7-8-9 10-11-12 
+
+
+Vishampada ’ Sampada 
+
+
+Anticlockwise Clockwise 
+
+
+Calculation of Dasha Years 
+
+Steps 
+
+1. Write down the dasha sequence as explained in chapter 5. 
+
+2. Note which rashis belong to Direct group and which Rashis belong to the Indirect group. 
+
+
+3. For the Direct order group Count from the rashi up to the lord of the rashi in the direct 
+way. 
+
+
+4, Forthe Indirect order group count from the rashi up to the lord of the rashi in the Indirect way. 
+5. From the total deduct 1. The resultant number will be the years of the dasha. 
+
+
+6. If lord of the rashis is in his own Rashi, give full 12 years. (Rashi of the Dasha under 
+consideration) 
+
+
+7. These rules apply to all Dashas except those of Scorpio and Aquarius, because Scorpio 
+and Aquarius have two lords each. Scorpio's lords are Mars and Ketu and Aquarius' lords 
+are Saturn and Rahu. For this reason, there are special rules for Scorpio and Aquarius. 
+
+
+An Introduction to Jaimini System 27 
+
+
+Scorpio (Direct Counting) Lords of Scorpio are Mars and Ketu. 
+
+
+Rule 1- lf Mars is in Scorpio and Ketu is placed in some other rashi, then ignore Mars and 
+count up to Scorpio Direct way. 
+
+
+IfKetu is in Scorpio and Mars is elsewhere, then Ignore ketu and count up to Mars the direct 
+way. 
+
+
+Rule 2- Ifboth Mars and Ketu are in Scorpio then the dasha will be of 12 years. 
+
+
+Rule 3- If both Mars and Ketu are not placed in Scorpio, then find out who is stronger of the 
+wo and then count up to that planet. 
+
+
+The planet which is placed with more number of planets will be stronger. 
+
+
+Ifboth Mars and Ketu are placed with equal number of planets, then which ever planet's 
+degree is higher is stronger. 
+
+
+ifboth Mars and ketu are alone, then the planet with higher degree is stronger. 
+
+
+Ifthey both have the same degree also then differentiate on the basis of minutes & 
+seconds. 
+
+
+Aquarius (Indirect Counting) 
+
+
+Lords of Aquarius are Saturn and Rahu. The Calculation will be like Scorpio, however, 
+there are two differences. 
+
+
+1. The Lords will be Saturn and Rahu. 
+
+
+2. The order for counting will be indirect. 
+
+
+Sees 
+
+
+Example 1 
+
+
+28 An Introduction to Jaimini System 
+
+
+Dasha order and Years 
+The Rashi in Lagna is Gemini, So the Mahadashas will move in the Indirect order. 
+
+
+[Rashi] Dashayears[ [Dasa Counting] 
+Gemini Direct 
+Taurus Direct 
+Aries * Direct 
+Pisces Indirect 
+
+
+Aquarius upto Saturn Indirect 
+Capricorn |. 7 Indirect 
+
+
+Sagittarius = Direct 
+Scorpio upto Mars Direct 
+Libra Direct 
+Virgo i Indirect 
+Leo Indirect 
+Cancer Indirect 
+
+
+Example 1 - Char Dasha 
+
+
+1947 DOB 
+1951 
+1956 
+1959 
+1963 
+1970 
+1976 
+1987 
+1995 
+2007 
+2018 
+2028 
+Cancer 2032 
+
+
+Gemini 
+Taurus 
+
+
+OS 
+
+
+oS a 
+
+
+Aries 
+
+
+@ 
+
+
+Pisces 
+
+
+SIS 
+
+
+Aquarius 
+
+
+Capricorn 
+Sagittarius 
+Scorpio 
+Libra 
+Virgo 
+
+Leo 
+
+
+—~ oo 
+= =- 4 - 34 
+32 hp &@ a © 
+a YS za 
+
+
+_ 
+
+
+Note : The Dates indicates the ending of dasha. 
+
+
+An Introduction to Jaimini System 
+
+
+Example 2 
+
+
+DOB 11.10.1942 
+TOB 3 PM (War time Corrected) 
+POB Allahabad 
+
+
+Sun 24°22' 
+Merc 23°39' -.R.D 
+Ven 15°12'-C 
+
+
+Mars 22°37' - D.C. 
+
+
+Direct Order Indirect Order 
+
+
+4-5-6 
+
+
+10-11-12 
+
+
+30 An Introduction to Jaimini System 
+
+
+Example 2 
+Dasha Order and Years 
+
+
+Rashi in the lagna is Aquarius, so the Mahadashas will move in the Direct order. 
+
+
+[Rashi__[Dashayears| [Dasha Counting 
+
+
+Aquarius 
+Pisces 
+
+
+Aries 
+Taurus 
+Gemini 
+Cancer 
+
+
+Leo 
+
+Virgo 
+Libra 
+Scorpio 
+Sagittarius 
+Capricorn 
+
+
+Example 2 - Char Dasha 
+
+
+a 
+
+
+Aquarius 
+Pisces 
+Aries 
+Taurus 
+Gemini 
+
+
+Cancer 
+Leo 
+
+Virgo 
+
+Libra 
+Scorpio 
+Sagittarius 
+Capricorn 
+
+
+upto Satu Indirect 
+Indirect 
+
+
+Direct 
+
+Direct 
+
+Direct 
+Indirect 
+Indirect 
+
+Lord placed in it Indirect 
+= Direct 
+
+up to Mars Direct 
+
+- Direct 
+
+= Indirect 
+
+
+1942 DOB 
+
+
+1951 
+1959 
+1964 
+1968 
+1971 
+1980 
+1991 
+2003 
+2014 
+2024 
+2031 
+2039 
+
+
+Note: The Dates indicates the ending of dasha. 
+
+
+An Introduction to Jaimini System 
+
+
+31 
+
+
+Calculation of Antardasha 
+The Period of Antardasha will be As many months as are the years of the Mahadasha. 
+
+
+This rule will apply to all the 12 Antardashas. Each Rashis Antardasha calculation will 
+not have to be calculated separately. 
+
+
+For Example - 
+MD = 12 Yrs Each AD- 1yr 
+MD = 11 Yrs Each AD- 11 Month 
+MD = 10 Yrs Each AD- 10 Month 
+MD = 9 Yrs Each AD- 9Month 
+MD = 8 Yrs EachAD- 8Month 
+MD = _7 Yrs Each AD- 7 Month 
+
+
+Calculation of Pratyantardasha 
+
+
+Char Dasha is a short dasha: For this reason calculation up to Antardasha is enough. 
+If pratyantar dasha needs to be calculated. Then convert the Antardasha period into days 
+and Divide by 12 Rashis. The Resultant will be days and Hours of the Pratyantar Dasha. 
+
+
+For Example 
++ If Antar Dasha is of 12 months. 
+
+- 12 months converted into days = 3604. 
+
+- 360 days divided by 12 Pds = 30 days, 1 PD will be of 30 days. 
++ If Antar Dasha is of 11 months. 
+
+- 11 months converted into days = 330¢. 
+
+- 3304 Divided by 12 PDS = 27.5%=272-12", 
+
+1PD will be of 27¢ 12 hrs. 
+
+
+Note : Normally 1 yr. is taken as 360 days for Dashas. 
+
+
+32 An Introduction to Jaimini System 
+
+
+Q.1 
+Q.2 
+Q.3 
+
+
+Q.4 
+Q.5 
+Q.6 
+Q7 
+Q.8 
+
+
+EXCERCISE 
+Which are the Vishampada Rashi ? 
+Which are the Sampada Rashis ? 
+
+
+How is the counting done for Vishampada Rashis and how is it done for Sampada 
+or Rashis ? 
+
+
+How will you calculate the dasha years for each rashi ? 
+
+Why are the dasha years for Scorpio and Aquarius calculated diffrently ? 
+How are the Dasha years for Scorpio calculated ? 
+
+How are the dasha years for Aquarius calculated ? 
+
+Compute Char dasha for the following horoscope. 
+
+DOB - 6-8-2002 TOB - 14.41 Hrs. POB - Delhi 
+
+
+Sun 19°51' 
+Jup 7°08' 
+Mar 21°18' 
+
+
+Q. 9 If Leo dasha is for 10 years, then what will be the duration of Capricorn Antardasha? 
+
+
+An Introduction to Jaimini System 33 
+
+
+9. Jaimini Yogas 
+
+
+Yogas are combinations formed between planets and houses. These combinations 
+form on the basis of position aspect conjunction and exchange. Yogas show the Jatak's 
+Prarabdh, and they give their result when the appropriate dasha comes. 
+
+
+There are many yogas mentioned in Jaimini Sutras, only a few important ones will 
+be taken up here. 
+
+
+(a) Raja Yogas are formed when the Atmakarak has a connection with some important 
+karkas and some house lords. 
+
+
+. Atma Karak with Amatyakarak. 
+
+. Atma karak with Putrakarak. 
+
+. Atma karak with Darakarak. 
+
+. Atma karak with Fifth house Lord. 
+
+
+RWwND = 
+
+
+(b) Raja Yogas are also formed when the Amatya karak makes a connection with these 
+karkas and house lords. 
+
+
+1. Amatya karak with Putrakarak. 
+2. Amatya karak with Darakarak. 
+3. Amatya karak with Fifth house Lord. 
+
+
+(c) Raja Yogas formed by Putrakarak. 
+
+
+1. Putrakarak with fifth house lord. 
+2. Putrakarak with Darakarak. 
+
+
+(d) Connection between Darakarak and Fifth house lord also forms a Raja yoga. 
+(e) Other Raja Yogas: 
+
+
+1. If Janma Lagna, Hora lagna, Ghatika lagna. The navamsa or the Dreshkona lagnas 
+have their first and seventh house aspected by one planet, it is a great Raja yoga. 
+
+2. IfMoon and Venus are in mutual connection or are in third house from each other itis a 
+Raja yoga and a Vahan (conveyances) yoga. 
+
+3. IfMars Venus and Ketu are in mutual aspects or are in 3-11 from each other, then the 
+person enjoys aristocratic comforts or Spirituality. 
+
+4. IfMoon and Venus are in the fourth house from Atmakarak the person will have all the 
+emblems of Royally. 
+
+
+34 An Introduction to Jaimini System 
+
+
+f. Adverse Yogas 
+1. Daridra Yoga 
+
+
+Ifthe Benefic planets are in sixth Eighth and twelfth houses and the malific planets 
+are in kendras and trikonas the person is poor. 
+
+
+2. Jaimini Kemadruma Yoga 
+
+
+Ifthere are equal number of malifics in second and eighth houses from karkamsa 
+lagna or from Janma lagna or from Arudha lagna it gives rise to kemadruma yoga. 
+
+
+- This yoga results in the loss of partner, financial losses and steep fall in position. 
+- If moon aspects these malifics, then the yoga becomes particularly strong. 
+
+
+3. Yoga for Imprisonment 
+
+
+If second and Twelfth, or if fifth and ninth, or if twelfth and sixth or if third and eleventh 
+or if fourth and Tenth house from Lagna or Karkamsa Lagna have equal number of planets, 
+the person gets imprisoned. 
+
+
+Le. lf 2H-12H 
+3H-11H 
+4H-10H 
+5H-09H 
+6H-12H 
+Have equal number of planets it becomes a yoga for imprisonment. 
+
+
+If malifics aspect these planets then the punishment will be severe, but if benefics 
+aspect them, then the punishment and the trouble may be temporary. 
+
+
+An Introduction to Jaimini System 35 
+
+
+36 
+
+
+Examples of the Yogas 
+Raja Yogas 
+Example -1 
+Hillary Clinton 
+
+
+Navamsa 
+
+
+SOK RON 
+
+
+Amk Mercury is making a very good Raja yoga in the 
+fifth house with fifth lord Venus and PK. Sun. 
+
+
+Example -2 
+Lata Mangeshkar 
+
+
+Fifth lord and A.K. Mercury is placed in the fifth house; 
+He is aspected by D.K. Sat, forming a Raja Yoga. 
+
+
+An Introduction to Jaimini System 
+
+
+Example -3 
+Amitabh Bachchan 
+
+
+Navamsa 
+
+
+Amk Mercury who is fifth lord also, Ak Sun and P.K. 
+Venus are forming a Raja yoga in the eighth house. 
+
+
+Example -4 
+Rajiv Gandhi 
+
+
+Navamsa 
+
+
+yee 
+
+
+a 
+
+
+1. Ak Mercury, Amk Venus, and P.K. and fifth lord- Jupi- 
+ter are placed in Lagna forming a powerful Raja yoga. 
+
+
+The lagna also happens to be Pada lagna and the ninth 
+house from K.L. 
+
+
+2. Moon and Venus are placed in lagna forming another 
+powerful Raja Yoga in lagna. 
+
+
+An Introduction to Jaimini System 37 
+
+
+Example -5 
+George Bush 
+
+
+Navamsa 
+
+
+1. Avery powerful Rajayoga is forming in the lagna involving A.K. Venus, Pk Mercury, 
+and D.K. Saturn. 
+
+
+2. The lagna is also the fifthhouse from Karkamsa and the ninth house from pada 
+lagna. 
+
+
+3. A beautiful parashari Gajakesari yoga is forming in the Seventh house from karkamsa 
+- the house of public esteem and pada prapti. Jupiter is the Amk and Moon is the B.K. 
+(In this manner we can combine Jaimini with parashari). 
+
+
+These examples of five famous personalities prove the Authenticity of the Jaimini 
+Raja yogas. 
+
+
+Navamsa - The navamsa must be analysed, especially where the Rajayogas are concerned. 
+Ifthe yoga is repeated and strengthened in navamsa, then the full result of the yoga will be 
+got; otherwise full result will not be achieved. 
+
+
+Yoga for Imprisonment 
+Example -6 
+Jawahar Ial Nehru 
+
+
+SANA 
+Fd 
+
+
+ONO MEN 
+
+
+There are equal number of planets in second and twelfth house from lagna. He 
+went to Jail a number of times during India's. Struggle for Independance. 
+
+
+38 An Introduction to Jaimini System 
+
+
+Example -7 
+Indira Gandhi 
+
+
+There are equal number of planets in second 
+and twelfth house. She got arrested in 
+December 1998 for breach of privilege of 
+parliament. But she did not reach the jail. 
+
+
+Example -9 
+Charles Sobhraj 
+
+
+There are equal number of planets in third 
+and eleventh house. Sobhraj is an interna- 
+tionally famous criminal. He has been in and 
+out of jail all throughout his life. 
+
+
+Example -8 
+Mahatma Gandhi 
+
+
+There are equal number of planets in sec- 
+ond and Twelfth house. Mahatma Gandhi 
+went to Jail many times, and fora long time. 
+Of course, he went for a noble cause, in 
+India's struggle for independence. 
+
+
+Example -10 
+Harshad Mehta 
+
+
+There are equal number of planets in sec- 
+ond and Twelfth house. Harshad Mehta is the 
+famous Mumbai Stock exchange broker who 
+was responsible for the major stock market 
+Scam. He was imprisoned and he died there 
+recently. 
+
+
+Note : For Jaimini yogas, Jaimini Aspects should normally be considered. However, if a 
+very forceful combination is noticed which also has parashari aspects then parashari as- 
+
+
+pect should also be taken into account. 
+
+
+An Introduction to Jaimini System 
+
+
+39 
+
+
+40 
+
+
+EXCERCISE 
+How are yogas formed in a horoscope ? When do they give results ? 
+Which are the ways in which Raj Yogas are formed in Jaimini system ? Give examples. 
+When will the Raj yoga give full result and when will it not give the full result ? 
+What is the Jaimini Kemadrum yoga ? 
+Give one example of the yoga for imrisonment. 
+
+
+How is Daridra yoga formed ? 
+
+
+An Introduction to Jaimini System 
+
+
+10. The Importance of Karkamsa 
+
+
+Karkamsa (#IR@T3T) 
+
+The rashi in which the Atmakarak is placed in the navamsa is called the Karkamsa 
+Lagna in the Lagna Kundali, the same rashi in the Navamsa Kundali is called Swamsa. 
+(€aret) 
+
+Karkamsa is the starting point of Jaimini analysis. It is equivalent to the lagna of the 
+
+
+horoscope. All ihe houses from K.L. are observed in the same manner as they are normally 
+observed from the Janma Lagna. 
+
+
+For Example 
+Fifth house from K.L. will be seen for education and children and Seventh house 
+from K.L. will be seen for marriage. 
+
+
+The Rashi in which karkamsa falls gives some clue about the Jatak. 
+
+
+Note : While interpreting these results, these points must be remembered. 
+
+
+1. These results have to be applied liberally and not literally to the horoscopes. 
+
+2. They have to be viewed in today's context according to the principle of Desh-kal-Patra. 
+
+3. Most classical writers have laid more stress on Negativity, and as modern Astrologers 
+we should find the positive side of these principles. 
+
+
+Results of Different Rashis in Karkamsa 
+
+
+Aries 
+The Jatak is affected favourably or unfavorably by cats and rats and other similar animals. 
+Whether the result will be favourable or unfavourable will depend upon the influences on 
+the K.L. 
+
+
+Taurus 
+
+The Jatak is affected favourably or unfavourably by quadrupeds (the four legged 
+animals). This can mean farming, dairying, food and hotel line, vehicles, automobile industry 
+or luxury fields (lord of Taurus is Venus). On the other hand a person may suffer on account 
+of four legged animals. 
+
+
+Gemini 
+The Jatak suffers on account of itches or skin ailments and corpulence. Or he may 
+be a dermatologist or owner of slimming centres. He may be a singer or an intellectual. 
+
+
+Cancer 
+The Jatak is influenced by water and he suffers due to Leprosy. 
+
+
+An Introduction to Jaimini System 4i 
+
+
+Another sutra says that if Karkamsa falls in Cancer- the person is a trader. 
+He may be a sailor, fisherman, producer of mineral water, exporter, or a traveller. 
+
+
+Leo 
+
+The Jatak is affected by beasts. People with karkamsa in Leo have also been noticed 
+to have ups and downs in their lives, and falls from heights or from a high position, or have 
+accidenis. But it also implies that they will also attain a high position. 
+
+
+Virgo 
+The results are like Gemini and the Jatak can suffer from itches and corpulence 
+(weight) and he may suffer on account of fire or sparks of fire. 
+
+
+Or He may even be a doctor treating skin diseases (dermatologist). 
+
+
+Libra 
+The Jatak's fortune is created by trade. 
+
+
+The person can be a trader or a businessman. Today, it can also mean fields related 
+to beauty, arts, television, films, vehicles etc. 
+
+
+Scorpio 
+
+The Jatak is affected by animals and reptiles who live in water and he is deprived of 
+his mother's milk. 
+
+The person may be susceptible to poisoning and he may have been reared on 
+animal milk or powder milk or by a foster mother. 
+
+
+Sagittarius 
+The Jatak suffers on account of a fall from a horse or from a vehicle or from some 
+height. (from a hilltop or rooftop). 
+
+
+Dhanu is a kodanda Rashi (#s—punishment). When K_L is in this rashi the person 
+suffers from a fall. The fall may be from a horse or from a conveyance or some high place 
+like a tree ora hill or from stairs. The fall can also be from a high position in life. 
+
+
+So, to fall from a height the person will first reach that height and then fall from it. 
+Hence Dhanu signifies a rise and a fall. 
+
+
+Capricorn 
+
+The Jatak gets affected because of aquatic (watery) creatures, fierce birds, planets, 
+meteors and evil spirits. He may get large wounds or incurable cancers or glandular, 
+expansions or skin ailments. 
+
+
+Capricorn is a rashi of change "Parivartan". There may be a lot of changes in the 
+persons life. Whether they are for good or for bad, depends on the benefic or malefic 
+associations of the K.L. 
+
+
+42 An Introduction to Jaimini System 
+
+
+Aquarius 
+
+The Jatak builds Tanks, wells, gardens temples, Ashrams, Dharmshalas and other 
+public facilities. 
+
+Kumbha is the rashi ‘Amrit’, hence the person will have nobility, and his activity will 
+be aimed towards helping the other fellow beings. 
+
+
+On the other hand, if K.L. has malefic influence, the person may be just the opposite. 
+
+
+Pisces 
+
+The Jatak is inclined towards following the path of Dharma, aiming at the final 
+emancipation (Ale). He will have good moral values and he will put them into practice, 
+whether he is religious or not. He will have sacrificing nature. He may even take sanyas at 
+some stage in his life. 
+
+The horoscope must be viewed in totality, only then accuracy in prediction will be 
+got. Karkamsa is showing the Jatak's tendencies. The result will depend on other factors in 
+the horoscope also. Confirmation of these effects must be got from of the complete 
+horoscope. 
+
+Jaimini has praised Karkamsa in Libra, Aquarius and Pisces only. For the remaining 
+rashis he has only given negative results. But we can try to find the positive results of the 
+remaining nine rashis by observation and research. 
+
+
+Results of Different planets in Karkamsa 
+
+
+Sun 
+If Sun is placed in the karkamsa the person is devoted to the service of the king. 
+
+
+The person's occupation may be connected to the government or to public business. 
+
+
+Moon and Venus 
+
+If full moon (Benefic Moon) and Venus are placed in KL the person gets all kinds of 
+enjoyments and his occupation is connected to learing, authorship etc. Moon and Venus 
+together also form a rajayoga giving great wealth and luxury. 
+
+
+Mars 
+If Mars is placed in the K.L. then the person has a profession connected to chemicals, 
+fire, metallurgy, factories or making of weapons or Defence services. 
+
+
+Mercury 
+If Mercury is placed in the K.L., the person becomes a trader or businessman, 
+weaver or sculptor or an artist. It also gives him fame. 
+
+
+Jupiter 
+If Jupiter is placed in the K.L. the person is a scholar, a teacher, priest or someone 
+performing the religious rites. He can also be an adviser or an Astrologer. 
+
+
+An Introduction to Jaimini System 43 
+
+
+Venus 
+
+If Venus is placed in the K.L. the person becomes a government servant, political 
+personage or an artist. He is attracted towards the opposite sex, and he retains his sexual 
+vitality till an advanced age. 
+Saturn 
+
+If Saturn is placed in K.L. or is in Kendras from it, it is a combination for fame. The 
+person may be in some famous business or a famous organisation. 
+Rahu 
+
+
+If Rahu is placed in the K.L. the person can become a doctor using poisonous 
+medicines (Antibiotics). He can also be a druggist, a soldier, a dacoit or a thief. He can even 
+be a manufacturer of metallic machinery, or electronics. 
+
+
+Ketu 
+
+
+If Ketu is in the K.L. the person can be in elephant trade, he can even be a poacher 
+of elephants, or a thief. As Ketu also signifies sookshma yantra, the person can be a watch 
+manufacturer or a watch dealer. (machines which show time) 
+
+
+Where Rahu and Ketu are concerned, their Rashi lords (dispositors) must also be 
+looked at, sometimes they give a better idea of the result. Ketu can also give spiritual 
+inclination. 
+
+
+EXCERCISE 
+Q.1. What is the importance of Karkamsa in Jaimini Analysis ? 
+
+
+Q.2 Which factors should be kept in mind while interpreting results of Karkamsa as 
+given by Jaimini? 
+
+
+Q.3  Karkamsa falling in which rashis has been praised by Jaimini ? 
+Q.4 — IfSaturn is in KL. or in Kendras from it what kind of result can be expected ? 
+
+
+Q.5 Where Rahu and Ketu are concerned how should their results be judged ? 
+
+
+44 An Introduction to Jaimini System 
+
+
+11. Results of the Rashi Dashas 
+
+
+We are aware that when the Dasha of a planet operates, the natural tendencies of 
+that planet his nature-comes into the jatak. For example - Ifa man's Mars Dasha is running, 
+he becomes courageous, aggressive and full of drive. In the same manner, when the Dasha 
+of a particular Rashi is in operation, the natural tendency of the Jatak becomes like that of 
+the rashi. 
+
+
+The pictorial symbol of the Rashi gives an idea of the result. The Significations of 
+the Rashi lord, the Tatva and the mobility of the Rashi should also be considered. 
+
+
+Dasha of: 
+
+
+Aries 
+
+
+* Makes the person Impressive (Tejasvi), full of Vigour and he moves ahead in life. 
+* He can get diseases produced by heat. 
+
+
+Taurus 
+
+* The Symbol of Taurus is a bull - representing a vehicle today. There can be some 
+incident related to a Vehicle. This can be purchase of a Vehicle or an accident involving 
+one. Business can also take place. Diseases related to sex can also come up. 
+
+
+Gemini 
+* Social interaction grows. 
++ Skin diseases can affect the person. 
+
+
+Cancer 
+Sea Voyages, foreign travel and trade can take place. 
+
+
+Leo 
+The person becomes impressive - Tejasvi and isolated. 
+There can be a great rise or a fall. 
+Diseases of heat or diseases related to heart can come up. 
+
+
+Virgo 
+Business or writing is possible. 
+Nervous complaints are possible. 
+
+
+Libra 
++ Is one of the best dashas. The person gets all the luxuries and comforts and he is 
+happy.(Sukhi) 
+
+
+The Diseases can be related to sex. 
+
+
+An Introduction to Jaimini System 45 
+
+
+Scorpio 
+Scorpions, snakes or poisoning can affect the person. 
+In the case of politicians there can be some underhand scheming. 
+There can be reaction to some injection, or poisoning due to some medicine. 
+
+
+Sagittarius 
+There can be a rise to or fall from position, or from a horse, or from height. 
+Sudden accidents or illness can be there. 
+
+
+Capricom 
+Is a rashi of changes. Changes of all types can be expected. 
+Diseases related to legs or joints or wind are possible. 
+
+
+Aquarius 
+Social Religious and Pious acts are undertaken. Nobility develops. 
+
+
+Pisces 
+The person becomes religious, introverted, and performs noble acts. 
+
+
+EXCERCISE 
+Q. 1 When the dasha of any rashi begins ? how does it affect the Jatak ? 
+Q.2 Which is the best rashi dasha as per Jaimini ? 
+
+
+Q,3 What is the peculiarcity Sagittarius and Leo dasha ? 
+
+
+46 An Introduction to Jaimini System 
+
+
+12. Some Critical Dashas 
+
+
+lt is not uncommon to hear people say," We showed our horoscopes to so many 
+Astrologers but none of them warned us about the sudden death of my husband”. It is the 
+duty of the Astrologer to prepare the person for the approaching calamity or danger. 
+
+
+In Jaimini there are some dashas which portened coming danger. If any of these 
+dashas is noticed then the horoscope should be analysed carefully. Sometimes, instead of 
+causing harm, these dasha can even give a noticable rise and prosperity. But that would 
+depend on the indiviaual horoscope. 
+
+
+1. Dasha of the Atmakarak 
+
+Dasha of the rashi in which Atmakarak is placed is called the dasha of the Atmakarak. 
+Normally dasha of the A.K. brings a fall. This fall can vary from a slight drop in position to a 
+serious illness or to an accident or death or a violent death. It can also mean harm to a 
+family member. In some cases it can even bestow power or a position on the person. What 
+will happen will depend on the horosocpe. 
+
+
+If Atmakarak is placed in Sagittarius or leo, then the fall is more likely. 
+
+
+2. The Dasha of the Rashi of Karkamsa 
+Dasha of the Rashi of Karkamsa can also bring similar adverse results. 
+
+
+3. Dashas of the Rashis falling in the Sixth, eighth or twelfth rashi from Atmakarak or 
+Karkamsa may also be troublesome. 
+
+
+4. Dashas of Sagittarius or Leo 
+. These dashas are well known for causing accidents, death or a fall from a height or 
+from a Vehicle. However in some cases, they have been seen io give a big rise and prosperity. 
+
+
+The final word regarding these dashas is that normally they produce adverse 
+results and set backs. If the horoscope is showing positive indications then it can 
+prove to be a period of rise. 
+
+
+An Introduction to Jaimini System 47 
+
+
+Examples of Critical Dashas 
+
+
+|Example 1: An Air Force Pilot 
+
+
+Example 2: A Builder 
+
+
+This person was involved in an air 
+crash between two Air force planes. 
+Somehow his plane managed to land. He 
+was very seriously injured. His Atlas Vertebra 
+of the neck was broken and he was 
+unconscious for 3-4 days. After that he 
+remained in plaster for 4-5 months. But he 
+recovered completely and continued flying for 
+15 more years. Char dasha at the air crash 
+was Capricorn-Aquarius- Gemini. Aquarius 
+falls in the eighth house from Ak. Jupiter and 
+Gemini in the twelfth house from him. So the 
+dasha of eighth and twelfth rashi from A.K. 
+caused this Accident. 
+
+
+Example 3: Lata Mangeshkar 
+
+
+This is the horoscope of a famous 
+Delhi builder. He entered into a contract with 
+an industrialist and he also invested several 
+crores of rupees. For last 4 to 5 years, 
+litigation is going on and his money is stuck. 
+Dasha of Sagittarius is running. It has 
+brought a big fall in his financial position. Itis 
+also the dasha of the sixth rashi from A.K., 
+showing litigation. 
+
+
+Example 4: Indira Gandhi 
+
+
+She received ‘Bharat Ratna’ award 
+from the Government of india in 2001 in Leo- 
+Sagittarius -A big rise in her position. (PI. 
+refer to detailed study of Lata Mangeshkar's 
+horoscope in Chapter 13). 
+
+
+48 
+
+
+» In the dasha of Sagittarius she lost her 
+father in 1964. 
+
+
+* In 1977 in Virgo-Cancer she lost elections. 
+Cancer is the Dasha of the A.K. 
+
+
+An Introduction to Jaimini System 
+
+
+EXCERCISE 
+
+
+Q. 1 Which dasha is called the dasha of the Atmakaraka ? and what can be expected in 
+
+
+Q.2 
+Q.3 
+Q.4 
+Q.5 
+Q.6 
+
+
+this dasha ? 
+
+Which are the critical dashas in relation to the A.K. ? 
+
+Which are the critical dashas in relation to Karkamsa ? 
+What can be expected in the dashas of Sagittarius or Leo ? 
+Finally what can be said about these dashas ? 
+
+
+Give atleast two examples of critical dashas ? 
+
+
+An Introduction to Jaimini System 49 
+
+
+13. Prediction by Jaimini System 
+
+
+The first prerequisite for prediction by Jaimini is proficiency in Parashari methods, 
+
+
+because Jaimini is only a refinement and an advancement of Parashari system. 
+
+
+The Horoscope must be first analysed by the well known Parashari principles. 
+Coming next to Jaimini, it would be helpful if an systematic procedure is followed. 
+
+
+Checklist 1 
+
+
+1. 
+2. 
+
+
+Make Navamsa of the complete horoscope. 
+
+
+Note the degrees of the planets and make a list of all the seven karkas excluding Rahu 
+& Ketu. 
+
+Notice which is the navamsa rashi of the Atmakarak. Mark that Rashi in the lagna chart 
+(D-1) as Karkamsa Lagna (K.L) the same rashi in navamsa (D-9) will be marked Swamsa 
+Lagna (S.L.). 
+
+Make Pada Lagna (PL) or Arudha Lagna. 
+
+
+5. Make Upa-pada lagna. (U.P) 
+6. Mark the Important Arudha padas according to the chronological age, stage and the 
+
+
+matters which are of concern to the Jatak. 
+
+
+Compute char Dasha: 
+
+a. Notice the mahadasha order whether it is Direct or Indirect. 
+
+b. Calculate the years of the dasha. 
+
+c. Special rules for Scorpio and Aquarius must be remembered. 
+
+d. Work out the Antardashas of the present period and the ADS at some important 
+events, for verification the horoscope. 
+
+
+Caution 
+
+
+* In computerised horoscopes, very often the computer makes a mistake at this point. 
+So the Dasha periods of Scorpio and Aquarius must be checked manually. 
+
+* It must be remembered that AD of each rashi is not calculated separately. The 
+twelve ADS of any Rashi will be of equal duration. 
+
+
+eg. If Maha dasha is of 6 years. All the 12 ADs of that Mahadasha will be of 6 months each. 
+
+
+¢ It must also be remembered that the ADS will move in the Same Order as the 
+Mahadasha. 
+eg. MD of Pisces (Direct) ADS will move Ari-Tau-Gem and so on. 
+
+
+8. Aspects (Drishtis) 
+a. While doing Jaimini analysis Jaimini aspects must be considered, they must not be 
+
+
+50 
+
+
+confused with the Parashari aspects. 
+
+
+. The Karkas cast their aspects along with the rashis in which they are placed. 
+
+
+An Introduction to Jaimini System 
+
+
+Checklist - 2 
+
+
+The Promise 
+It is of utmost importance to see what are the promises in the Horoscope. 
+
+
+1. Notice which houses of the horoscope are becoming prominent. Those houses become 
+the points of focus in the Horoscope. 
+
+
+The house comes into prominence if - 
+
+(a) Karkas are placed in it. 
+
+(b) Karkas aspect it. 
+
+(c) Ifthere is an exchange between lords of two houses (Rashi Parivartan). 
+2. 
+
+
+Notice if there are any favourable or unfavourable yogas (Raja Yogas, Dhanayogas or 
+Anishta Yogas) present in the horoscope. 
+
+
+3. Notice if there is concentration of planets in any special houses. 
+
+4. Does the horoscope show any striking feature. 
+
+By Combining 1 to 4, the promises in the horoscope will become clear. 
+Checklist - 3 
+
+Char Dasha Analysis 
+
+
+Karkamsa lagna becomes the starting point in jaimini analysis, but Janma lagna 
+also must be taken into account. 
+
+
+1. Notice to which house from the K.L. the Rashi Dasha belongs. The first clue to the 
+interpretation will be got from this. 
+
+
+2. Now make the Rashi Dasha the lagna and notice the kendras and Trikonas from it. 
+* See which karkas are placed in them and which karkas are aspecting them. 
+
+
+Also see which houses from the Rashi dasha are getting activated because of the 
+placement or the aspects of karkas. 
+
+
+Similarly notice the trik bhavas from the Rashi Dasha. 
+
+
+Strength or weakness of different houses from the rashi dasha will become obvious, 
+and this will show the promise in the dasha. 
+
+
+3. Next make the Antardasha the lagna, and do a similar analysis. 
+
+Notice the connection between the MD and AD. 
+
+5. Gombine the Promise in the horoscope with the promise of the dasha, keeping in mind 
+the Significations of the houses, karkas and the Rashis involved. 
+
+6. Notice the Dasha sequence ((H & ae Ve Heed sig) from birth. Itwill show - 
+(i) The development of the jatak from the begining. 
+(ti) What to expect from each successive dasha. 
+
+
+7. Compare the result with the corresponding Vimshottari dasha. Most of the time, both 
+the dashas will show the same result. 
+
+
+- 
+
+
+An Introduction to Jaimini System 51 
+
+
+Example 
+
+
+Lata Mangeshkar 
+DOB- 28-09-1929 
+
+
+TOB-22 hr 44 min. 59 sec. 
+POB- Indore 
+Lagna D-1 
+Lagna: 29°43' 
+Sun 12°12’ 
+Moon 17°08' 
+Mars 01°52" 
+
+
+Mercury 29°58' 
+Jupiter 23°27' 
+Venus. 10°49! 
+Satum § 01°47' 
+Rahu- 19°58 
+Ketu 19°58 
+
+
+Navamsa D-9 Dasamsa_ D-10 
+
+
+If the degrees of the lagna and the planets are also mentioned inside the 
+horoscope then it becomes easier while analysing the horoscope. 
+
+
+52 An Introduction to Jaimini System 
+
+
+Lata Mangeshkar is the famous Indian singer, who hardly needs an introduction. 
+She has dominated the music world for last 50 years. She has sung over 50,000 songs. 
+She has the expertise to combine the classical with the modem music. She has even 
+been acclaimed by the classical music gurus (ustads) Lata Mangeshkar is truly the 
+Nightingale of India. Her life events are well known to all. 
+
+
+Char Karkas Lagnas 
+Ak - Mercury Karkamsa_ - Virgo 
+Amk _ - Jupiter Pada Lagna - Scorpio 
+Bk = - Moon Upa-Pada -Aries. 
+Mk - Sun 
+Pk - Venus 
+Gk ~— - Mars 
+Dk -Saturn 
+
+Char Dasha 
+
+
+(Indirect order) 
+Balance of Dasha - Taurus «+ 3 years 
+28-9-1932 - Taurus (3 yrs.) 
+28-9-1938 - Aries (6 yrs.) 
+28-9-1948 - Pisces (10 yrs.) 
+28-9-1958 - Aquarius (10 yrs.) (Count up to Rahu) 
+28-9-1959 - Capricorn (1 yr.) 
+28-9-1964 - Sagittarius (5 yrs.) 
+28-9-1975 - Scorpio (11 yrs.) (Count up to Mars and Ketu) 
+28-9-1985 - Libra (10 yrs.) 
+28-9-1997 - Virgo (12 yrs.) 
+28-9-2008 - Leo (11 yrs.) 
+28-9-2020 - Cancer (12 yrs.) 
+
+
+The Main Events of Her Life 
+Father's death - 1934 
+First Success in - Singing Career-1949 
+Film Fare Award - 1958 
+Lata Mangeshkar - Medical Foundation - October-1989 
+Padma Vibhushan - 1999 
+Life time Achievement Award (London)- 2000 
+Bharat Ratna - 2001. 
+
+
+Verification of the Horoscope 
+
+
+Before analysing any horoscope, one should verify the horoscope - i.e. check whether the 
+horoscope seems to be correct or not. 
+
+
+An Introduction to Jaimini System 53 
+
+
+= 
+
+
+. Brothers and Sisters : She has more sisters because the third house has Moon. 
+
+2. Early death of father: Ninth’ house is normally taken for father. The ninth house is aspected 
+by Mars and ninth lord is in the eighth house and is aspected by Rahu. Even if we take 
+tenth house for father, its lord is Saturn, and similar result is observed. 
+
+3. She is very famous : Saturn and Mercury are in Kendras from K.L. 
+
+4. She has a sweet voice : Venus is in the Second house from Moon. 
+
+5. No rivals could stand in front of her : Her sixth house has Vargottam Mars and Ketu. 
+
+
+The Horoscope seems to be correct. 
+
+
+Karkamsa is in Virgo 
+The result should be like Gemini and Virgo - Some skin problem should be there - Her 
+face is pock marked. Gemini can produce singers and Virgo can produce an artist. 
+
+
+« Sun is placed in the KL - She has performed excellently at national and public level and 
+got uccha pada - High Status- awards from the government. 
+
+
+Mercury who is vargottam is also placed in the K.L.- She has got fame and she is an artist 
+(Kalavati). 
+
+
+The karkamsa becomes the focus of energy in the horoscope. Exhalted Vargottam 
+Mercury who is the Atmakarak and the fifth lord, is placed there with matrikarak Sun, both 
+are aspected by D.K. Saturn forming a powerful Rajayoga in the house of Poorva Punya. 
+Karkamsa being so powerful, falls in eleventh house (Labha bhava) from Pada lagna, 
+indicating great wealth - a Dhana yoga. 
+
+
+Apart from Jaimini yogas, there are a number Parashari yogas also in the K.L. A 
+great Dhanayoga is formed by the second and fifth lord Mercury and fourth lord Sun, and 
+both are Aspected by yogakarak Saturn and eleventh lord Jupiter. A very good kendra trikona 
+Rajayoga is forming there Aspected by Jupiter and Yoga Karak Saturn. Even a fine Budha 
+Aditya yoga exists there with exhalted Mercury and Sun, Aspected by Jupiter. Fifth house 
+from K.L. is getting the aspect of Venus and Jupiter showing classical art. Thus, the 
+Karkamsa Rules the whole Horoscope. 
+
+
+Pada Lagna 
+
+Pada Lagna is in Scorpio. P.K. Venus is placed in the 10th house from P.L. showing 
+a profession related to art and creativity, and genuine interest and talent in music. 
+
+Upa Pada 
+
+
+Upa Pada is in Aries. Rahu is placed in Upa pada and Ketu and Mars are in the 
+Seventh from it . Showing weakness on the marriage front. Upa pada is aspected by PK. 
+Venus. She was very keen to marry - Some one out of her own choice, at one time. The 
+Seventh lord from upa pada - who is Venus is aspected by Rahu Ketu and Mars. This has 
+denied her marriage. 
+
+
+54 An Introduction to Jaimini System 
+
+
+Life Events as Seen by Char Dasha 
+
+
+1. First major Success in singing cancer (1949) 
+Aquarius - Aries- Tenth house from Aries is aspected by Amk Jupiter and P.K. 
+Venus. (Jaimini Aspects) giving her a professional break. 
+
+
+2. Lata Mangeshkar Medical Foundation (October-1989) : 
+
+Virgo - Aquarius -The Mahadasha was Virgo. It is the Dasha of K.L, and because 
+A.K. is also placed in it, Virgo becomes the dasha of the Aimakarak. AK's dasha brings a 
+fall. Competition to her developed to some extent, from other newer singers, But inspite of 
+this, because she has a strong sixth house, no one could touch her. 
+
+
+In October 1989 in- Virgo - Aquarius, Mangeshkar Family established Lata 
+Mangeshkar medical Foundation. This act of charity took place because Amk Jupiter (noble) 
+is placed in the ninth from Virgo dasha, he is aspected by G.K. Mars from the Sixth house 
+of disease (the medical connection). Antardasha was of Aquarius, the rashi of Amrit, in 
+which nobility develops and Social religious and pious acts are undertaken. Aquarius is also 
+aspected by G.K. Mars showing the medical connection. 
+
+
+3. Lifetime achievement Award (2000) 
+
+
+Leo-Scorpio- Char dasha of Leo was running . Leo the royal sign is capable of 
+giving a big rise or a fall. Leo is in her fourth house of Pada (position). The Tenth house from 
+Leo is occupied by the Amk. Jupiter. 
+
+
+Scorpio the antardasha is in the Seventh house of Pada Prapti (the house of Public 
+Acclaim). Scorpio is aspected by Rahu from the twelfth house showing a foreign connection. 
+This honour was conferred on her in London. 
+
+
+4. Bharat Ratna - 2001) 
+
+
+Leo- Sagittarius- This is one of the highest awards of the government of India. She 
+received this awards in Leo Sagittarius. Leo is already qualified forthis purpose, Sagittarius 
+is also capable of giving a rise or a fall. 
+
+
+A.K. Mercury is placed in the Tenth from Sagittarius and eleventh house from 
+Sagittarius is aspected by Amk. Jupiter. These factors are responsible for her receiving this 
+prestigious honour. 
+
+
+But Leo dasha is going to continue till 2008, and Lata Mangeshkar is already 72 
+years old. The Nightigale of India may retire in this dasha. 
+
+
+Conclusion 
+
+
+In This manner analysis of the horoscope is carried out. 
+
+
+An Introduction to Jaimini System 55 
+
+
+Q.1 
+
+
+56 
+
+
+Strength of the houses is assessed. 
+The yogas are noticed. These two factors show the promise in the horoscope. 
+The dasha shows the time of fructification of the promise. 
+
+
+The Gochar would show the final realisation (happening) of the event. (I have not 
+shown the application of Gochar here.) 
+
+
+EXCERCISE 
+Take a known horoscope. 
+List all the major events of the Jatak's life. 
+
+
+Analyse the horoscope according to the method described. 
+
+
+An Introduction to Jaimini System 
+
+
+14. Judgement of the Horoscope 
+
+
+1. General Analysis 
+
+By now the method of analysing the horoscope must have already become clear to 
+the readers. Forthe Students, My humble suggestion is that instead of trying to analyse the 
+full and complete horoscope at the same time, it is better to be a little focused, and that 
+focus should be according to the chronological age of the person concerned, and according 
+to his problems and his questions. 
+
+
+Procedure 
+
+
+1. Assess the strength of the lagna. Unless there is strength is the lagna the person will 
+riot reach anywhere in life no matter how many Raja yogas are there in his horoscope. 
+
+2. Assess the strength of his fifth house - His Poorva punya. His life is basically governed 
+by his Poorva punya. 
+
+3. Assess the strength of his ninth house - what is his Bhagya? 
+
+4, Examine his tenth house - How is his Karma in this life? 
+
+The colour of the entire horoscope will start showing by the examination of these houses. 
+
+5. Have a look at the trik bhavas namely, third, sixth eighth and Twelfth houses. What are 
+his weaknesses? 
+
+6. Which houses of the horoscope are becoming prominent because of placement of the 
+planets and the aspects of other planets or because of an exchange? They become 
+points of focus in the Horoscope. 
+
+
+7. Notice the Dasha Sequence. 
+8. Apply Transit of the slow moving planets, which are Saturn Jupiter Rahu and Ketu. 
+9. To see a maiter related to any house, Apply the rule of 5. 
+See : 
+i. House concerned. ii. The house lord. 
+iii. The karka iv. Dasha, Antardasha, Pratyantar dasha. 
+v. Gochar 
+
+
+House -Lord - Karak - Dasha- Gochar 
+10. Apply the principle of Desh- Kal -Patra 
+
+
+ll. Keep a positive outlook- Try to find the strength of the horoscope and not just its 
+weaknesses. 
+
+
+Il. Jaimini Analysis 
+
+In the time period when Jaimini sutras were composed, the life was simple, and so 
+the maharishi has given guidelines for judging the essentials of a man's life. Though thousands 
+of years have passed, the basic life of the individual remains the same. So the sutras are 
+
+
+An Introduction to Jaimini System 57 
+
+
+applicable even today. However, with advancement in every sphere of life, research needs 
+to be done to find combinations for these advancements. Eg. the computer is a new addition. 
+Now, there are so many new areas even in the computer field, that we need to find 
+combinations indicating those fields. 
+
+
+A. The Karkamsa 
+
+Jaimini has given a lot of importance to the Atmakarak planet, and the rashi occupied 
+by him in the navamsa i.e. the Karkamsa. So karkamsa is of prime importance for Jaimini 
+analysis. It is not that the Janma lagna has to be ignored. One should co-relate the two. 
+
+
+Different houses from K.L. have to be seen for different matters. For example fifth 
+from K.L. is seen for education and children, fourth from K.L. is seen for the house etc. 
+
+
+This can be tabulated as: 
+
+
+Planets in the specific house from Karkamsa The Areas they cover 
+
+
+1 st and 2nd house Profession 
+
+4th house House or residence 
+
+9th house Religion and devotion 
+
+7th house Nature of Spouse 
+
+10th house The individual's general nature. 
+3rd house His strength 
+
+12th house Life after death 
+
+1st, 2nd and 5th learning and scholarships. 
+
+
++ For matters related to longevity and death- Jaimini has created an entire system, which 
+needs to be studied separately. 
+
+
+B. Arudha or Pada Lagna 
+
+For the person's wealth - Arudha or the pada lagna and the eleventh from it should 
+be considered. Benefic influence is helpful and malefic influence is unhelpful, or it indicates 
+wealth from unfair means. 
+
+
+For Expenditure or losses 
+Twelfth from Arudha shows expenditure . The planets in this house show the type of 
+expenditure. 
+
+
+For Co-borns (Brothers and Sisters) 
+Third house from Pada lagna is seen. 
+
+
+If Rahu is in the third or eleventh from the concerned lagna, the person is the eldest or 
+youngest, atleast among his own sex. (A special observation of Sh. K. N. Rao) 
+
+
+If Moon, Jupiter, Mercury and Mars are in the 3 or 11th from Arudha - there will be many 
+good brothers and sisters. 
+
+
+58 An Introduction to Jaimini System 
+
+
+The Subtle difference between the Karkamsa and the Pada Lagna 
+Both the Karkamsa and Pada lagna are very important for Jaimini analysis. 
+
+
+Karkamsa is the Navamsa rashi of the Atmakarak. Atmakarak is considered to be 
+the most important planet by Jaimini. It controls the Atma (314) the complete self of the 
+Jatak. The complete self includes, the physical body, the soul, the Poorva karmas, the 
+present karmas, and the Sookshma deha. So he signifies the Jatak completely at material 
+level and at spiritual level. Hence karkamsa, which is the Navamsa of the Atmakarak, shows 
+the refinement of the Jatak's karmas. His complete existence. It show the fae of the 
+complete Jatak. [As mentioned in the Introduction, Jaimini has studied the Jatak's personality 
+by splitting it down to its fundamentals]. 
+
+
+Pada Lagna is the Arudha of the lagna. It shows the Jatak's outer personality the 
+matters relating to his physical existence. i.e. Profession, promotion, wealth, spouse, brothers 
+and sisters, health etc. All the material level matters. 
+
+
+C. Upa - Pada 
+
+The main contribution of upa pada is that, upa pada is helpful in determining the 
+quality of the spouse. To some extent, matters relating to children and co-borns can also be 
+seen from upa pada. 
+
+
+Upa pada is also known as the Gauna (f") pada . If it is associated with benefics 
+- there will be happiness in marriage. If it is associated with malefics then there may be 
+unhappiness in marriage. If there is too much malefic influence on the upa pada or the 
+second from it, there may be Denial of marriage or the person may renounce his family and 
+take Sanyas. If there is even one strong benefic influence, then the situation will get saved. 
+
+
+Similarly fifth house and ninth house from upa pada should be seen for children. 
+
+
+the third house and the eleventh house from upa pada should be seen for brothers and 
+sisters. 
+
+
+In this manner after examining the relevant lagnas, planets and houses, Dasha and 
+Gochar should be applied for a good reading of the horoscope. 
+
+
+EXCERCISE 
+Q.1 _Howis Karkamasa used in judgement of the horoscope ? 
+Q.2 Whatall can be seen from Pada Lagna ? 
+
+
+Q.3 In which ways can Upa Pada help in judgement of the horoscope ? 
+
+
+An Introduction to Jaimini System 59 
+
+
+15. Predictive Hints from Jatak Tatva 
+
+
+Jatak Tatva has been composed by Shri Mahadeva Pathak of Ratlam about 125 
+years ago. It is considered to be equivalent to the famous Astrological classics. With great 
+expertise he has combined the Jaimini principles with the Parashari principles to come up 
+with very befitting él) composite techniques of prediction. Some Jaimini hints for judging 
+various aspects of the Jatak's horoscope are being given here from this treatise. 
+
+
+Mahadeva Pathak gives a lot of importance to the AUNEKATOK planet and the navamsa 
+Rashi occupied by him, which is the Karkamsa. 
+
+
+sere yea miPRa: quad) eras Gaageyd | 
+If the ninth house from karkamsa is occupied or aspected by a benefic planet the 
+
+
+person is virtuous, truth loving and.devoted to his superiors and preceptors. If malefics 
+occupy or aspect this ninth house, then it will not be so. 
+
+
+Karkamsa 
+1. Farater wok gaa | 
+
+
+If Karkamsa falls in Aries, the person suffers because of rats and cats. 
+
+2. FI AGMa: GATTI 
+If Karkamsa falls in Taurus the person gets happiness through his quadupeds. (Four 
+legged animals like bulls, cows and pets). It also implies Vehicles. 
+
+
+3. areple) GTA | 
+If Karkamsa falls in cancer, the person faces danger from water. 
+4. feeiteareat gxaer:| 
+If Karkamsa falls in Leo the person faces danger due to dogs and similar animals. 
+5, waist ger: | 
+If Karkamsa falls in Virgo the person faces danger due to sparks of fire. 
+6. Genet aftrsrar | 
+If Karkamsa falls in Libra, the person is a trader. SHR Ale HI AMR. Sey Tel ed 
+7. OY Gea Gears AT TTA 
+If Karkamsa falls in Sagittarius, then the person can die because of a fall from a vehicle 
+
+
+or from a height or due to an accident. Apart from death it also means fall from a high 
+position. 
+
+
+60 An Introduction to Jaimini System 
+
+
+8. Bist termite | 
+
+
+If Karkamsa falls in Aquarius, the person builds tanks etc. He indulges in deeds which 
+are for the benefit of others. 
+
+
+9. Ary cart 
+
+
+If Karkamsa falls in Pisces, then the person will be of a sacrifising nature. 
+House (Residence) 
+
+
+The planet placed in the fourth house from Karkamsa gives an idea about the Jatak’s 
+house. 
+
+
+1. Gases) orenreary | 
+If moon and Venus are placed in the fourth house from Karkamsa, the person will own 
+a large palatial house. ; 
+
+
+2 qasmgeme orarear | 
+
+
+If an exhalted planet is placed in the fourth house from Karkamsa, the person will owna 
+palatial house. 
+
+
+3. sergdereaail greareara | 
+If Rahu and Saturn are placed in the fourth house from Karkamsa, the person will own 
+a palatial house. 
+
+
+4, barigien fescanper | 
+
+
+IfKetu and Mars are placed in the fourth house from Karkamsa, the person's house will 
+be made of bricks. 
+
+
+5. tylsmivn’ © @rseqe | 
+If Jupiter is placed in the Sukhsthan from Karkamsa the house will be made of wood. 
+(There will be more woodwork in the house). 
+
+
+6. Geared *Gorypeq | 
+
+
+IfSun is placed in the Sukhsthan from Karkamsa the house will be made of grass and 
+leaves. (Maybe thatched roof.) 
+
+
+7. Weeal Be HATAGS YEAS: | 
+\f Rahu and Sun are placed in the fourth house from Karkamsa, and they are aspected 
+by only Mars, then the house can catch fire and get burnt. 
+
+
+An Introduction to Jaimini System 61 
+
+
+Education 
+
+
+dy 
+
+
+SAAR VATS * form | 
+If Jupiter is placed in the second or the fifth house from Karkamsa the person will be a 
+grammarian a linguist (one who knows many languages). 
+
+
+2. ekerer qdencsoal strigra: | 
+If Mercury and Jupiter are placed in the second or third house from Karkamsa, the 
+person is proficient in Mimansa (Philosopher). 
+
+3. steregarenared sia arfeees: | 
+If Jupiter and Mars are in second, third and fifth house from Karkamsa, the person will 
+be a logician (who can put forward Logical arguments). 
+
+4. sees Gad Hapiray aPrag: | 
+If Ketu and Jupiter are placed in the second third Orie house from Karkamsa, then the 
+person is a mathematician. 
+
+Wife 
+
+
+1. qarMeqE wale Gai 
+
+
+62 
+
+
+If Jupiter and Moon are in the Seventh from K.L. the wife will be beautiful. 
+
+
+. dered de aati Sh 
+
+
+If Saturn is in the Seventh from K.L. the wife can be older than the person. 
+
+
+. Sree A SH awe 
+
+
+If Mars is in the Seventh from K.L. the wife will be physically handicapped. 
+
+
+_ Sreteneneradl SAI 
+
+
+If mercury is in the Seventh from K.L. the wife will be very intelligent and proficient in 
+many types of arts. 
+
+
+. MERE TEEAtepm | 
+
+
+If Rahu is in the seventh from K.L. the lady of the house will be a widow. 
+
+
+Note : In today's context, a widow can mean separated or divorced. 
+
+
+| FRI AT ONG PAAASS' YAR Yare| 
+
+
+If the seventh house lord or its Karaka is associated or aspected by benefics or is 
+between benefics the wife will be good - Yet 
+
+
+An Introduction to Jaimini System 
+
+
+Profession 
+
+
+ee ore 
+
+
+Ifthe tenth house from K.L. is aspected by only Jupiter and Sun, the person will be a 
+cowherd (Dairying, or dealing in milk products) 
+
+
+9. steraftiy urttapRrarat | 
+
+
+Ifthere are two malifics in the Sixth house from K_L then the person is an agriculturist. 
+
+
+3. sergiona pftaai 
+
+
+If Jupiter is the ninth from K.L. the person is an agriculturist. 
+
+
+Note- The term Agriculturist and cowherd can cover a lot more than it did in the older days, 
+because these areas have become specialised with time. 
+
+
+4, St eft BH Geert: | 
+If Sun and Venus Aspect the K.L., the person is in government service, or has good 
+connections in the government. 
+
+
+5. Heeeaergega * Taye: | 
+If Tenth house from K.L. is accupied or aspected by mercury then the person will be in 
+government sen/ice. 
+
+
+a ait ae ute water) 
+
+
+If Saturn is in the K.L. the person will make a living through a famous line of occupation. 
+(A combination for Fame). 
+
+
+7. straitye aragee ufsra: 
+if Ketu is in the K.L and is aspected by only Venus then the person is a priest. 
+
+8. HT Bey Gea gaa Age: | 
+If the K.L. is aspected by Mercury, Moon and Venus and if Second lord is in the Seventh 
+house then the person is a doctor. 
+
+
+9. WyNrsatdsarrgd fascer: | 
+If K.L is occupied by Sun and Rahu and they are associated with benefic and malefic 
+planets then the person will be a doctor or Vaidya who is expert in poison cure. 
+
+
+10. Ywrgey wad 
+If K.L. is aspected by Venus and Moon the person is an alchemist (one who deals with 
+chemicals). 
+
+
+An Introduction to Jaimini System 63 
+
+
+11. aR a ore area | 
+If K.L. has Mercury or if Cancer Rashi is in the K.L., the person is a trader or a 
+businessman. 
+
+
+12, Maan ef 
+
+
+Ifthe K.L. is associated with Sun the person will be in the government service. 
+
+
+13 aft A ergaratatraal ‘afecitdt ay 
+If Mars is placed in the K.L., the person works with metals and alloys, chemicals, makes 
+weapons or works with fire like an Ironsmith or a goldsmith. 
+
+
+Deity 
+
+
+Ketu's association with any planet turns the person towards devotion. This is even 
+more so, if ketu is in pisces. 
+
+
+1. deaetas) Rrarae: | 
+
+If Ketu and Sun are placed in the K.L. the person is a devotee of lord shiva. 
+2. aedg dat Terra: | 
+
+If{moon and Ketu are placed in the K.L. the person is a devotee of Gouri. 
+3. aft aferoedl Rrevae: | 
+
+If Ketu and Jupiter are placed in K.L. the person is a worshipper of lord Shiva. 
+4. Bt filer gpl wet wae: | 
+
+If Ketu and Venus are in the K.L., the person is devotee to goddess Lakshmi. 
+5, BR Area feropre: | 
+
+If Mercury and Saturn are in the K.L. the person worships lord Vishnu. 
+6 at Grant teers | 
+
+If Ketu and Mars are in K.L., the worships lord subhramanya. 
+Note : 
+
+
+1. Significations of the planets rashis and houses should be modernised, and liberalised. 
+
+
+2. The shlokas are taken from 'Jatak Tatvam' of Daivagya 'Shri mahadeva Pathak’. 
+Commentary by - Shri Shrinivas Pathak of Ratlam. 
+
+
+64 An Introduction to Jaimini System 
+
+
+16. Glossary 
+
+
+Abbreviations 
+AK. - Atmakarak 
+Amk_~ - Amatyakarak 
+Bk - Bhratikarak 
+Vk - Matrikarak 
+Pk - Putrakarak 
+Gk - Gnatikarak 
+Dk - Darakarak 
+KL - Karakamsa Lagna 
+PL - Pada lagna 
+UP; Upa pada 
+R - Retrograde 
+MD - Mahadasha 
+AD - Antardasha 
+PD - Pratyantardasha 
+IH - 1st House 
+2H - 2nd house 12H-12th house etc. 
+IL 7 Lagna Lord , 2L Second lord etc, 
+DOB - Date of Birth 
+TOB - Time of birth 
+POB - Place of birth 
+D-1 - Lagna Chart 
+D9 - Navamsa 
+D-10 - Dasamsa 
+Terms used 
+Jatak - The person whose horoscope is being considered 
+Lagna - Ascendant 
+
+
+V é 
+An Introduction to Jaimini System 
+
+
+66 
+
+
+17. Bibliography 
+
+
+‘Predicting Through Jaimini's Char Dasha' - By KM. Rao 
+
+
+‘Predicting Through Karakamsa and Jaimini's Mandook Dasha' - By KM. Rao 
+
+
+"The Nehru Dynasty" - By KM Rao 
+‘Famous Women' - Guide and Editor KM Rao 
+‘Scientific Hindu Astrology’ - ByP.S. Sastry. 
+‘Jaimini Sutram’ - By P.S. Sastry. 
+‘Jaimini Sutras' - By BSurya Narain Rao 
+‘Studies in Jaimini Astrology' - By B.V. Raman 
+‘Upadesh Sutras of Jaimini’ - By K.V. Abhyankar 
+‘Prediction from Arudha' - By C.S, Patel 
+Jatak Tatvam' of Daivagya Shri Mahadeva Pathak -Commentary by 
+Sh. Shrinivas Pathak of Ratlam. 
+‘Jatak Tatva' - by S.S. Sareen. 
+
+
+An Introduction to Jaimini System 
+
+

@@ -1,0 +1,630 @@
+﻿Additional praise for 
+
+A Scheme of Heaven
+
+“Educated in both the humanities and the sciences, Boxer is uniquely 
+qualified to guide his readers into a fascinating story of mathemat-
+ical complexity. The overarching theme of our human destiny is 
+inspirational.”
+
+— Norman Austin, emeritus professor of classics, University of Arizona
+
+“Astrologers as the first and most ambitious quants and data scientists? 
+Alexander Boxer’s remarkable book reveals astrology’s mathematical, sci-
+entific, historical, philosophical, and literary roots. He shows that astrol-
+ogy is not only an indispensable part of science history but also springs 
+from the same mixture of motives: the desire to control the world and to 
+wonder about it.”
+
+— Robert P. Crease, author of The Workshop and the World 
+
+“Through multidisciplinary lenses, Alexander Boxer frames astrology as 
+one of the most ambitious and daring of all human intellectual endeavors. 
+This stellar book is a probe launched into the mysteries of the cosmos, 
+venturing out to rekindle our timeless capacity to marvel at the universe.”
+
+— Ferdinando Buscema, magic experience designer and 
+magician in residence, Institute for the Future
+
+SchemeOfHeaven_txt_final.indd   1 10/22/19   9:48 AM
+
+
+
+A  
+SCHEME  
+
+OF  
+HEAVEN
+
+A S TROLOGY and THE B IRTH of SCIE NCE
+
+ALEX ANDER  
+BOXER
+
+PROFILE BOOKS
+
+Scheme of Heaven CS6.indd   5 11/11/2019   18:21
+
+
+
+First published in Great Britain in 2020 by 
+Profile Books Ltd
+
+29 Cloth Fair
+London
+
+EC1A 7JQ
+
+www.profilebooks.com
+
+First published in the United States of America in 2020 by
+W. W. Norton & Company, Inc
+
+Copyright © Alexander Boxer, 2020
+
+1 3 5 7 9 10 8 6 4 2 
+
+Printed and bound in Great Britain by
+Clays Ltd, Elcograf S.p.A.
+
+The moral right of the author has been asserted.
+
+All rights reserved. Without limiting the rights under copyright reserved above, no part of this 
+publication may be reproduced, stored or introduced into a retrieval system, or transmitted, 
+in any form or by any means (electronic, mechanical, photocopying, recording or otherwise), 
+
+without the prior written permission of both the copyright owner and the publisher of this book.
+
+A CIP catalogue record for this book is available from the British Library.
+
+ISBN 978 1 78125 963 4
+eISBN 978 1 78283 409 0
+
+Scheme of Heaven CS6.indd   6 11/11/2019   18:21
+
+
+
+CONTENTS
+
+HOROSCOPE xi
+
+  INTRODUC TION 1
+
+ 1 TO E V E RY TH ING TH E R E I S A S E A SON 9
+
+ 2 FROM OB SCU R E B EG IN N ING S 31
+  AMARNA, EGYPT, 1338 BC
+
+ 3 A Q U ICK S PIN A ROU N D TH E CE LE S TI A L S PH E R E 49
+  SYRACUSE, SICILY, 212 BC
+
+ 4 S IG N S FROM A BOV E : M A RCU S M A N ILI U S A N D TH E TR A IT S  
+OF TH E ZODI AC 71
+
+  ROME, 44 BC
+
+ 5 CL AU DI U S P TOLEMY ’ S A S TROLOG IC A L TR AV E L G U IDE 93
+  ULTIMA THULE, 79
+
+ 6 HOW U N IQ U E I S A HOROSCOPE? V ET TI U S VA LE N S  
+A N D TH E GOS PE L OF FATE 119
+
+  ALEXANDRIA, EGYPT, 139
+
+ 7 PAT TE R N S , PAT TE R N S , E V E RY W H E R E! M A S H A’A LL A H ’ S 
+A S TROLOG IC A L H I S TORY OF TH E WOR LD 149
+
+  BAGHDAD, 762
+
+ 8 W H E N YOU W I S H U PON A S TA R , W H ICH A LGOR ITH M  
+S HOU LD YOU U S E? G U IDO BON AT TI ’ S A S TROLOG IC A L  
+W H E E L OF FORTU N E 173
+
+  MOUNT VENTOUX, FRANCE, 1336
+
+ 9 W H AT ’ S IN A N A M E? A S TRONOM E R S , A S TROLOG E R S ,  
+A N D M ATH EM ATICI A N S 205
+
+  HERREVAD ABBEY, DENMARK (NOW SWEDEN), 1572
+
+SchemeOfHeaven_txt_final.indd   9 10/25/19   9:48 AM
+
+
+
+x CONTE NT S
+
+ 10 B IG A S TROLOGY 229
+  MARE TRANQUILLITATIS, THE MOON, 1969
+
+ CONCLU S ION : U PON TH E WOR DS OF NO ON E 261
+
+AC K N OW L E DG M E N T S 265
+
+N OT E S 267
+
+I N D E X 301
+
+SchemeOfHeaven_txt_final.indd   10 10/22/19   9:48 AM
+
+
+
+A HOROSCOPE
+
+Upon Opening This Book  
+for the Very First Time
+
+T oday you find yourself presented with a mysterious opportu-
+nity. Take it, even if you’re not sure it was really meant for you. 
+
+The focus you apply at this moment has the potential to reveal a 
+number of unexpected connections, each of which can give you new 
+insights into how things stand around you. Go ahead, trust your 
+instincts. Your intuition has always been a faithful guide whenever 
+you’ve been true to yourself. Yes, mischievous Mercury has been in 
+and out of retrograde more than once this past year, and this hasn’t 
+made justifying yourself to others any easier. But Jupiter, ruler of the 
+sky, is there to reassure you that, right now, it’s your opinion which 
+matters most. And the Moon? Don’t mind her. That scary aspect of 
+hers will look completely different by the time she glides into a new 
+sign in just a few days. Besides, if all of this year’s transitions have 
+amounted to anything, it’s that you’ve emerged from them even more 
+resilient and receptive. Your whole being is now perfectly tuned to 
+appreciate the new perspectives that come with a challenging new 
+endeavor. But remember: even if it was the stars which brought you 
+here, only you can decide how much further you’ll go.
+
+SchemeOfHeaven_txt_final.indd   11 10/22/19   9:48 AM
+
+
+
+INTRODUCTION
+
+Do the stars and planets really have something to tell us about the 
+cycles of history, the secrets of love, the reasons your last job was 
+no longer right for you, and why everyone born in May is so incred-
+
+ibly amazing? Astrology’s unflinching reply is: yes, yes, yes, and definitely yes. 
+That the configurations of the heavens above can influence our lives here on 
+Earth below is, of course, the basic idea of astrology. Modern science has flatly 
+rejected astrology’s claims but this hasn’t hobbled astrology’s charms, certainly 
+not if the continued popularity of online and magazine horoscopes is anything 
+to go by. Let’s leave to one side for a moment all the arguments about whether 
+astrology is wrong, or right, or still wrong even when it’s sometimes right. I’m 
+here to make the case that astrology is fascinating and still tremendously rel-
+evant as a challenge to what we think we know and why we think we know it.
+
+For starters, the questions astrology asks— questions about the patterns 
+of the universe and our place within them— are about as deep and as capti-
+vating as they come. If there really is a way to tap into the hidden rhythms of 
+the cosmos, wouldn’t you want to know about it? But even more intriguing, 
+at least from where I stand, is how astrology uses mathematics and data to 
+investigate these questions. Over two thousand years ago, astrologers became 
+the first to stumble upon the powerful storytelling possibilities inherent in 
+numerical data, possibilities that become all the more persuasive when pre-
+
+SchemeOfHeaven_txt_final.indd   1 10/22/19   9:48 AM
+
+
+
+2 A SCH EM E OF H E AV E N
+
+sented graphically in a chart or figure. Although it took a while for the rest of 
+the world to catch on, the art of weaving a story out of numbers and figures, 
+often to encourage a specific course of action, is used everywhere today, from 
+financial forecasts to dieting advice to weather models.
+
+And yet numbers still mislead, figures still deceive, and predictions 
+still fail— sometimes spectacularly so— even those that rely on exception-
+ally sophisticated mathematics. So, are the techniques being used today to 
+parse and package quantitative information any more effective than what was 
+devised by astrologers millennia ago? 
+
+In order to make that assessment, it’s first necessary to have a basic 
+understanding of what astrology is and how it works. But that sort of 
+understanding— one that’s at least adequate to resolve some seemingly 
+straightforward technical questions— is surprisingly hard to come by for 
+such a long- lived and influential craft. Being frustrated in my own search 
+for a simple yet competent overview of astrology, I decided I might just as 
+well write one myself. This, curious reader, is the book you now hold in 
+your hands.
+
+My own interests in astrology stem from several directions, but mainly 
+it’s my enchantment with any sufficiently musty book from the history of sci-
+ence that nudged me to investigate astrology in a more detailed way. Astrol-
+ogy was the ancient world’s most ambitious applied mathematics problem, 
+a grand data- analysis enterprise sustained for centuries by some of history’s 
+most brilliant minds, from Ptolemy to al- Kindi to Kepler. Just consider that 
+for much of the last two thousand years, the word “mathematician” (math-
+ematicus) simply meant an astrologer; there was no distinction.
+
+Throughout its history, astrology’s aim has been nothing short of a sys-
+tematic account linking the nature of the heavens to our own human nature. 
+And from the computations of Copernicus to the sonnets of Shakespeare, 
+even to the sculptures in Rockefeller Center, there are, quite simply, recesses 
+of our culture that can’t be accessed without astrology’s key. This is especially 
+true in fields such as math and astronomy, where so many of the principal 
+innovators were themselves practicing astrologers. Take, for instance, the 
+Renaissance physician and mathematician Girolamo Cardano, who, when he 
+
+SchemeOfHeaven_txt_final.indd   2 10/22/19   9:48 AM
+
+
+
+INTRODUC TION 3
+
+wasn’t busy laying the foundations of algebra and probability theory, com-
+piled one of the first collections of celebrity horoscopes. Here, for example, is 
+his horoscope for King Henry VIII of England.
+
+Birth horoscope of King Henry VIII. Girolamo Cardano, 
+Libelli Quinque (Nuremberg: Johannes Petreius, 1547), 
+Geniture 46.
+
+Diagrams like this appear seemingly everywhere in books and pam-
+phlets from the Renaissance and scientific revolution. For the longest time, 
+I would skip over them, unable to make heads or tails of what seemed to 
+me like graphical gibberish. But to an expert interpreter like Cardano, these 
+inscrutable hieroglyphs evidently had the capacity to brew a bottomless pot 
+of juicy gossip. Were you taken aback by Henry’s break with the Catholic 
+Church? Well, now, who’s being naive? According to Cardano, Venus in the 
+Ninth House in a sextile aspect to Mercury is just screaming a major change 
+to the laws. His six wives? They really ought to have known better than to 
+get involved with someone whose Moon was in the Seventh House in square 
+with the Sun, while Saturn was in aspect with Venus at the same time Mars 
+was in aspect with Jupiter, the very lord of the Seventh House! Talk about 
+asking for marriage troubles!
+
+SchemeOfHeaven_txt_final.indd   3 10/22/19   9:48 AM
+
+
+
+4 A SCH EM E OF H E AV E N
+
+I find horoscopes such as Henry’s exciting on several levels. First, there’s 
+the exquisitely complex astronomical calculations needed to generate a horo-
+scope, which is really a map of the sky as seen from a particular spot on Earth 
+at a particular moment in time. The millennia- long project to refine these cal-
+culations led directly to Copernicus’s revolution and, from there, to modern 
+science as we know it today.
+
+Then there was the problem of how to condense and arrange all of this 
+information. Typically this was done visually. The graphical depiction of the 
+positions of the Sun, Moon, and planets constituted what William Lilly— by 
+far the most notorious astrologer in England during the 1600s— referred to 
+colorfully as a “scheme of heaven.” As an homage to this art, I’ve included 
+a number of these heavenly schemes throughout this book as a way to show 
+how the solar system was configured at key moments in astrology’s history. 
+The graphical style I’ve adopted, which is a bit different from Cardano’s, takes 
+the outputs of the most modern astronomical computations and displays 
+them according to the design of a very ancient and very beautiful astronomi-
+cal instrument called an astrolabe (plate 1). Presented in this format, King 
+Henry’s horoscope now looks like the diagram on the opposite page. 
+
+No doubt about it, there’s a tremendous amount of information here. But 
+astrology’s particular genius is that it can encode all of the complex astro-
+nomical data needed for its operations so perfectly within a single, abstract 
+image. To a remarkable degree, then, the exercise of understanding astrology 
+is really the exercise of learning how to “read” one of these figures. As this book 
+unfolds, I’ll describe how to do this piece by piece so that, by the end, you’ll 
+be able to visualize the sky in these charts as intuitively as you can see your 
+house in its floor plan, or navigate your way through a city with a street map.
+
+To sketch out a scheme of heaven like this was, however, only the begin-
+ning of the astrologer’s art. It was still necessary to interpret the data once 
+it had been reduced to graphical form, and this is where things really got 
+interesting. As Cardano’s reading of Henry VIII’s horoscope shows, these 
+sparse diagrams somehow contain within themselves a wild multitude of 
+possible plotlines. But which ones are expressed and which ones suppressed? 
+To borrow a term from biology, horoscopes are like the “pluripotent cells” of 
+
+SchemeOfHeaven_txt_final.indd   4 10/22/19   9:48 AM
+
+
+
+INTRODUC TION 5
+
+An Astrolabe-Style “Scheme of Heaven” for Tuesday, June 28, 1491  
+The Birth of England’s King Henry VIII
+
+SchemeOfHeaven_txt_final.indd   5 10/22/19   9:48 AM
+
+
+
+6 A SCH EM E OF H E AV E N
+
+storytelling, capable of producing many, but still not quite every possible out-
+come. Considered this way, horoscopes offer up neatly wrapped little pack-
+ages for examining the mischief that can arise when words are translated into 
+numbers and numbers are translated back into words, even if the numbers 
+themselves are handled with the utmost precision and care. The various ways 
+the borders get blurred between numbers and words, whether innocently or 
+otherwise, can be thought of as a second type of scheme, one that astrologers 
+were the first, but by no means the last, to grapple with.
+
+As someone who analyzes data for a living, my curiosity about these 
+schemes of heaven—“schemes” in their double sense of both a graphical blue-
+print and an interpretive sleight- of-hand— ultimately became too much to 
+resist. I wanted to understand them, to know how they work, to take them apart 
+and put them back together again. And so, perhaps not fully aware of what I 
+was getting myself into or where it all would lead, I took a deep breath, I set 
+aside my preconceptions, and I began in all seriousness to examine astrology.
+
+I can’t say that calculating planetary aspects to high precision was some-
+thing I ever pictured myself doing but, then again, maybe it all makes perfect 
+sense. I love opportunities to mash up ancient and modern technology, and 
+when it comes to archaic high- tech, astrology is the most formidable and 
+therefore the most tantalizing challenge of them all. Also, with astrology, it 
+helps to have a somewhat eclectic knowledge of both math and dead languages 
+which, by an odd quirk of my upbringing (unless Fate insists on taking credit), 
+I happen to possess. This combination isn’t terribly rare, but it’s uncommon 
+enough that it seems to have left astrology surprisingly underexplored.
+
+Of course, in a book of this scope, it’s not possible to focus on more than 
+just a few of astrology’s many facets. Certain topics, such as the astrology of 
+India and China, I’ve avoided altogether on account of the fact that I know 
+very little about them. But the traditions of Greek, Roman, and Renaissance 
+astronomy and the modern- day arts of statistical analysis are subjects which 
+I know quite well, the latter through my profession, the former through a 
+lifetime’s fascination. Does this give me license to write about astrology— a 
+topic for which the whole idea of expertise seems thoroughly up for grabs? 
+That’s a judgment you’ll have to make for yourself. For my own part, I make 
+
+SchemeOfHeaven_txt_final.indd   6 10/22/19   9:48 AM
+
+
+
+INTRODUC TION 7
+
+no pretense to astrological mastery. My hope, instead, is simply to offer a 
+different perspective on a subject for which it’s all too easily said that there’s 
+nothing new to be said about it.
+
+At a minimum, I want to give astrology a treatment that’s open and 
+fair. Unlike many others who have a scientific background, I’ve never felt 
+any particular animus toward astrology. On the contrary, its taboo status 
+as the arch- pseudoscience makes it all the more delicious to think about. 
+Why, for example, is astrology considered unscientific while economics— 
+which also uses complex mathematical formulas to predict the future with 
+results that are, let’s say, mixed— is regarded as a perfectly respectable field of 
+study? Being able to articulate the distinctions, yes, but also the commonali-
+ties between astrology and other modes of asking questions about the world 
+helps to clarify which approaches are fruitful, which aren’t, and why.
+
+Astrologers were the quants and data scientists of their day, and those of 
+us who are enthusiastic about the promise of numerical data to unlock the 
+secrets of ourselves and our world would do well simply to acknowledge that 
+others have come this way before. What profession would I, or anyone who 
+delights in numbers, have been drawn to had we lived five hundred years 
+ago? A thousand years ago? Two thousand years ago? Astrologers were the 
+originators, and for most of history the sole cultivators of a tradition that 
+transmuted numbers into stories. And like any story that’s been retold for 
+generations, astrology’s account of the cosmos has been refined to just its 
+most captivating themes. Regardless of whether astrology has distilled any 
+truth or not, what seems clear to me is that it has bottled up a certain type 
+of magic, one that has proven time and again its ability to get us to stop and 
+think about our connections to the wider universe. Against a backdrop of 
+indifference, this is some magic indeed. So who’s to say we can’t use a little 
+of astrology’s charms for our own ends? Whether you’re intrigued by astrol-
+ogy, repelled by it, or anywhere in between, we can interpret astrology’s 
+bold claims as an open invitation to explore some of the deepest mysteries 
+of who we are and where we are. This book is my elaborate way of saying yes 
+to that invitation, and now it’s my turn to invite you to come explore these 
+mysteries with me.
+
+SchemeOfHeaven_txt_final.indd   7 10/22/19   9:48 AM
+
+
+
+1
+
+TO EVERYTHING 
+THERE IS A SEASON
+
+When I behold Thy heavens, the work of Thy fingers,
+the moon and the stars, which Thou hast established;
+What is man, that Thou art mindful of him?
+and the son of man, that Thou thinkest of him?
+
+Psalm 8:4–5
+
+It’s possible that in ages past, there was a common intimacy with the night, 
+even if this has long since been lost to us in modern times. I’m not so sure. 
+To be outside, alone, on a clear and moonless night, far from any lights, 
+
+far from any trees, and looking up at the sky is not an ordinary thing. I’m 
+skeptical that it ever was. No, I don’t believe that we ever really notice the stars 
+except in those rare moments when their possibility of being seen coincides 
+with our openness to seeing them. But if you catch them in their splendor, 
+glimmering across the brisk night air like icy drops of cosmic fire, then you 
+have no choice except to stop and notice them. They engulf your vision fully. 
+They enfold your thoughts up whole. And there you stand beneath them feel-
+ing suddenly, utterly exposed. Because if you can see the stars that clearly, 
+might not they, then, see you too? Thus, when David sang his psalm, gazing 
+up at the sky in wonder, it wasn’t the contents of the night which moved him; 
+
+SchemeOfHeaven_txt_final.indd   9 10/22/19   9:48 AM
+
+
+
+10 A SCH EM E OF H E AV E N
+
+it was his astonishment that just as he was contemplating the universe, so too 
+the universe, or rather its creator, was contemplating him right back.
+
+This perception of a mutual regard between man and the cosmos has, 
+from our earliest beginnings, animated humanity’s efforts to understand the 
+world and our place within it. Modern science began from studying the heav-
+ens, and in this sense we can say that, yes, the stars really have communicated 
+to us many profound truths about the nature of things. The bigger question 
+isn’t whether the universe is speaking but, instead, how far we can ever hope 
+to comprehend what it might be saying. Because for all the progress that’s 
+been made in deciphering the Book of Nature, what expectation can there be 
+that humankind will ever manage more than a thin and incomplete trans-
+lation? The language of the cosmos is simply not our native tongue. And if 
+ever we wanted a reminder of the mismatch between the world as it is and 
+the world as it is processed through the filters of our minds, all we need to 
+do is look up at the stars.
+
+THE STR ANGENESS OF SEEING
+
+Quick: On a clear, dark night, how many stars can be seen in the sky? A 
+thousand? A million? A billion? If you’re like me, you might think a million 
+sounds high but it’s probably at least in the ballpark. Actually, in the modern, 
+high- precision Hipparcos star catalog there are only a paltry 5,044 stars that 
+have a visual magnitude of 6.00 or less— that’s the value generally considered 
+to be the limit of what’s visible with the naked eye. Since at any given moment 
+roughly half of these are hidden below the horizon, seeing a couple thousand 
+stars in the sky at any one time is as good as it gets— ever—even on a perfectly 
+pristine night. Does this seem like a surprisingly low number to you? It did to 
+me. So consider this our first hint, courtesy of the stars, that our natural abil-
+ity to gauge large numbers is not necessarily to be trusted without question.
+
+Now, a few thousand may sound like a small number, especially when 
+talking about stars, but it would still be very difficult, if not impossible, to 
+create a mental picture of the heavens that consisted of these several thou-
+sand stars regarded individually. Yet this bewildering chaos of darkness and 
+
+SchemeOfHeaven_txt_final.indd   10 10/22/19   9:48 AM
+
+
+
+TO E V ERY THING TH ER E I S A S E A SON 11
+
+light is immediately converted into a more intelligible map of the sky simply 
+by grouping the stars into constellations. The specific shapes of the constel-
+lations may be arbitrary, but the tendency to cluster the stars this way can 
+be found across the various stargazing cultures. The stars that make up the 
+constellation Ursa Major, for example, have been seen as a bear, a dipper, a 
+wagon, a plough, and an ox’s leg, to list just a few of its varied personae.
+
+Quite clearly, our brains have become exquisitely tuned to recognize the 
+shapes of people, animals, and other objects meaningful to our daily lives. 
+And when what occupies our field of view defies any discernible pattern, we 
+tend to foist these same shapes onto otherwise amorphous scenes such as 
+cloudscapes, rock formations, or the stars in the sky. Does the stone outcrop 
+in figure 1.1(a) look like a human head to you? If so, then your mind has per-
+formed a remarkable act of association, one which emphasized the object’s 
+loose outlines while completely discounting other information, such as size, 
+texture, color and situational context. Rock formations like this one, just like 
+the constellations above, are good indicators that we rarely perceive the world 
+in a perfectly straightforward way. 
+
+Interestingly, a very similar phenomenon occurs in computer vision 
+applications. It’s an impressive technological feat to coax a computer to rec-
+ognize a class of visual objects— say, for example, dogs— within a larger col-
+lection of images. But once you succeed in doing this, it’s just as hard, if not 
+harder, to restrain the algorithm from falsely seeing dogs everywhere. Figure 
+1.1(b), for instance, uses an algorithm called DeepDream— originally devel-
+oped by Google in 2015— to show what a computer- vision application trained 
+to recognize dogs “sees” when looking at a photograph of clouds. The com-
+posite images generated by DeepDream are sometimes illuminating, occa-
+sionally beautiful, but mostly just delightfully bizarre. Yet what these images 
+do reveal is that a computer that has been taught to see faces and animals like 
+we do— namely, by emphasizing outlines above everything else— will tend 
+to see faces and animals in the clouds just like we do, too. This suggests, not 
+surprisingly, that our peculiarly human way of seeing the world is probably 
+inseparable from our peculiarly human ways of misconstruing what we see.
+
+Of course, the fact that the constellations have traditionally taken on 
+
+SchemeOfHeaven_txt_final.indd   11 10/22/19   9:48 AM
+
+
+
+12 A SCH EM E OF H E AV E N
+
+Figure 1.1: What Do You See?
+
+(a) The Grey Man of 
+the Merrick, Galloway 
+Hills, Scotland.  
+GARY COOK / 
+AGEFOTOSTOCK.
+
+(b) Doglike features 
+in the clouds over 
+Washington, DC, 
+enhanced by Google’s 
+DeepDream algorithm.
+
+the rowdy shapes of beasts and demigods doesn’t mean that anyone has ever 
+suggested that the sky is infested with lumbering space- bears or interstellar 
+scorpions. But the constellations do illustrate nicely that there is a limit to the 
+number of objects the human mind can handle individually before it tends to 
+impose an additional layer of abstraction. For most people it’s simply more 
+convenient— one might even say more human— to view the night sky not as 
+the disposition of several thousand stars but instead as the disposition of just 
+several dozen constellations.
+
+In general, when the number of distinct objects in a system is reduced 
+from thousands to dozens, our minds can begin to develop a basic familiarity, 
+identify structures, and examine how parts relate to the whole. We can even 
+
+SchemeOfHeaven_txt_final.indd   12 10/22/19   9:48 AM
+
+
+
+TO E V ERY THING TH ER E I S A S E A SON 13
+
+take those parts and craft that higher and most human layer of abstraction: 
+a narrative story. As an extreme case, consider that nearly 10 percent of the 
+night sky (plate 2) can be accounted for by retelling just one single legend, that 
+of a hero (the constellation Perseus) who slays a monster feared for her demon 
+eye (the star Algol) which could turn any living creature to stone. This hero 
+then returns to rescue a beautiful princess (the constellation Andromeda) 
+
+Figure 1.2: Real and Random Star Maps
+
+a b
+
+c d
+
+e f
+
+g h
+
+Four of these maps depict famous constellations, and 
+four show random dots. Can you tell which are which?
+
+SchemeOfHeaven_txt_final.indd   13 10/22/19   9:48 AM
+
+
+
+14 A SCH EM E OF H E AV E N
+
+chained to a rock by her parents (the constellations Cepheus and Cassiopeia) 
+as a sacrifice to a giant sea monster (the constellation Cetus).
+
+All the same, our propensity to group stars into constellations and con-
+stellations into stories can hardly be said to derive from the actual arrange-
+ment of the stars themselves. In fact, to a remarkable degree, the distribution 
+of stars in the sky is completely random. Figure 1.2, for example, shows eight 
+star maps, each depicting a roughly equal area of sky. Four snippets contain 
+famous constellations and the other four show an alternate night where all 
+the brightest stars of our sky have been repositioned entirely at random. Can 
+you tell which four are real and which four are random? I’ll reveal the correct 
+answers in the next section. 
+
+KEEPING COUNT
+
+For millennia, the stars have been our teachers in how to extract information 
+from vast, unruly clumps of seemingly incoherent data. And if, as the stars 
+have shown us, there are peculiarities in how our minds process quantities 
+that are very large, or that exhibit randomness, this doesn’t mean that we’re 
+unable to learn anything about systems that are large, or random, or both. 
+Fortunately, our brains are capable of a trick or two that allows us to com-
+pensate, at least somewhat, for our occasionally skewed first impressions of 
+things. For the most part, these tricks rely on nothing more than our innate 
+ability to count.
+
+As an example of what can be learned simply through careful counting, 
+take another look at figure 1.2. The four images depicting a genuine repre-
+sentation of the night sky are b: Taurus and Auriga, d: Leo, e: Scorpius, and 
+f: Cygnus. If you were brave enough to attempt to sort them, then your score, 
+which is the number of star maps you correctly identified as being genuine, 
+will be either 0, 1, 2, 3, or 4. For all but the most seasoned stargazers, however, 
+it should be pretty tough to pick out all four legitimate maps. How tough? 
+Well, your chances getting any given score just by guessing are presented in 
+table 1.1.
+
+SchemeOfHeaven_txt_final.indd   14 10/22/19   9:48 AM

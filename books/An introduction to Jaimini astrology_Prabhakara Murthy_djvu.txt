@@ -1,0 +1,3813 @@
+An Introduction 
+
+
+to 
+
+
+JAIMINI ASTROLOGY 
+
+
+G.V. Prabhakara Murthy 
+
+
+FOREWORD 
+
+
+Dr. Sagi Kamalakara Sharma, 
+
+M.A. (Telugu, Sanskrit, Astrology, English & Philosophy) 
+2-2-1133/5/6/1, Plot No. 204, 
+
+Shivananda Livings, New 
+
+
+Astrology is such an excellent subject which indicates many 
+things through Planets, Signs and Bhavas. Among major five 
+parts, ‘Hora’ plays a special role on human minds. In Hora 
+Sastra, various methods are there to observe the future of the 
+person. One among them is Jaimini. Jaimini approach is special 
+than others. 
+
+
+Jaimini sutras are very complicated and difficult to understand. 
+Writer of this valuable book Sri G.V. Prabhakara Murthy 
+introduces the Jaimini principles to the students who want to 
+study this subject. Understanding and explaining Samskrita 
+Slokas in Jaimini is somewhat problematic. For that purpose, 
+Sri GV. Prabhakara Murthy given the gist of slokas which any 
+one can understand easily. 
+
+
+He has kept the order of the topics in such a way that a student 
+can gradually build up the knowledge without any difficulty. He 
+has dealt with the differences between Parashari system and 
+Jaimini system, the importance of Jaimini system in the 
+beginning of the book itself. 
+
+
+The KATAPAYA identifications are given at the end of the book. 
+If these are given in the beginning of the book, the student may 
+get confused with it because there are no Samskrita slokas in 
+the book and the student may not use this with proper 
+understanding. 
+
+
+Other topics like Karakamsha, Arudha, Upapada, Aspects, 
+Argalas, different Lagnas and Chara dasa are dealt with very 
+clearly. The best thing Sri G.V. Prabhakara Murthy has done is, 
+he has taken the example horoscope of Mrs. Indira Gandhi for 
+all workings. 
+
+
+| cordially appreciate the effort of Sri G.V. Prabhakara Murthy 
+who is teaching Astrology at Bharateeya Vidya Bhavan, 
+Bangalore. He not only studied astrology, but has worked in 
+different parts of it. Particularly he has studied but also worked 
+and right now teaching Jaimini Principles. 
+
+
+| expect many more works from Sri G.V. Prabhakara Murthy. 
+
+
+Sarva Sampathprada SRIMATA bless Sri GV. Prabhakara 
+Murthy and his Family with good health, wealth and prosperous 
+useful life. 
+
+
+Shubham Bhuyath.... 
+
+
+Dr. Sagi Kamalakara Sharma 
+
+
+INDEX 
+
+
+PROLOGUE 
+
+
+Introduction 
+
+* — Origin 
+
+* Comparison between Parasari & Jaimini 
++ Advantages of Jaimini 
+
+
+marek’ 
+
+Jaimini Karakas 
+
+Nitya Karakas 
+e@ Naisargika and additional karakatwas for Planets 
+@ Characteristics of Atma-Karaka (of various planets) 
++ — Results from Atmakaraka 
+
+
+Arudha 
+
+@ Plotting of Arudhas 
+Special rules for Kendras 
+Chakras - Udaya, Prakriti, Vikriti, Pada(krama) 
+& Graha Chakra 
+
+
+Aspects & Argalas 
+
+e@ Aspects between Rasis 
+Categories of argalas 
+Strength of Rasis 
+Strength of Planets 
+
+
+Fagnas 
+Types of Lagnas 
+
+* Hora Lagna 
+
++  Bhava Lagna 
+Varnada Lagna 
+Ghatika Lagna 
+
+
+6. pysienat Charts 
+Hora 
+Drekkana 
+Navamsa (Somanatha) 
+Amsa Lagna 
+Karakamsa Lagna 
+@ Karakamsa Rasi 
+
+
+7. Yogas 
+* Yogada Planet 
+@ Rajayogas 
+
+
+* Kemadruma Yoga 
+
+
+8. Dara Systems 
+Types of Dasas - Phalitha & Ayur Dasas 
+Chara Dasa 
+1. Savya - Apasavya Rasis 
+2. Dual lordship 
+3. Dasa order and Dasa years with special rules 
+4. Dasa-Year calculation for dual lordship rasis 
+5. Anthar-Dasa periods in Maha Dasa and its order 
+
+
+9. Interpretation of Rasi (Chara) Dasa 
+
+
+10. Delineation 
+Analysis of horoscope 
+Timing of Events 
+
+
+11. Longevity 
+Life Span 
+° Brahma 
+e Rudra 
+. Maheswara 
+e Sthira Dasa 
+
+
+12. Miscellaneous 
+a. KA,TA,PA,YA 
+b. Details of Adhyayas 
+c. Commentaries on Jaimini Sutras 
+d. Annexure 
+
+
+EPILOGUE 
+
+
+PROLOGUE 
+
+
+While studying a subject like astrology, it is not only essential 
+to know the language, grammar and the subject, but also the 
+spirit of the author with which ithas been written. Itis more so, 
+with the subject like Jaimini Upadesha Sutrani. 
+
+
+There are 10 chapters in Brihath Parasara Hora Sara (BPHS) 
+related to Jaimini methodology. Why should Jaimini pick up 
+these 10 chapters only which are not in a serial order. Jaimini 
+had achieved two purposes through it. The first - all the 
+anomalies in BPHS have been avoided. The second - no riders 
+are attached to any sutra. These sutras can be directly applied. 
+
+
+When we go through Raja Yogadhyaya of BPHS carefully, it 
+dawns that Jaimini sutras are supplementary to BPHS. The 
+study of BPHS is not complete without the study of Jaimini 
+sutras. In Rajayogadhyaya, Sage Parasara mentions that any 
+of the combinations from Lagna, Lagnadhipathi, Atmakaraka, 
+Karakamsa Lagna etc., are sufficient to provide Rajayoga. 
+
+
+The beauty of Jaimini sutras lies in the fact that it has nowhere 
+contradicted or denied any of the principles laid by Maharshi 
+Parasara. Jaimini cannot be learnt without learning the 
+principles of Parasara. Jaimini system is supplementary to 
+Parasara system. 
+
+
+A number of commentaries are available now. Many people 
+have translated the sutras both into English as well as regional 
+languages. Hence, there is a considerable difference in 
+understanding the sutras. Elaborate explanation is given 
+wherever different schools of thought are prevailing on the 
+principles in the annexure. Some ofthe subjects like Argalas 
+& Yogas are introduced. These concepts will be dealt in depth 
+inthe advanced studies. . 
+
+
+With a lot of advantages, why then Jaimini system has not 
+gained popularity? To determine chara karakas, exact position 
+(longitudes) of the planets is essential. Earlier only the persons 
+familiar with graha-sputa were able to do it. Others, who 
+depend on almanacs (panchanga) were biased towards 
+Parasari system because by knowing planetary positions 
+
+
+through nakshtra padas, they could erect Janma-Kundali and 
+Navamsa-Kundalis easily. With the advent of computers and 
+astrological software it is now easy to find the exact longitudes 
+of planets. Other reason being that the earlier commentaries 
+like Kalpalata, Jataka Sara Sangraha etc. were not available 
+freely. Now, most of them are available. Hence, Jaimini system 
+is popular now a days. 
+
+
+This book is primarily meant for beginners. The topics are 
+arranged in such a way to make the student to follow the 
+subject easily. It also helps the faculty to teach the subject in a 
+comprehensive mode. 
+
+
+My interest in Jaimini was kindled, when Sri Dr. S. Krishna 
+Kumar, president Bharathiya Jyothisha Samsthan(R), 
+presented me Jataka Rajeeyam, a rare book on Jaimini system 
+in Telugu, printed in 1933. Then | started collecting all the 
+literature available on the subject. Sri Madhura Krishnamurthy 
+Sastry was kind enough to provide me the manuscripts like 
+Kalpalatha (by Somanatha); Neelakanta Vyakhya and others 
+on Jaimini sutras. He was also kind enough to enlighten me on 
+the subject and clarify my doubts whenever | approached him. 
+| am very grateful to both ofthem. 
+
+
+When | approached Dr. Sagi Kamalakara Sharma, MA. 
+(Telugu, Sanskrit, Astrology, English & Philosophy),Head of 
+the Department, Osmania University, Hyderabad went through 
+my book and readily accepted to write foreword. My sincere 
+thanks to him for his kind gesture. 
+
+
+| am thankful to Sri C.B.R.K. Sharma, Hyderabad, Sri 
+S.N.Tekur for their valuable suggestions and my colleagues at 
+Bharathiya Vidya Bhavan for their support. 
+
+
+| am also thankful Sri M. C. Rangarajan, Sri K.N. 
+Balasubramanyam, Sri N.S. Jayaram and other students who 
+have helped me in bringing outthis book. 
+
+
+| thank Sri M.S. Hebbar for his beautiful design of the cover 
+page and Sri S. Sanath Kumar, Ravee Screens who has taken 
+keen interest in bringing outthis book, in time. 
+
+
+Chapter 1 
+
+
+Introduction 
+
+
+ORIGIN: 
+
+
+Parasara HORA SARA is the first authentic book on astrology 
+written by the great Maharishi Parasara Transits is the only 
+topic which does not find a place in this excellent book on 
+Astrology. Jaimini system of astrology may be termed as a 
+branch of Parasara system of astrology. 
+
+
+Maharishi Veda Vyasa was the son as well as the disciple of 
+Maharishi Parasara. Veda Vyasa segregated Vedas and put 
+them into proper order. He had also extensively analysed 
+Ashtadasa Puranas in his various works. 
+
+
+Maharishi Veda Vyasa had four disciples. They were i) 
+Vyshampayana ii) Paila iii) Jaimini and iv) Sumantha. Each one 
+of them propagated one out of four Vedas. Maharshi Jaimini 
+propagated Samaveda and also authored Jaimini Sutras, 
+Jaimini Bharatha and Purva-Mimamsa. There are many 
+references of Jaimini topics in Bruhat Parasara 'HORA SARA’. 
+
+
+Jaimini has used sutras instead of slokas while writing the book 
+popularly known as 'JAIMINI UPADESHA SUTRAS". Sutras are 
+one of the wonders of Sanskrit language. It is shortest in form 
+with largest meaning. Sutras are typical and direct to the point. 
+A deep knowledge of Sanskrit is very essential to understand 
+the true meaning of Sutras in proper perspective. Sometimes it 
+could be possible to interpret altogether in a different meaning. 
+
+
+Jaimini system has its own distinctive features and appears to 
+be very accurate in timing of the events. It avoids elaborate 
+mathematical calculations like shadbala or vimshopakabala. It 
+uses minimum number of divisional charts and yogas. 
+
+
+Jaimini has given us this wonderful branch of astrology 
+developing certain aspects of Parasara system. The beauty of 
+the system is it does not contradict any of the principles of 
+Parasara system. In fact, it has depended on Parasara for 
+calculating various lagnas and Rasi & Graha swaroopaadhyas. 
+
+
+The teachings of Sage Parasara were carried forward by Sage 
+Jaimini who took up certain topics from Parasara hora sara. 
+The topics discussed by Maharishi Parasara in his Hora-Sara are 
+listed below. 
+
+
+Chapter - 06 Visesha Lagnadhyaya 
+Chapter - 09 Rasi-Drishti Kathanadhyaya 
+Chapter - 31 Padadhyaya 
+
+Chapter - 32 Upa-padadhyaya 
+
+Chapter - 33 Argaladhyaya 
+
+Chapter - 34 Karakadhyaya 
+
+Chapter - 35 Karakamsa-Padadhyaya 
+Chapter - 41 Raja Yogadhyaya 
+
+Chapter -48 Dasadhyaya 
+
+0. Chapter - 52 Dasa-Phaladhyaya 
+
+
+=O ON OaAPRWON 
+
+
+Jaimini has deliberated the above topics in detail in his great 
+work “Upadesha Sutraani". 
+
+
+Another speciality of Jaimini system is that Maharshi Jaimini 
+has not repeated what had been told earlier by sage Parasara, 
+like Rasi-sheeladhyaya and Graha-sheeladhyaya and also 
+advised, to use them freely, wherever necessary (Horadayah 
+siddhah 1-1-35). 
+
+
+Because ofthis lineage, MaharshiJaimini does not find the place 
+in the list of 18 great teachers (Ashtadasa pravartakas). 
+
+
+Comparison between Parasari and Jaimini: 
+
+
+Even though the roots of the Jaimini Sutras lie in Parasari 
+System, there are some marked differences in the approach 
+by the Sage Jaimini. Some of them are- - 
+
+
+This is in the form of Slokas This system has only Sutras. 
+
+
+This system covers all aspects. This system has limited coverage. 
+Muhurtha and Mundane matters 
+
+are not covered. However, Horary 
+has been covered (Arudha Ratna 
+Siddhanjanam by Sri Siddanatha) 
+
+
+Lagna, Arudha, upapada lagna, 
+Karakamsas are the main 
+considerations for analysis of the 
+Horoscope. 
+
+
+Lagna, Karakas, Dasa / bhukti are Arudha Padas and chara karakas 
+considered for delineation are considered 
+
+
+Karakas are elaborate [Naisargika, | Chara karakas are very important 
+Sthira & Chara] 
+
+Dasas are Nakshatra based 
+
+Period of Dasa is fixed for each 
+planet. The balance of dasa 
+depends on the longitude of Moon 
+
+
+Lagna is the focal point for 
+analysis of Horoscope. 
+
+
+Dasa periods are Rasi based 
+Rasi Dasa period varies for each 
+horoscope - from 1 year to 12 
+
+years depending on the location 
+of the planet (Lord of dasa rasi). 
+
+
+Planetary strength is determined by 
+Avastha of Planets and shadbala, 
+vimsopaka bala etc. 
+
+Bhava bala decided on shadbala, 
+ashtaka varga etc. 
+
+
+Direct assessment based on 
+rasi Strength. 
+
+
+Shadbala is not considered 
+Basically there are four sources of 
+strength. 
+
+
+Number of Dasas - based on Udu 
+dasa system. [32 Dasas] 
+
+
+Rasi based Dasa systems are 
+followed. 70 dasa systems are 
+available according to some 
+scholars 
+
+
+Many Karakatwas of planets are Focus is on Chara karaka only 
+considered 
+
+
+Aspects between planets Aspect between Rasis 
+Many Yogas [few thousands] Very few yogas. ! 
+3 
+
+
+Basically three Varga charts are 
+used - D1, D9, D3 
+No difference between Rasi and 
+Bhava 
+Distinct identity between Lagna & Stronger of Lagna & 7th house is 
+7" house and are used independently] used for delineation in some cases 
+
+
+Yogakarakatwa assigned to lords of | Yogakaraktwa assigned to planets 
+
+trines & quadrants which associate with various 
+lagnas-kevala, yogada etc. And 
+combination of chara karakas like 
+Ak& Pk 
+
+
+There is no dual lordship for any of Dual lordship for Scorpio and 
+the signs. Aquarius is considered in few dasa 
+systems. 
+
+
+Trines are auspicious always. Trines need not be auspicious 
+always. 
+
+
+Kemadruma yoga is both benefic and) Kemadruma Yoga is always 
+
+malefic. There are cancellation malific. There is no cancellation of 
+
+combinations for this yoga. yoga. The combinations for 
+kemadruma yoga are different. 
+
+
+Advantages of Jaimini: 
+
+
+There are many advantages in Jaimini system. 
+1. Error in birth time does notmake much difference. 
+
+
+2. Planets in rasi-sandhi are not considered weak. In 
+fact they become more powerful if their placement 
+in a rasi has higher longitude. 
+
+
+3. Ayanamsa does not make much difference. Only 
+Planets in rasi sandhis may shift rasis when different 
+ayanamshas are used. 
+
+
+4. Dasas are rasi based. Dasa system is not based on 
+Nakshatras. 
+
+
+Dasa duration at birth does not get affected 
+whatever be the time of birth or janma nakshatra. 
+
+
+Dispositors do notmake any difference. 
+Yogakarakas are well defined. 
+
+
+Linkage between Bhavas (influence of Bhavas 
+among themselves) is easily found out through 
+Arudhas. 
+
+
+No mathematical calculations like shadbala. 
+Assessment of the strength of planets is made very 
+simple. 
+
+
+‘ 
+
+
+Chapter 2 
+
+
+Karakas 
+
+
+There are two types of karakas in Jaimini. One is Chara (anitya) 
+karakas and another one is nitya karakas. 
+
+
+Chara karakas : The uniqueness of Jaimini is the introduction 
+of Chara karakas. There are 7 Chara karakas and they are 
+determined based on the planets’ longitudes in a rasi. Hence, 
+they are not fixed like in Parasara system and vary from 
+horoscope to horoscope. This is reason for calling them as 
+chara karakas, as they vary from horoscope to horoscope. Any 
+planet can acquire any karakatwa, depending on its position in 
+a rasi at the time of birth. In this system, Karakatwas are not 
+given to Ketu, but Rahu can become karaka under certain 
+conditions. The Karakatwas play a significant role in the 
+delineation of horoscope in this system. 
+
+
+The seven chara karakas are - 
+
+
+. Atma karaka 
+
+. Amatya Karaka 
+
+. Bhratru karaka 
+
+. Matru Karaka 
+
+. Putra Karaka 
+
+. Gnati Karaka and 
+. Dara Karaka 
+
+
+NOaohond a 
+
+
+ATMA Karaka : The planet having highest longitude in a RASI 
+is Atmakarka and normally denoted as Ak. 
+
+
+AMATYA Karaka : The planet with the second highest 
+longitude in a RASI will be Amatyakaraka for that horoscope 
+and normally denoted as Amk. 
+
+
+BHRATRU Karaka : The planet with third highest longitude in 
+a RASI will be Bhratrukaraka for that native and normally 
+denoted as Bk. 
+
+
+MATRU Karaka : The planet with fourth highest longitude in a 
+RASI will be Matrukaraka for that horoscope and normally 
+denoted as Mk. 
+
+
+PUTRA Karaka : The planet with fifth highest longitude in a 
+RASI will be Putrakaraka for that horoscope and normally 
+denoted as Pk. 
+
+
+GNATI Karaka : The planet with sixth highest longitude in a 
+RASI will be Gnathikaraka for that native and normally denoted 
+as Gk. 
+
+
+DARA Karaka : The planet having least longitude in a RASI will 
+be Darakaraka for that horoscope and normally denoted as Dk. 
+
+
+In all the above assessments, the Rahu and Ketu are not taken 
+into account. | However, in some cases, where two planets 
+become eligible for the same karakatwa due to their positioning 
+at the same longitude, one karakatwa would become vacant 
+and Rahu shall be considered for filling that Karakatwa. 
+
+
+When three or more planets have identical longitude, then all 
+the three become eligible for the same karakatwa. In such 
+case, the Rahu is to be considered for the next karakatwa and 
+the Naisargika karakas are. considered for the other 
+karakatwas. For example - if Sun is the Bhratrukaraka and 
+Moon & Mars have identical longitude in a rasi, then all the 
+three hold the same karakatwa; Rahu becomes Matrukaraka; 
+Putrakaraka being vacant, will be filled up by Jupiter, the 
+natural significator of Children. 
+
+
+The longitude of Rahu shall be considered from the end of the 
+sign, as he traverses from the end towards the beginning of a 
+sign. That is subtracting the longitude of Rahu from 30 degrees 
+to get its true longitude in that sign. 
+
+
+When considering Rahu for filling up a vacancy created by two 
+or more planets having identical longitude, consider the 
+planet(s) having highest degree for first karakatwa. (But not 
+for Atmakaraka in 7 karaka scheme). 
+
+
+7 
+
+
+For other planets consider the longitude as it is whether the 
+planet is direct or retrograde. In the chart of Smt. Indira 
+Gandhi, Jupiter is at 14° 16’in Taurus and retrograde. However, 
+only 14° 16' is considered while determinining the Karakatwa 
+and retrograde is not considered atall. 
+
+
+Nitya karakas: In BPHS sthira karakas are defined. They are 
+common for all the horoscopes. Though it is not uncommon in 
+using them in Jaimini system, Jaimini has attached additional 
+significations to the following planets. 
+
+
+Mars: Sisters, Younger brother, Brothers - in - law and Mother. 
+
+
+Mercury: Maternal uncle, Mother's sisters/ Step-mother, Wife 
+of Father's brothers and relatives from mother's side. 
+
+
+Jupiter: Husband, Paternal Grand-parents, Children, Cousins 
+and bosses or higher authorities. 
+
+
+Venus: Brothers, Parents, Son-in-law, Father-in-law, Mother- 
+in-law and maternal grand-parents. 
+
+
+When two or more planets represent the same relationship, the 
+planet which is having highest longitude shall be considered for 
+that karakatwa. When the planets are having identical 
+longitudes, then consider natural strength (Naisargika Bala) of 
+the planets. Saturn, Mars, Mercury, Jupiter, Venus, Moon and 
+Sun are stronger in ascending order. 
+
+
+The natural beneficence and natural malevolence of the planets 
+only are considered in Jaimini system 
+
+
+Naisargika and additional karakatwas for Planets: Where 
+ever it is not defined, then consider the sthira karakatwas 
+defined by Parasara system. 
+
+
+Smt.Indira Gandhi's chart has been taken as_ standard 
+example, since most of the people know her life and incidents 
+that occurred in her life. 
+
+
+Indira Gandhi 
+DOB: 19-11-1917 
+
+
+TOB: 23:03 
+POB: 81 E 52; 25 N 28 
+
+
+| Karaka | Planet__— || Longitude _| 
+| Bhratru karaka | Mars | 16:28 
+| Gnathikaraka | Moon | 05:31 
+
+
+Characteristics of Atma-Karaka (of various planets): The 
+characteristics of the Atmakaraka, when different planets 
+become atmakaraka as given below. 
+
+
+Sun: When the Sun is Atmakaraka, the native is courageous 
+and has endurance to face ups and downs in life. Unafflicted 
+sun is considered as benefic. 
+
+
+Moon: When Moon is Atmakaraka, the native is brilliant and 
+adopt to any situation. 
+Moon is always considered benefic. 
+
+
+Mars: When Mars is Atmakaraka, the native is bold and 
+dashing type and indulges in adventures and challenging tasks 
+in life. Marsis considered malefic. 
+
+
+Mercury: When Mercury is Atmakaraka the native is 
+intelligent. They are fond of materialistic gains. Mercury is 
+considered _benefic. 
+
+
+Jupiter: When Jupiter is Atmakaraka, the native is self 
+confident and has high ambitions in life. Jupiter is considered 
+benefic. 
+
+
+Venus: When Venus is Atmakaraka, the native is gentle. They 
+are fond of worldly comforts and luxuries. Venus is considered 
+benefic. 
+
+
+Saturn: When Saturn is Atmakaraka, the native is principled in 
+life and hard working. Saturn is considered malefic. Generally, 
+it is observed that the native prospers in the later part of life. 
+
+
+Note: Maharshi Jaimini classified the planets into natural 
+benefics and malefics. There is no classification like functional 
+benefics and malefics as in Parasara system. 
+
+
+Results from Atmakaraka: This is the most important planet 
+in a horoscope and entire horoscope revolves around it. The 
+Atmakaraka, the rasi in which it is posited in Navamsa chart 
+(known as Karakamsa) and that rasi of Navamsa Kundali in 
+Janma-kundali (Known as Karakamsa Rasi) are extremely 
+important in the assessment of the horoscope. The strength 
+of Atmakaraka determines the strength of the horoscope. The 
+position of AK determines the benefic or malefic results. He is 
+considered strong when posited in exaltation, Moola -Trikona, 
+
+
+10 
+
+
+own house and friendly houses. He is considered weak when 
+posited in debilitation, combust and in inimical signs. The 
+inimical signs of the planets are listed below. 
+
+Sun: Taurus, Gemini, Libra, Capricorn and Aquarius. 
+
+Moon: Libra, Scorpio and Aquarius. 
+
+Mars: Gemini, Virgo, Libra, Aquarius and Pisces. 
+
+Mercury: Cancer, Scorpio, Aquarius and Pisces. 
+
+Jupiter: Taurus, Gemini, Virgo and Libra. 
+
+Venus: Cancer, Leo, Scorpio and Sagittarius. 
+
+
+Saturn: Aries, Cancer, Leo, Scorpio and Sagittarius. 
+
+
+The benefic houses for Rahu and Ketu are given below. When 
+they are posited in these houses they deliver good results. 
+
+
+Rahu: Aquarius, Pisces, Aries and Taurus 
+
+
+Ketu: Scorpio, Sagittarius, Capricorn and Aquarius. 
+
+
+11 
+
+
+Chapter 3 
+Arudha 
+
+
+One of the beautiful concepts of Jaimini is Arudha. This gives 
+instant linkage between Bhavas. Arudha is also known as Pada. 
+
+
+Plotting of Arudhas: Arudhas are calculated for all the 12 
+Bhavas. Count the number of rasis its Lord is away from a 
+Bhava. The number of rasis counted from the position of the 
+
+
+Lord will be the Arudha ofthat Bhava. 
+
+
+Arudhas for all the 12 bhavas are termed as follows: 
+
+
+Lagna Arudha or Arudha Lagna  -Arudhaof1sthouse [AL] 
+i. Dhana or KoshaArudha -Arudha of 2nd house = [A2] 
+ii. Vikrama or Bhratru Arudha -Arudha of 31a house = [A3] 
+v. Vahana or Sukha Arudha -Arudha of 4" house. [A4] 
+v. Mantra or Putra Arudha -Arudha of 5" house = [A5] 
+vi. RogaorShatru Arudha -Arudha of 6h house = [A6] 
+vii. Kama or Kalatraor DaraArudha -Arudha of 7th house  [A7] 
+viii. Mrityu Arudha -Arudhaof8"house [A8] 
+ix. Pitru or Bhagya Arudha -Arudha of 9 house = [A9] 
+x. Karma or Nrupa Arudha - Arudha of 10% house [A10] 
+xi. Labha Arudha -Arudha of 11th house [Al] 
+xii. Vyaya Arudha or Upa-pada - Arudha of 12tn house [UL] 
+
+
+[ Popularly known as Upa-pada Lagna] 
+
+
+Special rules for Kendras: 
+
+
+There are some exceptions in determination of Arudhas of a 
+house when its lord is posited in 1, 4, 7 & 10th houses (Kendras). 
+
+
+The rules are as below: 
+
+
+When a Bhava Lord is located in 1st or 7tn house from the 
+rasi for which pada is to be determined - Arudha falls in 
+10i, house [for that particular Bhava] from that rasi. For 
+example, for a Aries ascendant, if Mars is posited in 
+
+
+12 
+
+
+Aries or Libra, the Arudha of 1*' house will be Capricorn 
+[10"" house counted from 1*'house]. 
+
++ When a Bhava Lord is located in 4" or 10" house from 
+the rasi for which pada is to be determined - Arudha 
+falls in 4"" house [for that particular Bhava] from that 
+rasi. For example, for a Aries ascendant, if Mars is 
+posited in Cancer or Capricorn, the Arudha of 1st house 
+will be Cancer [4"" house counted from ist house]. 
+
+
+Note: This is the most popular method in practice while 
+preparing the Arudha chakra. 
+
+
+The Arudhas for 12 Bhavas of the example chart are as follows: 
+
+
+Indira Gandhi 
+
+
+Arudha Chakra 
+
+
+Chakras: Here chakra means not Varga kundalis. It is the 
+order of reckoning rasis. Five types of chakras are used on 
+different conditions and occasions. 
+
+
+i. Udaya Chakra: All the Bhavas or Rasis are reckoned in 
+regular order (Zodiac direction - Mesha, Vrishabha and 
+so on). It is extensively used while delineating from 
+Lagna both in Parasari and Jaimini systems. 
+
+
+13 
+
+
+ii. Prakriti Chakra: If Arudha lagna or the sign, which is 
+under consideration, is an ODD sign, reckon the Bhavas 
+or Rasis in regular order (zodiac direction - Mesha, 
+Vrishabha and so on). If Arudha lagna is an EVEN sign, 
+reckon the Bhavas or Rasis in reverse order (Anti- 
+zodiac direction - Mesha, Meena and so on). It is 
+extensively used in Rasi-dasas. 
+
+
+iii. Vikriti Chakra: It is exactly opposite to Prakriti 
+Chakra. That is, If Arudha lagna or the sign, which is 
+under consideration is an ODD sign, reckon the Bhavas 
+or Rasis in reverse order (anti-zodiac direction - Mesha, 
+Meena and so on). If Arudha lagna is an EVEN sign, 
+reckon the Bhavas or Rasis in regular order (Zodiac 
+direction - Mesha, Vrishabha and so on). It is 
+extensively used in dasas like chara dasa in a female 
+horoscope. 
+
+
+iv. Graha Chakra: This is peculiar to Jaimini system. 
+Here, planets become Bhava lords commencing from 
+the rasi-lord, in regular order basing on their placement 
+in the horoscope. The lord of rasi, whose dasa is under 
+consideration, becomes Thanu Bhavadhipathi. Next 
+planet is Dhana Bhavadhipathi and so on. The 
+exception is Vyaya bhavadhi pathi, who is the lord of 6 
+bhava. It is extensively used in rasi dasas. 
+
+
+v. Padakrama Chakra: Mesha, Vrishabha, Mithuna, Tula, 
+Vriscika and Dhanus are vishama-pada (Oja) rasis. 
+Kataka, Simha, Kanya, Makara, Kumbha and Meena are 
+sama-pada (Yugma) rasis. Though it is not separately 
+mentioned in any of the books, it is exclusively used to 
+determine the order of Chara dasa (Parasara method). 
+
+
+Note: Only 4 chakras are explained in Jataka Sara Sangraha. 
+But, Pada(arma) Chakra is required for determining the 
+dasa order of the chara dasa, which is explained in detail 
+at later stage in this book. 
+
+
+14 
+
+
+Chapter 4 
+Aspects & Argalas 
+Aspects: 
+
+
+In this system, the aspects are considered between rasis and 
+not between planets. 
+
+
+The following is the rule - 
+
++ All movable (Chara) rasis aspect all fixed rasis except the 
+adjacent one. (All movable rasis aspect 5", 8" & 11" rasis 
+from them, Zodiac direction) 
+
++ All fixed (Sthira) rasis aspect movable rasis except the 
+previous one.(All fixed rasis aspect 3, 6 & 9" rasis from 
+them, Zodiac direction) 
+
++ All common rasis (Dwi-Swabhava) aspect each other. 
+(All common rasis aspect 4", 7" & 10" rasis from them, 
+
+
+Zodiac direction) 
+Sone 
+
+
+fle 
+
+
+|e 
+SGC) 
+
+
+_Aspecting rasis Aspected rasis 
+Aries Leo, Scorpio, Aquarius 
+Taurus Cancer, Libra, Capricorn 
+Virgo, Sagittarius, Pisces | 
+Cancer Scorpio, Aquarius, Taurus 
+Leo Libra, Capricorn, Aries 
+Virgo Sagittarius, Pisces, Gemini 
+Libra Aquarius, Taurus, Leo 
+_Scorpio Capricorn, Aries, Cancer 
+Sagittarius Pisces, Gemini, Virgo 
+Capricorn Taurus, Leo, Scorpio 
+Aquarius Aries, Cancer, Libra 
+Pisces Gemini, Virgo, Sagittarius 
+
+
+15 
+
+
+Sammukha rasi: 
+
+
+Eighth from Chara rasi, 6" from a sthira rasi and 7" from 
+Dwi-swabhava rasi are known as Sammukha Rasis, since they 
+arein front of them. 
+
+
+Because of the above rasi aspects, the planets posited in a rasi 
+have aspects similar to that of a Rasi. 
+
+
+Adarsha rasi: 
+
+
+Adarsha means mirror. Adarsha rasi is the opposite one. 
+Depending upon the situation either it could be 7” Rasi or 
+sammukha rasi. For example - Adarsa rasi for Aries is either 
+Libra or Scorpio depending on the situation. 
+
+
+Let us find out the aspects of planets for our standard 
+horoscope. 
+
+
+(10. 34) (13: 14) 
+
+
+16 
+
+
+* In the above chart - Ju-aspects Sa, Mo and vice versa; 
+Ma-aspects Mo and vice versa; Su & Me-aspect Sa & 
+Moon and vice versa; Ve, Ra-aspect Ke and vice versa 
+
+
+Argalas: 
+
+
+The effects of the planetary influence through rasi 
+aspect as mentioned above get modified by what is Known as 
+‘Argala'. Argala means - that which obstructs the influence of 
+a planet. But in Jaimini system, we may not take the meaning 
+literally, because there are good and bad Argalas. Hence, we 
+may define the Argala as modifying the influence of aspecting 
+planet - either for good or bad. 
+
+
+Argalas caused by natural benefics are called Subha Argalas or 
+benefic Argalas and Argalas caused by natural malefics are 
+called Papa or Asubha Argalas or malefic Argalas. Basically 
+there are 3 types of Argalas. 
+
+
+1. Primary Argalas: 
+
+
+a. The Planets in 4th, 2nd or 11th houses from any planet 
+(except Ketu) cause Argala. 
+
+b. This Argala gets neutralised if there is a planet in 10t, 
+12th or 31a house respectively. The neutralising planets 
+are called 'Prathibandhakas' 
+
+c. Natural benefics cause Shubha Argala and Natural 
+malefics - papa argala. 
+
+
+2. Secondary Argalas: 
+
+
+a. The Planets in the 5tn or 9 house from any planet (except 
+Ketu) cause Argala. 
+
+b. This Argala gets neutralised if there is a planet in 9m or 5th 
+house respectively. The neutralising planets are called 
+"‘Prathibandhakas' 
+
+c. Natural benefics cause Shubha Argala and Natural 
+malefics cause - papa argala or asubha argala. 
+
+
+17 
+
+
+3. Tertiary Argalas: 
+
+
+a. When two or more malefics are posited in 3° house from 
+Aspecting planet - cause Argala. It creates a special 
+Argala causing Raja Yoga. 
+
+b. There is no cancellation to this Argala. That is even if 
+planets are posited in the 11" house, this Argala does 
+not get cancelled. 
+
+
+Special rule for Ketu: For Ketu, a planet in 9" house (counted 
+normally) causes Argala and if there is any planet in 5" house 
+will cause Prathibandhaka to the above Argala. Planets in 4' 
+2"7, 11™and 5" houses will not cause Argala for Ketu. 
+
+
+If the counteracting planet / Planets are weak in strength, than 
+the planet(s) causing Argala, then they will not be able to 
+cancel the influence totally, but only reduce the effect. 
+
+
+Let us find out the Argalas and Prathibandhakas in the following 
+chart 
+
+
+Indira Gandhi 
+
+
+DOB: 19-11-1917 
+TOB:23:03 
+POB:81 E 52; 25 N 28 
+
+
+Prathibandhaka 
+Fsun—Ss«d Ve, Fay) CdTCN CCS” 
+PMoon «| ~SuMe(iy) | Ni =i 
+
+
+N 
+N 
+Su, Me (4) Ju(10) 
+
+Ke(Il) 
+cs) 
+
+Ke(2) N 
+fVe CTS Mo(2) | Su Me (12) 
+K 
+(12) 
+
+
+“Sun il 
+il 
+u( 
+Ju o(1 
+[Me I 
+Ve : 
+Sa Ma (2) e(12) 
+Ju(Il) Nil 
+Su,Me(5) Nil 
+Nil 
+
+
+Moon(2) Sun, Me 
+
+
+Note: Earlier the Argalas were being calculated for all the 
+bhavas / planets. The present concept is that the argalas are to 
+be calculated only for yoga causing planets. This would help in 
+ascertaining the strength of yoga. They are not be used in 
+determining effects in all the cases. 
+
+
+Strength of Rasis: 
+
+
+In Jaimini System, assessing the strength of a Rasi or Planet is 
+much simpler, unlike in Parasari system, where there are 
+elaborate methods. Normally the strength is assessed for 
+Rasis. Primarily, there are FOUR sources of strength in Jaimini. 
+
+
+First source of strength: 
+
+
+* The sign having a planet is stronger than the one 
+having no planet. 
+
+
+19 
+
+
++ The sign having more number of planets is stronger 
+than the one having less number of planets. 
+
+* Ifboth the signs have equal number of planets, a planet 
+having its exaltation, Moola-trikona or Swaskhetra in a 
+rasi, will strengthen that sign. 
+
++ If both the signs are still having equal strength, the 
+natural strength of the sign shall be considered 
+(Dwiswabhava Rasi is stronger than Sthira Rasi and 
+Chara Rasi is weaker than Sthira Rasi). 
+
+* Even then, if both signs have equal strength, consider 
+the strength of sign lords 
+
+
+Second source of strength: 
+
+
+* The second source of strength of a sign is the aspect or 
+conjunction ofits Lord, Jupiter or Mercury. 
+
+
+Third source of strength: 
+
+
++ The Third source of strength is by the placement of its 
+Lord ina sign. 
+
+* A planet that is in Kendra, Phanaphara and Apoklima 
+from Atmakaraka becomes more and more powerless. 
+A planet in Kendra is weak. A planet in Phanaphara is 
+still weaker and a planet in Apoklima is the weakest 
+one. 
+
+
+Fourth source of strength: 
+
+
+* The fourth source of strength is by the aspect or 
+conjunction of its Lord, who is placed in an ODD sign 
+with malefics. 
+
+@ A Rasi lord also gets strength with the conjunction or 
+association ( PAC ) of a planet being in the state of 
+exaltation, Moola-Trikona, friendly house or in other 
+favourable conditions. 
+
+
+Application: The first source of strength is used to ascertain 
+the strength ofa sign in Dasa-systems like Lagna & 7tn house or 
+Lagna - Panchama - Navama etc. 
+
+
+20 
+
+
+Second source is used in chara dasa, which is explained in this 
+book to ascertain the stronger of dual lords for Scorpio and 
+Aquarius. 
+
+
+Strength of Planets: 
+
+
++ Atmakaraka is the strongest among all the planets. 
+
+
+* A planet who has advanced more (longitude in degrees 
+and minutes) in a sign is stronger than the one who 
+moved less in a sign. 
+
+* A male planet in a female sign or a female planet in a 
+male sign is strong, which is known as prathivesika bala. 
+
+* From Atmakaraka, a planet who is in Kendra is stronger 
+
+
+(Poorna bala); in panapara the planet has medium 
+strength (Madhya bala) and in Apoklima, it is weak (Alpa 
+
+
+bala). 
+
++ The natural strength of the planets in descending order 
+is as below. 
+
+* Sun - Moon - Venus - Jupiter - Mercury - Mars and 
+Saturn. 
+
+
++ That is Sun is strongest and Saturn is weakest in natural 
+strength (Naisargika bala). 
+
+
++ The source of strength of signs and planets are used in 
+dasa systems and Graha Arudha. 
+
+
+Other source of strength : : 
+* A planet gets its strength, when it is placed in an Odd 
+
+
+Sign and if there are planets in 2nq and 12tn from it. Even 
+Signs do not have this strength. 
+
+
+21 
+
+
+Chapter 5 
+Lagnas 
+
+
+Many lagnas are being used in Jaimini system. Basically they 
+can be grouped into two types. 
+
+
+1. Phala-nirnaya Lagnas - fordelineation. 
+2. Dhana and Rajayoga Lagnas- for wealth and authority. 
+
+
+Phala-Nirnaya Lagnas: In Jaimini systems, six types 
+of Lagnas are predominantly considered for delineation. They 
+are- 
+
+
+a. Arudha lagna: It is principal lagna for delineation. 
+Hora Lagna: It is used for material prosperity. 
+
+c. Bhava Lagna: It is used for delineation regarding 
+parents. 
+
+d. Varnada Lagna: It is used for nature of profession 
+and physique of native. : 
+
+e. Ghatika Lagna: It is used for status in the life. 
+
+
+f. Pranapada Lagna: It is used for rectification of birth 
+time. 
+
+
+Dhana & Rajayoga Lagnas: 
+
+There are special lagnas like Indu lagna, Sree Lagna, Tri- 
+pravana Lagna and many more, which will be dealt in advanced 
+studies. 
+
+
+Phala-Nirnaya Lagnas: 
+
+In the sutras of Jamini, one more lagna known as ‘karakamsa 
+lagna’ also finds place predominantly. The aspects/application 
+of Arudha lagna and Karakamsa Lagna will be dealt with 
+separately. The other lagnas are discussed as under. 
+
+
+22 
+
+
+In the Jaimini System, the day duration, birth time etc., is 
+computed in terms of Ghatis and Vighatis. Since in the 
+modern days, everyone is accustomed to the standard duration 
+Df 24 hours, this system (Hours and Minutes instead of Ghatis) 
+is adopted in computing various lagnas in the succeeding 
+paragraphs. 
+
+
+a. 
+
+
+Day 
+
+
+Hora Lagna: Somanatha, one of the commentators on 
+Jaimini mentions 5 types of Hora in his Kalpalatha. Each 
+method has got its own application. Only two types are 
+explained in this book. This method is known as 
+Savayava Hora Lagna. 
+
+
+Find out whether Janma Lagna is in odd or even rasi. 
+
+
+Find out the day duration from Sun-rise to Sun-set for 
+day birth and night duration from Sun-set to Sun-rise 
+for night birth. Divide this duration by 12, which gives 
+the duration of each hora. (There are 12 horas during 
+the day and other 12 horas in the night making a total 
+of 24 horas in a sayana day). 
+
+
+Find the time elapsed from the Sunrise to the birth time 
+for day birth and from the Sunset to the birth time for 
+night birth. 
+
+
+Birth: 
+
+
+Divide the elapsed time with the duration of day-Hora 
+time span (for day birth). This will give duration of 
+each day hora. 
+
+
+There will be an integer and a fraction. 
+Add i to the integer and call this 'n'. 
+
+
+Count n from Janma lagna in normal direction (zodiac 
+direction) for ODD rasi births and count n from Janma 
+Lagna in reverse direction (anti- zodiac direction) for 
+even rasi births. 
+
+
+The rasi thus arrived is Hora Lagna. 
+23 
+
+
+Multiply the reminder by 30. This gives the location of 
+Hora Lagna in degrees. 
+
+
+Night Birth: 
+
+
+Note: 
+
+
+Divide the elapsed time with the duration of night-Hora 
+time span (for night birth). Divide the sum by 12. This 
+will give duration of each night hora. 
+
+
+There will be-an integer and a fraction. 
+
+
+Add 12+1 to the integer and call this 'n' (or simply 
+adding 1 to the integer is sufficient since 12 will make 
+completion of one cycle of the zodiac). 
+
+
+Count n from Janma lagna in normal direction (zodiac 
+direction) for ODD rasi births and count n from Janma 
+Lagna in reverse direction (anti-zodiac direction) for 
+even rasi births. 
+
+> 
+The rasi thus arrived is Hora Lagna. 
+Multiply the reminder by 30. This gives the location of 
+Hora Lagna in degrees. 
+
+
+This is mainly used in Chara Dasa for longevity 
+purpose. It is slightly different from parasara's hora 
+lagna, where the counting is always from Sun's 
+longitude both for ODD and EVEN rasis. 
+
+
+b. Bhava Lagna: Bhava lagna for a horoscope is determined 
+as follows: 
+
+
+Find out whether Janma Lagna is in odd or even rasi. 
+
+
+Find the time elapsed from the Sunrise to the birth time 
+[in hours] and Divide this by 2. 
+
+
+Add 1 to the Quotient and call this 'n' 
+
+
+Count n from Janma lagna in normal direction (zodiac 
+direction) for ODD rasi births and count n from Janma 
+Lagna in reverse direction (anti- zodiac direction) for 
+even rasi births. 
+
+
+24 
+
+
+The rasi thus arrived is Bhava Lagna. 
+
+
+Multiply the reminder by 30. This gives the location of 
+Bhava Lagna in degrees. 
+
+
+Varnada Lagna: In this system, all the 12 rasis have 
+
+
+Varnada Lagnas. The procedure for determination of 
+Varnada Lagna point for 1** house is elaborated as under: 
+
+
+Note: 
+
+
+If Janma lagna is in odd rasi, count in zodiac direction 
+from Aries to Janma Lagna. 
+
+
+If Janma lagna is In even rasi, count in anti- zodiac 
+direction from Piscesto Janma lagna. Call this'A'. 
+
+
+Similarly, if Hora lagna is in odd or even rasi count from 
+Aries or Pisces in zodiac direction or anti- zodiac 
+direction up to Janma lagna respectively. Call this 'B’. 
+
+
+If both Janma lagna and hora lagna are either in odd or 
+in even rasi, thenadd: A+B. 
+
+
+lf Janma lagna and hora lagna are in different rasis, 
+i.e., one in odd and the other in even, then subtract: 
+A - B. [Subtraction should be from larger figure 
+always] Call this 'C'. 
+
+
+lfA & B are equal, then consider the longitudes of both 
+lagnas and do the subtraction. 
+
+
+Expunge multiples of 12. [Divide by 12 and take the 
+reminder] 
+
+
+Count C either from Aries in zodiac direction or from 
+Pisces in anti- zodiac direction depending on whether 
+Janma Lagna is in odd or even rasi, varnada lagna is 
+determined. 
+
+
+d. Ghatika Lagna: The method of determining Ghatika 
+Lagna is as follows: 
+
+
+Find the time elapsed from sun rise to the time of birth. 
+The duration of each Ghatika Lagna is 24 minutes. 
+Divide the time elapsed in minutes by 24. 
+
+2 
+
+
+*  Expunge multiples of 12 of the quotient. 
+* Add 1 tothe Quotient and call this 'n’ 
+
+
+* Count n from Janma lagna in normal direction (zodiac 
+direction) for ODD rasi births and count n from Janma 
+Lagna in reverse direction (anti- zodiac direction) for 
+even rasi births. 
+
+
+* — The rasi thus arrived is Ghatika Lagna. 
+
+
+[Some scholars insist that Ghatika lagna should always be 
+computed from Sun's longitude ory, since the start of the day 
+is reckoned from the Sun rise, There are other opinions 
+regarding method of counting -from Sun rasi or Janma Lagna]. 
+
+
+Nisheka Lagna: 
+
+This Lagna is more described by Parasara, Samara Singha and 
+others and Jaimini does not use it often. | Hence this is not 
+dealt in detail here. : 
+
+Now, let us find out various Lagnas for the example chart of 
+Smt. Indira Gandhi. 
+
+
+Indira Gandhi 
+
+
+DOB: 19-11-1917 
+TOB: 23:03 
+POB:81 E 52; 25N 28 
+
+
+Sun rise time on 19% November 1917 was O6hrs 26 mins., 
+sunset time 17hrs, O9mins. The sun rise time on the next day 
+was 06 hrs 26 mins. 
+
+
+Bhava Lagna: 
+
+
+Time elapsed - 16hrs 37 mins or 16.62 hrs. 
+Dividing by 2 - 8.31 ; adding 1 to quotient, we get 9x 
+
+
+Count from Sun rasi 9 rasis in anti- zodiac direction, 
+since the birth is in even rasi; we get Pisces 
+
+
+The time span of each bhava is 2 hours. 
+Longitude of BLis 30 * 0.31=9.2° 
+
+
+Hora Lagna: 
+
+
+Duration of night hora - [(difference between Sunset 
+time on 19%) and sun rise time on 20t Nov) / 12] = (13 
+hrs, 17 mins /12)= 1 hr6mins. Or 1.1 hrs. 
+
+
+Birth time is 23 hrs 03 mins. 
+
+Time elapsed in night hora is (23.05-17.15)=5.9 hours 
+Add 12+1 to integer, which becomes 18. 
+
+Janma Lagna is Cancer - even rasi. 
+
+
+The 18th hora from Sun rasi in anticlockwise direction 
+will be Gemini rasi. 
+
+
+The hora lagna will be Gemini Rasi. 
+The Longitude will be 30*.9=27° 
+
+
+| Varnada Lagna: 
+
+
+We will calculate Varnada Lagna for the 1st house. 
+
+
+Janma Lagna is even. Cancer is Qth from 
+Pisces(anticlockwise) (A) 
+
+
+Hora lagna is Gemini, odd rasi & is 31a from Aries. (B) 
+Since Janma Lagna even & Hora Lagna is odd, (A-B) is 
+6(C) 
+
+27 
+
+
+* Counting 6 from Pisces, we get Libra. 
++ So Varnada Lagna for 1*' house is Libra. 
+
+
+Ghatika Lagna: 
+@ Time elapsed fromTOB - 16 hrs 37 min or 997 mins. 
++ Dividing 997 by 24, we get 41.54 
+* Add 1 to quotient &expunging multiples of 12, we get 6 
+
+
+- 6" from Cancer is Sagittarius, which is Ghatika Lagna for 
+this horoscope. 
+
+
+* The Longitude will be 30*.54=16°12' 
+
+
+Uses of Lagnas: 
+
+
+1. Arudha indicates the wealth and (general tendency) of 
+the native. If it is Shubha Arudha, the native becomes 
+rich otherwise if papa-Arudha penury. 
+
+
+2. Raja yogas are known and delinated from ghatika lagna. 
+It is also used to ascertain the status in one's life. 
+3. Bhava lagna indicates about parents, their character etc. 
+
+
+4. Hora Lagna is used to determine the longevity and 
+rajayogas of parents and also for the material 
+prosperity. 
+
+5. Varnada lagna is used for the nature of profession and 
+physique of native. 
+
+
+| 
+
+
+Chapter 6 
+DIVISIONAL CHARTS 
+
+
+Basically three divisional charts are extensively used in Jaimini 
+system. They are Hora, Drekkana and Navamsa. Their 
+construction is also different from Parasara method. 
+
+
+HORA(D-2):. The second type of Hora used is 
+Parivruttadwaya Hora. This is different from Hora Lagna 
+defined earlier. The Method of casting is as detailed below: 
+
+
+Each rasi is divided into two equal parts of 15° each. Thus 
+zodiac contains 24 horas in total. The first hora starts from 
+Aries and continues zodiacally. 
+
+
+Indira Gandhi 
+Hora Chart 
+
+
+29 
+
+
+DREKKANA(D-3): Chiefly two methods are employed to 
+erect drekkana chart. 
+
+
+Parivruttatraya Drekkana: Each rasi is divided into three 
+equal parts of 10° each. Thus zodiac contains 36 drekkanas in 
+total. The first drekkana starts from Aries and continues 
+zodiacally. 
+
+
+Rasi in 
+D1 
+Chart 
+
+
+Krama- Vyutkrama Drekkana: 
+
+The first drekkana starts from Aries continues zodiacally for 
+ODD signs and the first drekkana starts from Pisces continues 
+anti-zodiacally for EVEN signs. This is also called Somanatha 
+method of Drekkana. 
+
+
+111 Drek- 
+kana 
+
+
+(20-30) 
+
+
+* Earthy signs - Ta, Vi, Cap - The sequence starts from 
+Virgo and is in counter-zodiacal direction 
+
+@ Airy signs - Ge, Li, Aq - The sequence starts from Libra 
+and is in zodiacal direction. 
+
+
+* Watery signs - Cn, sc, Pi - The sequence starts from 
+Pisces and is in counter-zodical direction. 
+
+
+The above procedure is summarized in the following table 
+
+
+eee IN eon ee sale ee 
+
+
+Note: The sequence is different from the method explained by 
+Krishna Mishra in Jyothish Phala Ratnamala and is not 
+detailed here. 
+
+
+The Navamsa chart for the standard horoscope is as below: 
+
+
+Indira Gandhi 
+
+
+(Navarasa Chart) 
+
+
+Amsa Lagna: 
+
+
+The Lagna in Navamsa kundali is known as Amsa-Lagna. 
+Jaimini, it appears, has not attached as much importance as 
+Karakamsa lagna and Karakamsa rasi. If it is aspected or 
+posited with benefics, it confirms comforts and status to the 
+native. It is also used in Raja yogas. 
+
+
+Karakamsa Lagna: 
+
+
+The sign in which Atmakaraka is posited in navamsa is called 
+Karakamsa Lagna. That is Karaka (Atma) in Amsa-Kundali is 
+Karakamsa Lagna or simply known as Karakamsa. This is 
+different from (Navamasa)Amsa Lagna. It is one of important 
+reference points while delineating the horoscope. Profession, 
+disease, spouse and other important parameters are 
+delineated with reference to this. General readings from 
+Karakamsa are as below. 
+
+
+Aries: _ If Ak is posited in Aries in Navamsa kundali, then the 
+native may suffer from the nuisance of rats & cats or 
+may involve with trading of animals. 
+
+
+Taurus: If Ak is posited in Taurus in Navamsa kundali, then 
+the native may get benefit through quadruped 
+animals. 
+
+
+Gemini: If Ak is posited in Gemini in Navamsa kundali, then 
+the native may Suffer from skin diseases. 
+
+
+Cancer: If Ak is posited in Cancer in Navamsa kundali, then 
+the native may face Danger from water. 
+
+
+Leo: If AK is posited in Leo in Navamsa kundali, then the 
+native may have fear and danger from wild animals. 
+
+
+Virgo: If Akis posited in Virgo in Navamsa kundali, then the 
+native may sufferfrom itches and allergies of skin. 
+
+
+Libra: If Ak is posited in Libra in Navamsa kundali, then the 
+native may be involved in trading. 
+
+
+Scorpio: If Ak is posited in Scorpio in Navamsa kundali, then 
+the native may have fear from reptiles. He may also 
+be deprived of mother's milk. 
+
+
+3 
+
+
+Saggitarius: lf Ak is posited in Saggitarius in Navamsa 
+
+
+kundali, then the native may suffer from vehicle 
+accidents or fall from higher places. The native 
+may be fond of horse riding. 
+
+
+Capricorn: If Ak is posited in Capricorn in Navamsa kundaili, 
+
+
+then the native may Gain from marine products. 
+
+
+Aquarius: If Ak is posited in Aquarius in Navamsa kundali, 
+
+
+Pisces: 
+
+
+General: 
+
+
+Karakam 
+
+
+then the native may be involved with the 
+construction activities related to water bodies. 
+
+
+If Ak is posited in Pisces in Navamsa kundali, then 
+the native may be a philanthropist and attain 
+salvation atthe end. 
+
+
+If the angles and Trines from Karakamsa are 
+occupied by benefics, then the native is 
+knowledgeable and wealthy. 
+
+
+sa Rasi: © 
+
+
+The sign in which Atmakaraka is posited in navamsa is referred 
+as Karakamsa rasi in rasi-kundali (D - 1 chart). It_also plays an 
+
+
+important 
+
+
+role like Karakamsa lagna. 
+
+
+When Karakamsa rasi is occupied by various planets, the 
+following results are indicated by sage Parasara. 
+
+
+Sun: 
+
+
+Moon: 
+
+
+Mars: 
+
+
+Mercury: 
+
+
+The native is engaged in Government jobs. If Sun is 
+in exaltation, the native may be a government 
+servant or even a high level minister. If in 
+debilitation, he may be an ordinary servant. 
+
+
+The native will enjoy luxuries. The level of luxury 
+depends onthe strength ofthe Moon. 
+
+
+The native is engaged in matters related to weapons, 
+fire. 
+
+
+The native is engaged in Business, trade, sculpture 
+or weaving. He is Well educated and intelligent. 
+
+
+34 
+
+
+Jupiter: 
+Venus: 
+Saturn: 
+
+
+Rahu: 
+
+
+Ketu: 
+
+
+The native is humble and pious. He is a philosopher 
+and may be a priest. 
+
+
+The native will have a full life span of 100 years. Very 
+lustful and engaged in political career. 
+
+
+The native follows his family tradition. 
+
+
+The native is engaged in archery, machines or 
+dealing with poisonous chemicals. Or he may even 
+become a thief. 
+
+
+The native is engaged in the jobs involved with 
+elephants or similar animals. Or he may even 
+become a thief. 
+
+
+Note: The above results can be expected when the above 
+planets occupy Navamsa lagna also. 
+
+
+All the 12 houses from Karakamsa rasi are also to be analysed. 
+
+
+In the standard chart, Navamsa lagna is Leo. 
+
+
+Karakamsa Lagna is Virgo, since Ak Saturn is in virgo in 
+
+
+Navamsa. 
+
+
+Karakamsa rasi is Virgo in Janma kundaii. 
+
+
+Chapter 7 
+
+
+YOGAS 
+
+
+There are many yogas in Jaimini system. Basically, they can be 
+classified into 3 categories. 1. Dhana & Raja yogas (Wealth & 
+authority); 2. Daridra yogas (Poverty) and 3. Miscellaneous 
+yogas. These yogas chiefly arise with respect to Lagnas, 
+Atmakaraka, Karakamsa and Dusthanas. Few books like Jataka 
+Rajeeyam and Vanchanatheeyam deal mainly with Raja yogas. 
+Few important combinations / principles are given below. 
+
+
+1. 
+
+
+Association of chara karakas, other than Gnathi karaka 
+forms yoga. Of these the powerful one being the 
+association of Atmakaraka and putrakaraka. It becomes 
+more powerful when the association takes place either in 
+Janma lagna or in 5” house from Janma lagna or 
+Karakamsa Lagna. 
+
+
+Association of Lagna lord and 5" lord is another powerful 
+yoga. 
+
+
+When lagnas of divisional charts along with Janma lagna is 
+aspected by a planet forms yoga. 
+
+
+Similarly special lagnas Hora lagna, Ghatika lagna etc., 
+along with Janma lagna is aspected by a planet forms 
+yoga. 
+
+Placement of malefic in 6" and 8" houses forms yoga. 
+
+
+When 6" and 8" lords become debilitated and aspect 
+Janma lagna forms yoga. 
+
+
+If debilitated 6" & 8" lords posited in 3° and 11™ houses and 
+aspects lagna, yoga is formed. 
+
+
+Benefic 6" &8" lords aspecting lagna forms a Rajayoga 
+
+
+When benefics posited in Kendras from Atmakaraka 
+creates yoga. 
+
+
+10. If Arudha lagna and Dara-arudha are mutually posited in 
+kendras forms yoga. 
+
+
+11. Karakamsa plays an important role while forming yogas. 
+
+
+In this connection, a planet causing yoga under specific 
+conditions is called Yogada. Yogada means giver of Yogas. A 
+planet becomes yogada, if 
+
+
+i. It conjoins or aspects simultaneously Lagna and Hora 
+Lagna OR 
+
+
+ii. It conjoins or aspects simultaneously Hora Lagna and 
+Ghatika Lagna OR 
+
+
+iii. Even ifa planet owns the rasi in which the above lagnas are 
+located, then also the planet becomes Yogada. 
+
+
+Yogada planet can bestow very high prosperity to the 
+native during its dasa period. 
+
+
+Kemadruma Yoga: 
+
+
+The most malefic yoga mentioned in Jaimini is kemadruma 
+yoga. When there are malefics in 2” and 8" from Janma Lagna 
+or Arudha Lagna or Karakamsa Lagna, this yoga is formed. The 
+important factor is that the both houses shall have same 
+number of planets. That is if there are two malefic planets in the 
+second house then the eigth house also shall contain two 
+planets. 
+
+
+It gives extreme poverty and the native lives by begging. 
+
+
+Chapter 8 
+DASA SYSTEM 
+
+
+The distinctive feature of dasa system in Jaimini is its 
+classification. The dasa system is divided into two groups - one 
+being the Phalitha dasa and the other one being Ayur dasa. This 
+feature is not found in any other branch of astrology. 
+
+
+All the Dasas are Rasi based Dasas. There are 3 types in chara 
+Dasa. This particular chara dasa is used for both as phalitha 
+dasa and Ayur dasa. The methodology applied in calculating 
+dasa system and readings are based on rules mentioned by 
+Sage Parasara. Chara Dasa is widely used for determining the 
+timing of events. The Chara Dasa period for each native 
+depends on the placement of Rasi Lord in the horoscope and 
+this method of computation of Dasa period is unique. Because 
+the total dasa period varies from horoscope to horoscope, it is 
+popularly called chara dasa. There are some variants in this 
+dasa system. The method explained here has few deviations 
+from other authors. 
+
+
+Chara Dasa (Parasara method): 
+
+
+In order to assess the Dasa period, certain terminologies have 
+to be understood thoroughly. They are- 
+
+
+Oja Rasis are - Aries, Taurus, Gemini, Libra, Scorpio, 
+Sagittarius. They are also called Vishamapada rasis or Savya 
+rasis. 
+
+
+Yugma Rasis are - Cancer, Leo, Virgo, Capricorn, Aquarius and 
+Pisces. They are also called Samapada rasis or Apa-savya 
+rashis. 
+
+
+Savya Chakra - The direction of counting of houses is done 
+zodiacally. 
+
+
+Apasavya Chakra - The direction of counting of houses is done 
+in anti-zodiac direction. 
+
+
+: 
+| 
+| 
+{ 
+‘. 
+| 
+| 
+! 
+i 
+H 
+
+
+The above concept is illustrated in the following chart - 
+
+
+Savya Chakra 
+
+
+NOTE: Padakrama (chakra) is followed here. The classification 
+of Oja and Yugma rasis are limited to this particular 
+type of Chara dasa only. 
+
+
+Method of Determination Chara Dasa - 
+
+
+The starting of Chara Dasa is always from _ the 
+Ascendant. To find out the sequence of dasa order, the 
+following rule is to be applied - 
+
+
+From the Lagna, find out where the 9"" house falls - in 
+Oja or Yugma Rasi. 
+
+
+If it falls in Oja rasi, the order of Dasa is in zodiac 
+direction [Savya]. 
+
+
++ If it falls in Yugma Rasi, the order of Dasa is Anti- 
+zodiac direction [Apasavya]. 
+
+
+For example, for Aries ascendant, 9" house is Sagittarius, 
+which falls in Vishamapada rasi. So the order of chara dasa 
+will be in zodiac direction from Aries - i.e. Aries -Taurus- 
+Gemini etc. 
+
+
+39 
+
+
+For Cancer ascendant, the 9" house falls in Pisces, which is 
+Samapada rasi. So the order of chara dasa will be in anti- 
+zodiac direction from Cancer- i.e. Cancer-Gemini-Taurus etc. 
+
+
+Dasa order for all the 12 ascendants are tabulated below for 
+easy reference. 
+
+
+Aries (zodiac direction): Aries, Taurus, Gemini, Cancer, Leo, 
+Virgo, Libra, Scorpio, Sagittarius, 
+Capricorn, Aquarius and Pisces. 
+
+
+Taurus (anti zodiac direction): 
+Taurus, Aries, Pisces, Aquarius, 
+Capricorn, Sagittarius, Scorpio, Libra; 
+Virgo, Leo, Cancer and Gemini. 
+
+
+Gemini (anti zodiac direction): 
+Gemini, Taurus, Aries, Pisces, 
+Aquarius, Capricorn, Sagittarius, 
+Scorpio, Libra, Virgo, Leo and Cancer. 
+
+
+Cancer (anti-zodiac direction): 
+Cancer, Gemini, Taurus, Aries, Pisces, 
+Aquarius, Capricorn, Sagittarius, 
+Scorpio, Libra, Virgo and Leo. 
+
+
+Leo (zodiac direction): Leo, Virgo, Libra, Scorpio, Sagittarius, 
+Capricorn, Aquarius, Pisces, Aries, 
+Taurus, Gemini and Cancer. 
+
+
+Virgo (zodiacdirection): Virgo, Libra, Scorpio, Sagittarius, 
+Capricorn, Aquarius, Pisces, Aries, 
+Taurus, Gemini, Cancer and Leo. 
+
+
+Libra (zodiac direction):Libra, Scorpio, Sagittarius, Capricorn, 
+Aquarius, Pisces, Aries, Taurus, 
+Gemini, Cancer, Leo and Virgo. 
+
+
+Scorpio (anti-zodiac direction): 
+Scorpio, Libra, Virgo, Leo, Cancer, 
+Gemini, Taurus, Aries, Pisces, 
+Aquarius, Capricorn and Sagittarius. 
+
+
+40 
+
+
+Sagittarius (anti-zodiac direction): 
+Sagittarius, Scorpio, Libra, Virgo, Leo, 
+Cancer, Gemini, Taurus, Aries, Pisces, 
+Aquarius and Capricorn. 
+
+
+Capricorn (anti-zodiac direction): 
+Capricorn, Sagittarius, Scorpio, Libra, 
+Virgo, Leo, Cancer, Gemini, Taurus, 
+Aries, Pisces and Aquarius. 
+
+Aquarius (zodiac direction): 
+Aquarius, Pisces, Aries, Taurus, 
+Gemini, Cancer, Leo, Virgo, Libra, 
+
+
+Scorpio, Sagittarius and Capricorn. 
+Pisces (zodiac direction): 
+
+
+Pisces, Aries, Taurus, Gemini, Cancer, 
+Leo, Virgo, Libra, Scorpio, Sagittarius, 
+Capricorn and Aquarius. 
+After determining the order of dasa, the dasa period ofthe rasis 
+are computed as per the following rules: 
+
+
+1. The number of years of dasa ofa rasi is equal to the number 
+of houses its Lord is away from it [excluding the rasi under 
+reference]. For example, for an Aries ascendant, if Mars is 
+located in Gemini, the dasa period of Aries is [3-1] 2 years. 
+
+
+2. To compute the dasa period of a Vishamapada rasi, position 
+of its Lord is to be reckoned in zodiac direction; and of a 
+Samapada rasi in anti- zodiac direction. 
+
+
+3. Ifthe Lord ofa rasi is exalted, the dasa period of that rasi is 
+to be increased by one year. 
+
+
+4. Ifthe Lord of a rasi is debilitated, the dasa period of that rasi 
+is to be decreased by one year. 
+
+
+5. IftheLord ofa rasi is posited in his own rasi, the dasa period 
+is to be taken as 12 years. 
+
+
+41 
+
+
+Note: 
+
+
+a. Maximum number of years in chara dasa is 12 years. 
+Hence 1 year shall not be added to 12 years 
+(Swakshetra), when Mercury is posited in Virgo. 
+
+
+b. Minimum number of years in chara dasa is 1 year. 
+Hence 1 year shall not be deducted from 1 year, when 
+Jupiter is posited in Capricorn. 
+
+
+Special rules for Scorpio and Aquarius: 
+
+
+For Scorpio rasi the lordship is given to Mars and Ketu. 
+
+
+For Aquarius rasi, lordship is given to two planets - Saturn and 
+Rahu. 
+
+
+For computing the dasa period of these two rasis, the stronger 
+of the above lords is to be found. 
+
+
++ If Mars or Saturn becomes Ak consider them as 
+stronger than Ketu and Rahu respectively. 
+
+
+Otherwise consider the following criteria - 
+
+
++ If both are in their own house, dasa period is to be 
+reckoned as 12 years. 
+
+
++ — If both of them are together in a rasi, then the normal 
+rule isto be applied. 
+
+
+° If one lord is in its own house and the other in a 
+different rasi, then ignore the former and consider the 
+later. 
+
+
++ — |fthey are not together in one rasi, then prefer the lord 
+with strength 
+
+
+Strength: 
+
+
+a. A planet aspected by the rasi lord, in which rasi it is 
+posited or Jupiter or Mercury is strong. 
+
+
+b. A planet associated with another planet is strong than 
+the planet, which does not have association. 
+
+
+42 
+
+
+c. If both have equal associations, then consider the 
+strength of the rasi. Dwiswabhava rasi is stronger than 
+Sthira rasi and Sthira rasi is stronger than Chara rasi. 
+
+
+d. Even then if both of them have equal strength, then 
+consider the planet which gives more number of years. 
+
+
+Now, let us compute the Chara Dasa period for the 
+following horoscope - 
+
+
+Indira Gandhi 
+
+
+DOB: 19-11-1917 
+
+
+POB:81 E 52; 25 N28 
+
+
+Dasa order - The ascendant is Cancer; the 9" house is Pisces, 
+which is an apasavya rasi. Hence, the dasa chakra will be in 
+anti-zodiac direction. The dasa period is tabulated as below: 
+
+
+For Vishamapada (Oja) rasis, count from the sign to its lord in 
+zodiac direction (ZD). 
+
+
+or Samapada (Yugma) rasis, count from the sign to its lord in 
+anti-zodiac direction (AZD). 
+
+
+Gemini (ZD) 
+
+
+caved 
+
+
+6h 
+git A 
+nies @oy | a strat 
+
+
+Aquarius (AZD) Sa/Ra#| 8" rasi 
+
+
+Pisces (AZD) 
+
+
+Sagittarius (ZD) 6" rasi 
+Scorpio (ZD) Ma/Ke$ 
+
+
+# Saturn considered - Being Ak 
+
+
+$ Ke considered - Ma & Ke do not have associations; Ke is in 
+dual rasi. 
+
+
+Note: The total number of years in Chara dasa does not 
+indicate longevity. If life span is more, Chara dasa 
+periods of each sign repeat till the completion of life 
+span. 
+
+
+fis 
+[capricom azo) | se [7a _| 6 | nov 1986 | nov 1062 _| 
+|e | 
+
+
+Sub- Periods (Antar dasa) in Chara Dasa: 
+
+
+The Sub-dasa ofa rasi dasa is to be computed following similar 
+procedures of determining the chara dasa. The sub-dasa 
+cycle depends on the 9" house of the sign for which the dasa is 
+to be computed - whether it is oja rasi or yugma rasi. If theo" 
+house is oja rasi, the antar dasa cycle will be zodiac direction; if 
+it is yugma rasi, it will be in anti-zodiac direction. The first 
+sub-dasa will be the second rasi from the sign for which the 
+antar dasa are to be considered. 
+
+
+44 
+
+
+| For example, if the sub-dasa period of Leo is to be computed, 
+
+- then the 9" from Leo is Aries, which is a savya rasi. So the 
+sub- dasa cycle will be zodiac direction. For Sagittarius rasi, 
+the 9" house is Leo, which is an apasavya rasi. So the sub- 
+dasa cycle would be in anti-zodiac direction. 
+
+
+Sub-dasa Period: 
+
+
+Since the number of sub-dasas are 12, the duration of rasi dasa 
+gets divided into 12 parts. So if the period of rasi-dasa is 8 
+years, the period of Antar-dasa will be 8 months. 
+
+
+Let us compute the Antar-dasa periods of Scorpio dasa for the 
+example horoscope mentioned above: 
+
+
++ The 9" rasi from Scorpio is Cancer, which is in Apa- 
+savya group. So the sub-dasa cycle will be anti-zodiac 
+direction. 
+
+
++ The starting sub-dasa will be the second from scorpio - 
+i.e.Libra(AZD). 
+
+
+The sub-dasa periods are as follows: 
+Main Dasa - Scorpio 
+
+Dasa period - 7 years 
+
+Sub-dasa period - 7 months 
+
+
+June 1963 
+Jan 1064 
+
+
+—ar 
+——— 
+cancer| | Aug 1964 | Mar 1905 
+[Gemini | | Mar 1965 | ct 1965 
+
+
+[Aquarius | uly 1967 | Feb 1968 
+
+
+Sept 1968 | April 1969 
+
+
+Feb 1968 Sept 1968 
+April 1969 Nov 1969 
+
+
+Chapter 9 
+
+
+INTERPRETATION OF RASI (Chara) DASA 
+
+
+Though chara dasa explained in this book is normally described 
+as ayurdasa by the ancient commentators, Sage Parasara 
+treated it as phalitha dasa and described it as below. For the full 
+details, the reader is advised to refer BPHS. 
+
+
+1. 
+
+
+The results of a Rasi are interpreted on the basis of the 
+strength of its Lord. 
+
+
+The results will be full, medium and poor based on the 
+strength of its Lord being strong, medium and weak 
+respectively. 
+
+
+The Dasa of a rasi having a benefic planet as its Lord or 
+if a benefic planet is posited therein, the results of that 
+Dasa will be auspicious. 
+
+
+During the Dasa of an auspicious rasi, when a malefic 
+planet posited in it, the rasi will deliver favourable 
+results first and then unfavourable results follow. 
+
+
+During the Dasa of an inauspicious rasi, when a benefic 
+posited in it, the rasi will deliver unfavourable results 
+first and then favourable results follow. 
+
+
+During the Dasa ofan auspicious rasi, when benefic and 
+malefic planets are posited in it, the rasi will deliver 
+unfavourable results first and then favourable results 
+follow. 
+
+
+During the Dasa of an inauspicious rasi, when a malefic 
+posited in it, the rasi will deliver unfavourable results 
+(mental and bodily sufferings) throughout its Dasa 
+period. 
+
+
+There will be success and favour from the Government 
+during the Dasa of a rasi, if benefics are posited in 2nd 
+and 5" from that rasi. 
+
+
+46 
+
+
+13. 
+
+
+14, 
+
+
+15. 
+
+
+16. 
+
+
+17. 
+
+
+20. 
+
+
+2 
+
+
+— 
+
+
+There will be unfavourable results during the Dasa of a 
+rasi, if malefics are posited in 2" and 5" from that rasi.' 
+
+
+. There will be success and victory during the Dasa of a 
+
+
+rasi, if malefics are posited in 3d and 6in from that rasi. 
+
+
+. There will be troubles and failure during the Dasa of a 
+
+
+rasi, if benefics are posited in 31d and 6m from that rasi. 
+
+
+. There will be success and gains during the Dasa of a 
+
+
+rasi, either benefics or malefics are posited in 11from 
+that rasi. 
+
+
+There will be happiness and good health during the 
+Dasa ofa rasi, if benefics are posited in 5th and 8th from 
+that rasi. 
+
+
+There will be troubles during the Dasa of a rasi, if 
+malefics are posited in 5th, 9 and 8 from that rasi. 
+
+
+There will be inclination towards one's own religion 
+during the Dasa of a rasi, if benefics are posited in 9th 
+from that rasi. 
+
+
+There will be converse results during the Dasa ofa rasi, 
+if malefics are posited in 9 from that rasi. 
+
+
+There will be mixed results during the Dasa ofa rasi, if 
+both benefics and malefics are posited in 9in from that 
+rasi. 
+
+
+. There may be trouble to the health of spouse during the 
+
+
+Dasa of a rasi, if malefics are posited in 7 from that 
+rasi. 
+
+
+. There may be displacement or loss of house during the 
+
+
+Dasa of a rasi, if malefics are posited in 4th from that 
+rasi. 
+
+
+There may be trouble to the son of the native during the 
+Dasa of a rasi, if malefics are posited in 5t from that 
+rasi. 
+
+
+. There may be trouble to the father of the native during 
+
+
+the Dasa ofa rasi, if malefics are posited in 9th from that 
+rasi. 
+
+
+47 
+
+
+22. 
+
+
+23. 
+
+
+24. 
+
+
+25. 
+
+
+26. 
+
+
+27. 
+
+
+28. 
+
+
+29. 
+
+
+30. 
+
+
+31. 
+
+
+32. 
+
+
+33. 
+
+
+There may be degradation or loss of status during the 
+Dasa of a rasi, if malefics are posited in 10th from that 
+rasi. 
+
+
+There may be all sorts of troubles and obstacles during 
+the Dasa of a rasi, if malefics are posited in 11th from 
+that rasi. 
+
+
+There may be all round success during the Dasa of a 
+rasi, if benefics are posited in 11™from that rasi. 
+
+
+There may be all round success and gain of wealth 
+during the Dasa ofa rasi, if benefics are posited in 
+Kendras from that rasi. 
+
+
+The Dasa of a rasi having a benefic planet posited in it 
+and a benefic planet is posited in the previous rasi; the 
+results of that Dasa will be auspicious. 
+
+
+The Dasa of a rasi having a malefic planet posited in it 
+and a malefic planet is posited in the previous rasi; the 
+results of that Dasa will be inauspicious. 
+
+
+There will be favourable results during the Dasa of a 
+rasi, if benefics are posited in 5, 8h and 12th from that 
+rasi. 
+
+
+There will be unfavourable results during the Dasa of a 
+rasi, if malefics are posited in 5th, 8h and 12th from that 
+rasi. 
+
+
+There will be favourable results during the Dasa of a 
+rasi, ifan exalted or own planet is posited in it. 
+
+
+There will be unfavourable results during the Dasa of a 
+rasi, if itis devoid of any planet. 
+
+
+There will be extra-ordinary properties during the Dasa 
+of a rasi, if Venus posited in 2" from that rasi. 
+
+
+There will be acquisition of Lands, vehicles and 
+properties during the Dasa of a rasi, if Moon has joined 
+with that Venus (posited in 2nd from that rasi). 
+
+
+48 
+
+
+34.There will be conflicts over parental properties during 
+the Dasa ofa rasi, if Rahu is posited in 2nd from that rasi. 
+
+
+But the native gets some kind of benefit during this 
+period. 
+
+
+Note: 
+
+
+1. The benefics rasis are Taurus, Libra, Sagittarius, Pisces, 
+
+
+Gemini and Virgo owned by benefics Venus, Jupiter and 
+Mercury respectively. 
+
+
+Before arriving at the conclusion, consider the Natal chart 
+along with transits of the planets over that Rasi. 
+
+
+49 
+
+
+Chapter 10 
+
+
+Analysis of Horoscope 
+& 
+TIMING of EVENTS 
+
+
+While delineating a horoscope, the important reference 
+locations to be considered are - 
+
+
++ Lagna 
+
+* Arudha lagna 
+
++ Upapada Lagna 
+
++ Atmakaraka 
+
+* Karakamsa Lagna 
+
+* Karakamsa rasi and 
+* Divisional charts 
+
+
+Care should be taken while delineating with reference to lagna. 
+Though there are other schools of thought, the order of 
+counting of houses (Bhavas) shall be considered in zodiac order 
+from ascendant. That is, for Cancer ascendant, First house is 
+Cancer, Second house is Leo, Third house is Virgo and so on. In 
+other words, irrespective of nature of Sign, whether it belongs 
+to Odd sign or Even sign, the counting and delineation shall be 
+done in normal zodiac order. However, Sign aspects and Yogas 
+shall be considered as per Jaimini system. 
+
+
+While delineating from Arudha Lagna, the order of counting 
+depends upon the type of sign - Odd or Even. If Cancer 
+happens to be Arudha lagna, then First house is Cancer, Second 
+house is Gemini, Third house is Taurus and so on. 
+
+
+50 
+
+
+A simple example will make it clear. Assume for Taurus 
+ascendant, Venus is in Gemini along with Mercury. 
+Automatically, Cancer becomes Arudha Lagna. While reading 
+from Lagna, Lagna lord Venus is in second house along with 
+second lord Mercury. While reading from Arudha Lagna Cancer, 
+third lord Venus is in second house along with second lord 
+Mercury. 
+
+
+From Upapada, Atmakaraka, Karakamsa Lagna, Karakamsa 
+Rasi and divisional charts, the reading is in zodiac order 
+normally. 
+
+
+Atmakaraka plays an important role while delineating. 
+Consider the following additional reference points as ascendant 
+while delineating. 
+
+
+1. Karakamsa Rasi in Janma Kundali (D-1 chart) 
+
+
+2. Karakamsa (Where Ak posited in Navamsa Kundali - 
+D-9) 
+
+
+3. Sign in which Ak is posited in Drekkana Kundali (D-3). 
+
+
+Amatya karaka place an important role in marriage, child birth, 
+elevation in employment and social status. Planetary positions, 
+aspects and yogas shall be considered as per Jaimini principles 
+only. 
+
+
+Marriage: 
+
+
+In timing of marriage, Upapada plays an important role. 
+Upapada is also known as Gowna pada. Arudha lagna or Lagna 
+pada is primary and Gowna pada is second in priority among all 
+the padas. 
+
+
+Upapada, second house to Upapada and Kalatra-Arudha (A7) 
+are important houses. Similarly, Venus, Moon and Ketu (who is 
+not malefic in Chara dasa) are important planets. Transit of 
+Jupiter is also an important factor. In Jaimini Jupiter represents 
+husband. 
+
+
+The possibility of marriage taking place is high in the following 
+conditions. 
+
+
+51 
+
+
+1. During dasa or antar-dasa of ULrasi dasa. 
+During dasa or antar-dasa of rasi dasa aspected by UL. 
+
+
+3. During dasa or antar-dasa of rasi having Venus, Moon 
+or Ketu in it. 
+
+
+4. During dasa or antar-dasa of rasi occupied or aspected 
+by Dk. 
+
+5. Transit of Jupiter on the second house from UL in 
+Janma kundali (D-1). 
+
+
+The natural tatwa and friendship or enmity among Ak and Dk 
+indicates the harmony between the wife and husband. If a 
+strong planet is posted in AL or 7t from it, the couple lives 
+happily. If AL and A7 are in quadrant or trine mutually, there 
+will be good understanding between wife and husband. 
+Otherwise, if they are in 6-8 position, the couple always quarrel 
+and there will not be any harmony between them. 
+
+
+Upapada or it's second house are important in matters related 
+to spouse. Benefic signs or benefic planets posited in these 
+houses ensures marital happiness and compatibility between 
+the couple. 
+
+
+Children: 
+
+
+Like in marriage, Upapada plays an important role in birth of 
+children and their nature. Upapada, 7in house from it and it's 
+navamsa rasi, Putra-Arudha and Putra karaka are important 
+while delineating regarding children. Similarly, their lords are 
+also to be considered. In Jaimini system Qt» house is considered 
+for children. Jupiter and 5th house are also to be considered. 
+
+
+Sun, Jupiter and Rahu bestow more children and Saturn, Moon 
+and Mercury cause less children. Now a days one or two 
+children are only the norm, unlike in earlier days. In some 
+cases there is delay or denial of children. A number of 
+combinations are available in Jaimini for these conditions. We 
+may have to consider these factors also, which will be dealt in 
+advance studies. 
+
+
+In Smt. Indira Gandhi's chart, the marriage and birth of 
+children occurred during the dasa of Pisces. Readers can verify 
+these facts with the principles mentioned earlier. 
+
+
+Marriage : 26.03.1942 In Pisces major dasa and Gemini 
+
+
+antar dasa. 
+
+| child birth: 20.11.1944 In Pisces major dasa and Libra 
+antardasa. 
+
+Il child birth: 14.12.1946 In Pisces major dasa and Venus 
+antardasa. 
+
+
+Chapter 11 
+
+
+LONGEVITY 
+
+
+In Earlier days, longevity was being considered first, before 
+going into the other details of a horoscope. It serves two 
+purposes - the first being to assess the yogas whether they are 
+going to fructify and the second being to plan ones life, 
+something akin to know the retirement date for future 
+planning. 
+
+
+The accuracy of longevity is supposed to be very high in Jaimini 
+system. Sage Jaimini has introduced a number of Ayur-Dasas 
+exclusively to calculate longevity not only for the native, but 
+also for his close relatives (or Kith & Kin). 
+
+
+However, in this chapter it is confined to calculate the span of 
+life rather than going into accurate calculation of longevity. 
+
+
+Life Span: 
+
+
+The full life soan of a human being is considered to be 100 years 
+by most of the astrological books. This full span has been 
+divided into 3 categories namely, Alpayu, Madhyayu and 
+Deerghayu. Thus- 
+
+
+a. The span of Alpayu is - upto33 years 
+b. The spanofMadhyayuis - from 33 years to 66 years 
+c. ThespanofDeerghayuis - from 66 years to 100 years 
+
+
+There are three methods to assess the life span. 
+Method I: 
+To assess the Longevity, comparison of the locations of the 
+
+
+following should be examined - 
+
+
+54 
+
+
+a) Lagna Lord and Eighth Lord 
+b) Lagna and Moon rasi 
+c) Lagna and Hora Lagna 
+
+
+a) The location of the Lagna Lord and the eighth Lord has 
+a significant influence on the Longevity of the Native. 
+Jaimini Sutras are very clear in spelling out the Criteria, 
+which are detailed below. 
+
+
+b) In the above, two factors are involved. (i). Lords and 
+(ii). Rasis. 
+
+
+Alpayu: 
+° If both the factors are placed in sthira rasis or 
+
+
+° If either one is in chara rasi and the other one is in 
+dwiswabhava rasi. 
+
+
+Madhyayu: 
+: If both the factors are placed in dwiswabhava rasis or 
+
+
+° lf either one is in chara and the other one is in sthira 
+rasi. 
+
+
+Deerghayu: 
+If both the factors are placed in chara rasis or 
+
+
+° lf either one is in sthira rasi and the other one is in 
+dwiswabhava rasi. 
+
+
+The assessment shall be made for all the three sets of factors. If 
+two or three sets of factors conform to one type of the life span, 
+then that shall be adopted. In case the 3 sets indicate three 
+different type of ayurdayas, then the ayurdaya indicated by 
+Lagna and Hora-lagnashall be adopted. 
+
+
+However, when three different ayurdayas are indicated by the 
+three sets and Moon is either in lagna or 7" house, then the 
+ayurdaya indicated by Lagna and Moon shall be adopted. 
+
+
+55 
+
+
+Note: Since Jaimini uses 'Manda' for both Janma Lagna and 
+also for Saturn, there are variations in interpretations of this 
+sutra while determining the Longevity. Some scholars consider 
+the rasis occupied by Moon and Saturn for application of the 
+above rule. 
+
+Savayava Hora-Lagna is chiefly used in assessing the span of 
+life. The procedure to determine Savayava Hora Lagna has 
+explained earlier in this book. 
+
+
+Method II: 
+
+
+Determine the stronger of 8th Lord from Lagna or 8th Lord from 
+7" house. From Lagna if that Lord is in Kendra, it is 
+Dheerghayu; if he is Panapara it is Madhyayu; and if he is in 
+Apoklima, itis Alpaayu. 
+
+
+Method ITI: 
+
+
+Determine the stronger of 8th Lord from Atmakaraka or 8th 
+Lord from 7" house from Atmakaraka. From Ak if that Lord is in 
+Kendra, it is Dneerghayu; if he is Panapara it is Madhyayu; and 
+ifhe is in Apoklima, it is Alpaayu. 
+
+However, if Atmakaraka is placed in 9" house from lagna, then 
+alpayu becomes deergayu or deergayu becomes alpayu. But 
+madhyu remains same. It does not get altered. 
+
+
+Now the assessment of life span shall be made from all the 
+three methods. If two or three methods conform to one type of 
+the life span, then that shall be adopted. In case the three 
+methods indicate three different type of ayurdayas, then the 
+ayurdaya indicated by the strongest of Lagna, Hora-lagna and 
+Atmakaraka shall be adopted. 
+
+
+Each span of life is known as 'Kakshya’'. In this context, 
+reduction in kakshya means reduction of ayurdaya by one 
+category - i.e., if the longevity is madhyayu, kakshya reduction 
+
+
+56 
+
+
+means it becomes alpayu. In the case of a native being 
+categorized as alpayu, there cannot be kakshya reduction. In 
+a similar way, kakshya increase means it becomes dheerghayu. 
+The kakshya increase cannot be applied to a native already 
+classified as dheerghayu. The longevity arrived by the above 
+methods is subjected to the following corrections - 
+
+
+Kakshya reduction: This is also known as 'kakshya bras’. 
+Reduction of Kakshya can occur under the following conditions. 
+
+
+When 8th Lord from Lagna or 8th Lord from 7th house 
+joins or becomes Atmakaraka. 
+
+
+When Atmakaraka or 7th from Atmakaraka is hemmed 
+between malefics or malefics in trikonas. 
+
+
+When Atmakaraka being a malefic and is debilitated or 
+associated with malefic planets. 
+
+
+When Lagna and the 7 house are hemmed between 
+malefic or have malefic in Trikona from them. 
+
+
+When Saturn is involved in determining the longevity - 
+if he is debilitated or in enemy sign or subject to 
+malefic aspect, there is reduction of kakshya. 
+However, if he is in his own house or exalted then there 
+is no reduction in kakshya. 
+
+
+Kakshya increase: This is also known as 'kakshya vriddhi'. 
+Increase of Kakshya can occur under the following conditions. 
+
+
+When Jupiter is in Lagna or in 7th house and has no 
+malific association. 
+
+
+When Jupiter has benefics on either side of him or ina 
+trikona from him. 
+
+
+When Lagna and the 7tn house are hemmed in between 
+benefics. | 
+
+
+57 
+
+
+When Atmakaraka and 7" from Atmakaraka are 
+hemmed in between benefics. 
+
+
+When the Benefics are posited present in Lagna or 7» 
+house or in a trikona from them. 
+
+
+When the Benefics are with Atmakaraka or in the 
+trikonas from him. 
+
+
+When the Atmakaraka being a benefic planet and is 
+not debilitated. 
+
+
+A number of Ayurdasas have been indicated in Jaimini sutras. 
+Sthira dasa and Niryana Soola dasa are prominent among 
+them. A brief description of them are given here. While 
+assessing the time of death, planets designated as Brahma, 
+Maheswara and Rudra play an important role. 
+
+
+Brahma: For computing Sthira dasa and for timing of death, 
+Brahma plays an important role. A planet becomes Brahma by 
+having certain criteria. 
+
+
+Ifthe lord of 8" from Atmakaraka is posited in 3° from 
+Atmakaraka, then he becomes Brahma. 
+
+
+Ascertain the stronger of Lagna or 7” house. 
+
+
+Ascertain the the strongest of the lords of 6", 8" and 
+12" from the stronger of the above. 
+
+
+If thestrongest planet of the above is posited in an odd 
+rasi within visible half (that is from the starting point of 
+Lagna to the 7" house in anti-zodiac direction), then 
+the planet becomes Brahma. 
+
+
+If Saturn, Rahu or Ketu becomes eligible as Brahma by 
+above rules, then that planet is called nominal 
+Brahma. The real Brahma is the 6” planet from the 
+nominal Brahma, the order of counting being Sun, 
+Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu 
+and Ketu. 
+
+58 
+
+
+In case no planet is eligible to become Brahma by 
+above rules, then a planet in 8" house from Lagna /AK 
+is Brahma. 
+
+
+If no planet is posited in 8" house, then the lord of 8" 
+house becomes Brahma. 
+
+
+If more than one planet becomes eligible to become 
+Brahma select the planet having highest longitude. 
+
+
+Even then, If more than one planet becomes eligible to 
+become Brahma as identified above select the one 
+having Rasi-Bala. 
+
+
+Brahma plays an important role in sthira dasa and 
+Brahma dasa. 
+
+
+Maheswara: 
+
+
+Lord of 8" house from Atmakaraka is Maheswara. 
+
+
+Ifthe above planet is exalted or in his own house, then 
+the stronger of 8" and 12" lords from Atmakaraka 
+becomes Maheswara. 
+
+
+If Rahu or Ketu join Atmakaraka or in the 8" house 
+from Atmakaraka, then the 6” planet from Sun 
+becomes Maheswara. 
+
+
+If more than one planet becomes eligible to become 
+Maheswara, then select the stronger one among them. 
+
+
+Maheswara is death inflicting planet. 
+
+
+The stronger of 8" and 2” lord from lagna becomes 
+Rudra. 
+
+
+The other planet, if aspected by malefic becomes 
+supplementary or nominal Rudra. 
+
+
+Rudra determines the extent of longevity. 
+
+
+59 
+
+
+Sthira Dasa: As the name indicates dasa periods are fixed for 
+all the horoscopes, unlike in chara dasa. All the chara rasis, 
+sthira rasis and dwiswabhava rasis have fixed periods of 7, 8 
+and 9 years respectively. The first dasa starts from the rasi, 
+where Brahma is posited and goes in regular Zodiac direction. 
+
+
+Niryana Soola dasa: This dasa starts from lagna or 7" house, 
+whichever is stronger. If starting dasa rasi is ODD, then the 
+order of dasa is zodiac direction. On the other hand, If starting 
+dasa rasi is EVEN, then the order of dasa is reverse to zodiac 
+direction. Dasa period is fixed as 9 years for all rasis. 
+
+
+Let us determine the matters discussed in this chapter for the 
+standard horoscope. 
+
+
+Indira Gandhi 
+DOB:19-11-1917 
+
+
+TOB:23:03 
+POB:81 E52; 25 N28 
+Died at 67 yrs. 
+
+
+Method I: 
+a. 
+7 Lagna lord Moon is posited in Capricorn rasi - chara 
+rasi. 
+
+
+7 Eighth Lord Saturn is posited in Cancer - chara rasi. 
+Hence, Deerghayu 
+
+
+60 
+
+
+° Lagna is Cancer - Chara rasi 
+
+. Moon is in Capricorn - Chara rasi 
+Hence, Deerghayu 
+
+Cc. 
+
+To find savayava hora lagna- 
+
+Lagna is cancer - even rasi; Time of birth is night. 
+
+, Duration of night hora - [(difference between Sunset 
+time on 19t% and sun rise time on 20tn Nov) / 12] =( 13 
+hrs, 17 mins /12)= 1 hr6mins. Or 1.1 hrs. 
+
+. Birth time is 23 hrs 03 mins. 
+
+: Time elapsed in night hora is (23.05-17.15)=5.9 hours 
+
+: Add 12+1 to integer, which becomes 18 
+
+‘ Janma Lagna is Cancer — even rasi. 
+
+: The 18th hora from birth rasi in anti-zodiac direction 
+will be Aquarius rasi. 
+
+* The savayava hora lagna will be Aquarius Rasi. This is 
+sthira rasi. 
+
+
+The rasis of Lagna and savayava hora lagna are Chara and 
+Sthira rasis respectively. 
+
+
+Two combinations indicate Deerghayu for the above native 
+in the First method. 
+
+
+Method II: 
+
+
+*  8tn Lord from Lagna lord is Saturn. 
+* 8th Lord from 7tn house is Sun. 
+* Among Saturn and Sun, Saturn is stronger. 
++ And that Saturn is in Kendra. 
+Hence, Deerghayu 
+
+
+61 
+
+
+Method III: 
+- 8" Lord from Atmakaraka is Saturn. 
+- 8" Lord from 7™ house is Sun. 
+@ Among Saturn and Sun, Saturn is stronger. 
+@ And that Saturn is in Kendra. 
+Hence, Deerghayu 
+
+
+All the three methods suggest that the native is Deerghayu. 
+Let us examine if the native suffers kakshya hrasva - 
+
++ For the above native, AK is Saturn. 
+
+@ The 8" Lord from Lagna is Saturn. 
+
+* Since Saturn is AK, there is Kakshya Hrasva 
+
+* Also, the AK is between two malefics - Ke and Ma. 
+
+
+Hence there is reduction in life span(Kakshya hras) 
+and the Native becomes Madhyayu. 
+Smt. Indira Ghandhi died at her 67" year. 
+
+
+To determine Brahma- 
++ Between Lagna and 7” house, the stronger is Lagna, 
+since AK is posited in it. 
+- 6" lord is Jupiter, 8" lord is Saturn and 12" lord is 
+Mercury. 
+* None of the above three lords are posited in odd rasi 
+in visible half of zodiac. 
+
+
+So the Eighth Lord - Saturn - supposed to be 
+Brahma. Since Saturn is not eligible to become 
+Brahma, the 6” planet from it becomes Brahma. 
+In this case Mars is Brahma. 
+
+
+62 
+
+
+To determine Maheswara - 
+* Lord of eighth house from AK is Saturn. 
+So Saturn is Maheswara for this Native. 
+To determine Rudra - 
+
+
+* Stronger of 8th and 2nq Lord from Lagna is Saturn itself, 
+since it also AK 
+
+
+So Saturn becomes Rudra for this native. 
+
+
+63 
+
+
+Miscellaneous 
+
+
+The Katapayadi Sankhya 
+
+
+The great men of the past have devised an easy 
+method to derivate the numbers through a formula 
+known as "Katapayadi Sankhya". This system has been 
+used even in classical Karnatak Music to indicate the 
+number of the Melakarta of any Raga. This formula is 
+derived from the Sanskrit alphabets grouped as under: 
+
+
+Kadi nava Ga | Gha | Gna Chha] Ja | Jha | Jna 
+ane aa 
+
+Tadi nava Tta Ddha | Nnah] Thai | Tthaj| Dna | Dhah 
+ate a a rs 17 a q z i 
+
+Padi pancha Pha Bha 
+
+ofe qe + 4 
+
+Yadhyashta Y La | Va | ShajShhal Sa | Ha 
+
+unre a a a e| @ 3 
+
+
+64 
+
+
+E: | 
+
+
+Na 
+
+
+pe) 
+
+
+The following is the method to determine the house number - 
+Take the first two alphabets referred to and determine the 
+corresponding numbers. 
+
+Reverse the numbers and divide by 12. The reminder 
+
+
+corresponds to the house number 
+
+Eg. - Let's examine word 'Pita’. 
+
+'Pa'is 1; 'tha’is 5; 'Pita'is 15 
+
+Reversing the above is 51. 
+
+Dividing by 12, reminder is 3 
+
+The house to be referred is 3 from ascendant. 
+
+
+Some more examples are indicated below: 
+
+
+Take the word ' Bhagya' 
+
+Bha is 4 
+
+Yais1 
+
+Bhagya is 41 . 
+
+Reversing & dividing by 12- reminder is 2 
+Word is 'mrutyu' 
+
+mais5 
+
+yais 1 
+
+murtyuis 51 
+
+Reversing & dividing by 12 - reminder is 3 
+
+
+Sloka 33 of 1°' Adhyaya and 1*' pada clearly states that the 
+Katapayadi system of number is applicable to only rasis and not 
+for planets. 
+
+
+Details of Adhyayas: 
+
+
+It is said that Sage Jaimini has given out his thoughts in 
+Eight Adhyayas, of which, only four Adhyayas are available and 
+the others are missing. The topics deliberated in the different 
+Adhyayas are as follows: 
+
+
+ist Adhyaya- 
+1st Chapter - Sangnaprakarana 
+2nd chapter- Karakamsa 
+3rd chapter - Effects of Arudhas 
+Ath chapter - Effects of Upa-pada 
+
+
+2nd Adhyaya - 
+1st Chapter - Longevity 
+2nd Chapter - Mrutya Nirnaya 
+3rd Chapter- Dasa systems 
+4th Chapter - Dasa / Antardasa 
+
+
+3rd Adhyaya - 
+1st Chapter - Raja Yoga 
+2nd Chapter - Details of death 
+3rd Chapter -Longevity 
+4th Chapter - Details of birth 
+
+
+4th Adhyaya - 
+
+
+1st Chapter - Characterstics of native 
+
+
+(Physical & Mental) 
+
+
+2nd Chapter - Details of birth before delivery 
+
+
+3rd Chapter - Stree Jataka 
+Ath Chapter - Details of birth 
+
+
+Commentaries on Jaimini Sutras: 
+
+
+Many scholars have written Commentaries on the Sutras 
+propounded by Sage Jaimini. Prominent among them are - 
+
+
+1. Jaimini Sutra- Commentary - 
+2. Jyotisha Phala Ratnamala-—s- 
+3. Jyothishya sara sangraha - 
+
+
+66 
+
+
+Krishna Mishra 
+Gottumukkala 
+Raghava Bhattu 
+
+
+4. Jaimini Sutrartha Prakashika -Akumalla Narasimha Suri 
+
+5. Kalpalatha - Somanatha s/o Krishna 
+Mishra 
+
+6. Jataka Rajeeyam - Singayarya 
+
+7. Gauthama Samihita - Gouthama 
+
+8. Vanchanadeeyam - Vanchanatha 
+
+9. Jaimini Sutram tika sahita - Venkatesha commentary 
+
+10.Jaiminiya SutraVritti - Balakrishnanda Saraswathi 
+
+11.Jaimini padyamruthadaahrutham - Durga Prasad Dwivedi 
+
+12.Arudha Ratna Siddanjanamu_- Siddanatha 
+
+
+13. Jaimini Sutras - Telugu Commentary - Lakshmanacharya. 
+14. Jaimini Sutrartha Vyahya -Tamkara Nrusimha Daivagna 
+15. Jaimini Jatakachandrika - Author not known 
+
+16. Jaimini Subhodini - Author not known 
+
+
+There are also some Commentaries by the authors of recent 
+times on Jaimini Sutrams. Prominent among them are - 
+
+
+a. B.Suryanarayana Rao ~- Jaimini Sutras 
+
+b. PS. Sastry - Jaimini Sutram 
+
+c. B.V.Raman - Studies in Jaimini astrology 
+
+d. Sanjay Rath -Jaimini Maharshi's 
+Upadesha Sutras 
+
+e. lranganti Rangacharya - Jaimini Sutramritam 
+
+f. | Madhura Krishna Murthy Sastry - 
+
+
+Though he has not exclusively dealt with 
+Jaimini Sutras, 2nd part of his Bruhat Parasara 
+Hora Sastramu has dealt with Jaimini 
+principles and some of them are very 
+exhaustive. 
+
+
+ANNEXURE 
+a. Reason for having 7 chara karakas: 
+
+
+Parasara and some of the commentators on Jaimini sutras 
+compared Atmakaraka with a king. (BPHS:Karakaadhyaya:9- 
+12). When Atma-karaka is compared to a king, who is capable 
+of giving materialistic gains or physical troubles, then Rahu can 
+be considered for Atmakaraka. In that case there are 8 
+karakas, with the inclusion of Pitru karaka and order is i) 
+Atmakaraka, ii) Amatya Karaka, iii) Bhatru Karaka, iv) Matru 
+Karaka, v) PITRU Karaka, vi) Putra Karaka, vii) Gnati Karaka 
+and vii) DARA Karaka. 
+
+
+Jaimini compared Atmakaraka with the God and said he is 
+capable of giving salvation or attachment to materialistic 
+world. (JS:Adhyaya |:Pada I:Sutra 11). In this case Rahu 
+cannot give salvation. 
+
+
+Neither Parasara nor Jaimini has defined the exaltation or 
+Moolatrikona points for Rahu, even though some of the 
+commentators had given different rasis for exaltation of Rahu 
+and Ketu. There is no uniform thinking on this matter. None of 
+the commentators have mentioned about Moolatrikona house 
+for these planets. As such, Rahu being Atmakaraka cannot fulfil 
+the condition of being in exaltation or Moolatrikona. Even in 
+shadbala, Rahu and Ketu are not considered. When the span of 
+longevity is calculated, one of the parameters to be seen is 
+Lagna lord and 8" lord. For Cancer ascendant, Lagna lord is 
+Moon. For 8" lord, Saturn is being considered by all, but not 
+Rahu. 
+
+
+68 
+
+
+When we observe the order of seven chara karakas, they follow 
+the names of bhavas from lagna in order. Putra bhava follows 
+Matru bhava. In eight chara karaka scheme, it gets disturbed 
+since Pitru karaka follows Matru karaka, Which (Pitru Sthana) is 
+9" or 10"Bhava in normal Parasara scheme. 
+
+
+There is one more argument forwarded by the people following 
+8 chara karakas. Since, Atmakaraka is followed by Amatya 
+karaka, they equal Atmakaraka with a king only. Normally, in 
+this method, while calculating Arudha for Aquarius both Saturn 
+and Rahu are considered. Arudha is counted from the one who 
+ever is strong among these two. Similarly for Scorpio also. 
+
+
+However, majority of the astrologers do not consider Rahu and 
+Ketu at all while plotting Arudhas. 
+
+
+Hence, SEVEN karaktwas are only considered in this book. 
+b. Rules followed in calculating Arudhas. 
+
+
+Different methods are prevailing in calculation of Arudhas also. 
+Normally, Arudha is placed as many rasis from the lord, as he is 
+away from a Bhava, with an exception for kendras. 
+
+
+Most of the people follow the exceptions mentioned by 
+Parasara saying that the Arudha cannot fall in the same rasi, 
+where its lord is posited or 7" house from there. They place the 
+Arudha in the 10" place from the place it falls. In this method, 
+when the Bhavadhipathi is in the same house or in 7 house 
+from there off, then 10" house from that Bhava becomes 
+Arudha. Similarly, when the Bhavadhipathi is in 4™ or 10" 
+house, then 4" house from that Bhava becomes Arudha. 
+
+
+69 
+
+
+In another method people do not consider this exception. They 
+plot the Arudha, wherever it falls as per the normal rule be it 
+the same house or 7 house. 
+
+
+Yet in another method, this exception is applied only for 7, 
+house and 10" house. When the Bhavadhipathi is in a Bhava, 
+then the same Bhava becomes Arudha for that Bhava. When 
+the Bhavadhipathi is in 4" house, then 4" house itself is Arudha. 
+When the Bhavadhipathi is in 7" house, then 10" house is 
+Arudha. When the Bhavadhipathi is in 10" house, then 7 house 
+is Arudha. 
+
+
+Considering exceptions mentioned by Sage Parasara, the first 
+method is only adopted in this book. 
+
+
+c. Dual Lordship: 
+
+
+Karakas are five types, depending upon the situation. While 
+considering the strength between Saturn and Rahu or Mars and 
+Ketu, some consider the planet among the two, who is 
+associated with Atmakaraka to be strong. 
+
+
+If Saturn or Mars happens to be Atmakaraka they are 
+considerred first, otherwise the association or aspect of the lord 
+of the sign(not Atmakaraka), in which it is placed or the 
+association or aspect of Jupiter or Mercury is considered for 
+determining the strength of the planet among the two. 
+
+
+d. Karakamsa-Rasi: There is a considerable debate on this 
+subject. The sign in which the Atmakaraka posited in Navamsa 
+is normally referred as Karakamasa. However, the word 
+Swamsa has been interpreted differently. Some take it as lagna 
+of Navamsa kundali. Some refer it as the position occupied by 
+Atmakaraka in Navamsa Kundaili. 
+
+70 
+
+
+e. Dasa Varshas: There are major differences while 
+computing the years for a rasi. The rule says one year for each 
+rasi from rasi to rasi lord. Normal practice is to count from rasi 
+considering it as zero till the sign where lord of rasi is posited. If 
+Mars is in Gemini, it is counted as 2 years for Aries sign. That is 
+Aries to Taurus one year and from Taurus to Gemini the 2nd year. 
+However, some count it as 3 years considering Aries as one, 
+Taurus is two and Gemini as the 3 year (This has been found 
+even among the earlier commentators also). In this system, 
+there will be 12 years twice ( firsttime when the planet is in first 
+house, being swakshetra and second time when the planet is in 
+12th house), where as there will be no one year term atall. 
+
+
+Another major difference is adding one year for exaltation and 
+subtracting one year for debilitation. Some do not apply itatall. 
+
+
+In this book adding of one year for exaltation and subtracting of 
+one year for debilitation is followed except in two conditions. 
+
+
+1. When Mercury is in Virgo, 12 years are taken. No 
+addition of one year for exaltation. 
+
+2. When Jupiter is in Capricorn, 1 year is taken. No 
+subtraction of one yearfor debilitation. 
+
+
+71 
+
+
+EPILOGUE 
+
+
+| am an ardent student of Jaimini. When | started teaching 
+Jaimini in Bharathiya Vidya Bhavan at Bangalore, | had a 
+problem - where to start. All the books available in the market 
+are translations of Jaimini sutras. The order of chapters and 
+quarters (adhyayas and Padas) are not systematically 
+arranged in Jaimini Sutras. The chapters dealing with Jaimini 
+system in Parasara Hora Sastra are arranged in a more 
+systematic way than Jaimini Sutras 
+
+
+To certain extent Sri B.V. Raman's book ‘Studies in Jaimini' had 
+helped me. Study of various available works of Jaimini system 
+made me to think and | realised that there is a necessity for a 
+book on the subject for beginners. It resulted in an urge for 
+writing a book. This work which is in a lucid form for beginners 
+and for their easy understanding, is based on the principles laid 
+down by Sage Parasara. 
+
+
+| am only a student of astrology. | request the readers to 
+pardon mefor mistakes, ifany, committed inadvertently. 
+
+
+When | started working on the book, again | had a problem 
+regarding each topic, because of different schools of thought. 
+Be it 7 Chara Karakas or 8 Chara Karakas, Arudhas or for that 
+matter each and every topic on the subject. It is because of the 
+complicity of sutras. Each word has got different meanings and 
+each translator had taken the meaning what he felt was most 
+appropriate. Few points are given to understand it better. 
+
+
+Chara karakas 
+Arudhas 
+
+Dual Lordship 
+Karakamsa-Rasi 
+Dasa Varshas 
+
+
+and many more. 
+
+
+The different schools of thought, is not only now, they were 
+existing even among earlier commentators of about 300 - 600 
+years ago. 
+
+
+There is an urgent need NOW that all the scholars and 
+others who have worked seriously on this subject come 
+together and evolve a common mode to the extent 
+possible. 
+
+
+73 
+
+
