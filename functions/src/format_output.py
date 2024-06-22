@@ -1,8 +1,69 @@
+charts_info = {
+    "Rasi": {
+        "description": "The Rasi chart, also known as the natal chart or birth chart, is the primary chart in Vedic astrology. It represents the positions of the planets at the time of an individual's birth. This chart provides a comprehensive overview of a person's personality, life path, strengths, and weaknesses. It is fundamental for overall analysis and interpretation of an individual's horoscope."
+    },
+    "Navamsa": {
+        "description": "The Navamsa chart, also known as the D9 chart, is a divisional chart derived from the main Rasi chart. It is used for assessing marriage, relationships, and spiritual inclinations. This chart is crucial for understanding the finer aspects of an individual's life, particularly marital and spiritual matters."
+    },
+    "Hora": {
+        "description": "The Hora chart, or the D2 chart, divides each sign into two parts. It is used for analyzing wealth, financial prospects, and resources. This chart is important for understanding an individual's financial status and wealth accumulation potential."
+    },
+    "Drekkana": {
+        "description": "The Drekkana chart, or the D3 chart, divides each sign into three parts. It focuses on siblings, courage, and efforts. This chart helps in understanding relationships with siblings and the nature of an individual's efforts and initiatives."
+    },
+    "Chaturthamsa": {
+        "description": "The Chaturthamsa chart, or the D4 chart, is used for analyzing properties, fixed assets, and overall happiness. This chart is crucial for understanding matters related to property and home life."
+    },
+    "Panchamsa": {
+        "description": "The Panchamsa chart, or the D5 chart, is associated with intelligence, knowledge, and children. This chart is important for assessing creativity, intellectual abilities, and progeny."
+    },
+    "Shasthamsa": {
+        "description": "The Shasthamsa chart, or the D6 chart, focuses on health, diseases, and obstacles. This chart is essential for analyzing health issues and potential challenges in life."
+    },
+    "Saptamsa": {
+        "description": "The Saptamsa chart, or the D7 chart, is used for analyzing progeny and reproductive potential. This chart is important for understanding matters related to children and lineage."
+    },
+    "Ashtamsa": {
+        "description": "The Ashtamsa chart, or the D8 chart, is related to longevity, sudden events, and inheritance. This chart is crucial for understanding life span, unexpected changes, and inherited wealth."
+    },
+    "Dasamsa": {
+        "description": "The Dasamsa chart, or the D10 chart, focuses on career, profession, and public life. This chart is essential for analyzing professional success and career prospects."
+    },
+    "Rudramsa": {
+        "description": "The Rudramsa chart, or the D11 chart, is associated with gains, achievements, and friends. This chart is important for understanding financial gains and social network."
+    },
+    "Dwadasamsa": {
+        "description": "The Dwadasamsa chart, or the D12 chart, is used for analyzing parental influences and family heritage. This chart is crucial for understanding one's relationship with parents and ancestral lineage."
+    },
+    "Shodasamsa": {
+        "description": "The Shodasamsa chart, or the D16 chart, focuses on vehicles, luxuries, and comforts. This chart is important for assessing one's enjoyment of material comforts and luxuries."
+    },
+    "Vimsamsa": {
+        "description": "The Vimsamsa chart, or the D20 chart, is associated with spiritual progress and religious inclinations. This chart is crucial for understanding an individual's spiritual journey and religious activities."
+    },
+    "Siddhamsa": {
+        "description": "The Siddhamsa chart, or the D24 chart, focuses on education, learning, and scholarly pursuits. This chart is important for assessing academic success and intellectual capabilities."
+    },
+    "Nakshatramsa": {
+        "description": "The Nakshatramsa chart, or the D27 chart, is associated with detailed analysis of mental stability and temperament. This chart is crucial for understanding psychological traits and emotional well-being."
+    },
+    "Trimsamsa": {
+        "description": "The Trimsamsa chart, or the D30 chart, focuses on misfortunes, diseases, and hidden weaknesses. This chart is important for identifying potential challenges and vulnerabilities."
+    },
+    "Khavedamsa": {
+        "description": "The Khavedamsa chart, or the D40 chart, is associated with auspicious and inauspicious effects in life. This chart is crucial for a detailed understanding of specific influences on one's life."
+    },
+    "Shashtyamsa": {
+        "description": "The Shashtyamsa chart, or the D60 chart, focuses on past life karma and its effects on the current life. This chart is important for a comprehensive understanding of karmic influences and life purpose."
+    }
+}
+
 
 def structure_chart_output(chart_name, output):
     # Initialize the structured output dictionary
     structured_output = {
         "chart_name": chart_name,
+        "charts_description": charts_info[chart_name]["description"],
         "data": []
     }
     
